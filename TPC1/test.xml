@@ -1043,8 +1043,7 @@ Vid.- ácido graxo
 = agamaglobulinemia
  Nota.- Designa un ‘estado de deficiencia > inmunolóxica caracterizado por concentración moi baixa de todas as clases de globulinas > gamma no sangue’. Cfr. con “hipogammaglobulinemia”.
 ###C 108 aglutinación f
-#Area Probas complementarias 
-#Area Etiopatoxenia
+#Area Probas complementarias Etiopatoxenia
 @ es 
 = aglutinación
 @ en 
@@ -3340,7 +3339,7 @@ Vid.- anxiotomía
 ###R aorta 
 Vid.- arteria aorta
 ###C 357 aortite f
-= Patoloxías
+#Area Patoloxías
 @ es 
 = aortitis
 @ en 
@@ -4938,7 +4937,7 @@ Vid.- estéril
 = assimetria ventricular
 ###___
 ###C 508 asintomático -ca a
-= Termos xerais
+#Area Termos xerais
 @ es 
 = asintomático
 @ en 
@@ -9981,7 +9980,7 @@ Vid.- razón de probabilidade
 @ pt 
 = coeficiente de correlação
 ###C 1023 coeficiente de variación m
-= Epidemioloxía
+#Area Epidemioloxía
 @ es 
 = coeficiente de variación
 @ en 
@@ -42176,7 +42175,7 @@ Vid.- recursos sanitarios
 @ pt 
 = reflexo bulbocavernoso; reflexo bulbo-cavernoso
 ###C 4359 reflexo corneal m
-= Semioloxía
+#Area Semioloxía
 @ SIN.- reflexo palpebral
 @ es 
 = reflejo corneal
@@ -48337,7 +48336,7 @@ Vid.- suor
 @ pt 
 = transporte passivo
 ###C 4990 transposición f
-= Xenética
+#Area Xenética
 @ es 
 = transposición
 @ en 

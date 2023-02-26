@@ -1,4 +1,5 @@
 import re
+import json
 
 def remove_header_footer(txt):
     txt = re.sub(r'font="1">ocabulario.*', r'###', txt)
@@ -61,8 +62,13 @@ def correctER(txt):
     return txt
 
 def tagArea(txt):
-    txt = re.sub(r'(###C.*\n)font="6"><i>(.*)</i>',r'\1#Area \2', txt)
-    txt = re.sub(r'(#Area.*\n)font="6"><i>(.*)</i>',r'\1#Area \2', txt)
+    txt = re.sub(r'(###C.*\n)font="[67]"><i>(.*)</i>',r'\1#Area \2', txt)
+    txt = re.sub(r'(#Area.*)\nfont="[67]"><i>(.*)</i>',r'\1\2', txt)
+    # rez = re.findall(r'#Area.*',txt)
+    # for r in rez:
+    #     print(r)
+    # txt = re.sub(r'(###C.*\n)font="7"><i>(.*)</i>',r'\1#Area \2', txt)
+    # txt = re.sub(r'(#Area.*\n)font="7"><i>(.*)</i>',r'\1#Area \2', txt)
 
     return txt 
 
@@ -125,9 +131,9 @@ txt = correctEC(txt)
 
 txt = correctER(txt)
 
-txt = tagTraducao(txt)
-
 txt = tagArea(txt)
+
+txt = tagTraducao(txt)
 
 txt = notasSinVar(txt)
 
@@ -147,7 +153,7 @@ def storeEC(e, page, dicC):
     # print(aux)
     info = {}
     for i,elem in enumerate(aux):
-        # print(elem)
+        # print(str(i) + elem)
         if i==0:
             # print(elem)
             numero_indice = elem[0]
@@ -160,9 +166,10 @@ def storeEC(e, page, dicC):
             info["género"] = gender
             info["página"] = page
             # dicC[termo] = info
-       
-        # res = re.search(r'#Area (.*)',elem)
-        # info["área"] = res.group(1)
+        else:
+            # if re.search(r'#Area(.*)',elem): print("asdjasdoidas")
+            res = re.search(r'#Area (.*)',elem)
+            info["área"] = res
         
         dicC[termo] = info
 
@@ -191,6 +198,9 @@ def storeInfo(txt):
             # print(e[1:].strip())
             dicC = storeEC(e[1:].strip(),page,dicC)
     
+    json_object = json.dumps(dicR, indent = 4, ensure_ascii=False) 
+    with open('medicina.json', 'w') as f:
+        f.write(json_object)
     # print(dicR)
     # print(dicC)
 
