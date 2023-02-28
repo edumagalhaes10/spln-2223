@@ -1,5 +1,6 @@
 import re
 import json
+import math
 
 def remove_header_footer(txt):
     txt = re.sub(r'font="1">ocabulario.*', r'###', txt)
@@ -64,16 +65,11 @@ def correctER(txt):
 def tagArea(txt):
     txt = re.sub(r'(###C.*\n)font="[67]"><i>(.*)</i>',r'\1#Area \2', txt)
     txt = re.sub(r'(#Area.*)\nfont="[67]"><i>(.*)</i>',r'\1\2', txt)
-    # rez = re.findall(r'#Area.*',txt)
-    # for r in rez:
-    #     print(r)
-    # txt = re.sub(r'(###C.*\n)font="7"><i>(.*)</i>',r'\1#Area \2', txt)
-    # txt = re.sub(r'(#Area.*\n)font="7"><i>(.*)</i>',r'\1#Area \2', txt)
 
     return txt 
 
 def tagTraducao(txt):
-    txt = re.sub(r'font="0">(.*)',r'@\1', txt)
+    txt = re.sub(r'font="0">\s*(.*)',r'@\1', txt)
     txt = re.sub(r'@(;)',r'=\1', txt)
     txt = re.sub(r'font="7"><i>(.*)</i>',r'= \1', txt)
 
@@ -92,23 +88,30 @@ def cleanFontVid(txt):
 
 def notasSinVar(txt):
     while re.search(r'font="9">.*\nfont="9">.*\n',txt):
-        txt = re.sub(r'font="9">(.*)\nfont="9"(.*)\n', r'\1\2', txt)
+        txt = re.sub(r'(font="9">.*)\nfont="9">(.*)\n', r'\1\2\n', txt)
    
     while re.search(r'font="5">.*\nfont="5">.*\n',txt):
-        txt = re.sub(r'font="5">(.*)\nfont="5">(.*)\n', r'\1\2\n', txt)
+        txt = re.sub(r'(font="5">.*)\nfont="5">(.*)\n', r'\1\2\n', txt)
 
     txt = re.sub(r'@\s*(VAR\.-.*)\n', r'\1\n', txt)
 
     txt = re.sub(r'font="9">(.*)\n', r'\1\n', txt)
     txt = re.sub(r'font="5">(.*)\n', r'\1\n', txt)
-    
+        
     return txt
 
 def correctStuff(txt):
     txt = re.sub(r'font="7">(.*)',r'= \1', txt)
     txt = re.sub(r'(.*)\nfont="6"><i>(.*)</i>', r'\1 \2', txt)
+    txt = re.sub(r'\s*(SIN\.-.*)\n;(.*)\n', r'\1\2\n', txt)
+    txt = re.sub(r'\s*(SIN\.-.*)\n\s*(\(.*)\n', r'\1\2\n', txt)
+    txt = re.sub(r'(#Area.*)(SIN\.-.*)\n', r'\1\n\2\n', txt)
+    txt = re.sub(r'@(SIN\.-.*)\n@(REL.*)\n', r'\1\2\n', txt)
+
+    #Traduções numa só linha:
+    txt = re.sub(r'(@.*)\s*\n(=.*)', r'\1 \2', txt)
+
     txt = re.sub(' +', ' ', txt)
-    # txt = re.sub(r'^\s+',r'',txt)
 
     return txt
 
@@ -142,11 +145,14 @@ txt = correctStuff(txt)
 
 def storeER(e, page, dicR):
     aux = re.split("\n",e)
-    dicR[aux[0].strip()] = {"definição":aux[1].strip(), "página":page}
-    # print(page)
-    # print(aux[:-1])
+    val = {"Definição":aux[1].strip(), "Página":page}
+    if aux[0].strip() in dicR.keys(): 
+        dicR[aux[0].strip()].append(val)
+    else: 
+        dicR[aux[0].strip()] = [val]
 
     return dicR
+
 
 def storeEC(e, page, dicC):
     aux = re.split("\n",e)
@@ -155,55 +161,72 @@ def storeEC(e, page, dicC):
     for i,elem in enumerate(aux):
         # print(str(i) + elem)
         if i==0:
-            # print(elem)
-            numero_indice = elem[0]
-            # print(numero_indice)
-            termo = elem[1:-1].strip()
+            numero_indice = int(re.search(r'^\d+', elem).group())  
+            digits = int(math.log10(numero_indice))+1
+
+            termo = elem[digits:-1].strip()
+
             # print(termo)
             gender = elem[-1]
             # print(gender)
-            info["número_índice"] = numero_indice
-            info["género"] = gender
-            info["página"] = page
-            # dicC[termo] = info
+            info["Termo"] = termo
+            info["Género"] = gender
+            info["Página"] = page
+            dicC[numero_indice] = info
         else:
-            # if re.search(r'#Area(.*)',elem): print("asdjasdoidas")
-            res = re.search(r'#Area (.*)',elem)
-            info["área"] = res
+            if re.search(r'#Area (.*)', elem):
+                res = re.search(r'#Area (.*)', elem).group(1)
+                info["Área"] = res
+            elif re.search(r'@(.*)\s=\s(.*)', elem):
+                res = re.search(r'@(.*)\s=\s(.*)', elem)
+                key = f'Tradução {res.group(1)}'
+                value = f'{res.group(2)}'
+                value = re.split(';',value)
+                strip_value = []
+                for val in value: 
+                    strip_value.append(val.strip())
+                
+                info[key] = strip_value
+            else:
+                res = re.search(r'\s*(.*)\.-?\s*(.*)', elem)
+                key = res.group(1)
+                value = f'{res.group(2)}'
+                value = re.split(';',value)
+                strip_value = []
+                for val in value: 
+                    strip_value.append(val.strip())
+                
+                info[key] = strip_value
         
-        dicC[termo] = info
-
-    # print(page)
-    # print(aux)
+        dicC[numero_indice] = info
 
     return dicC
 
 
 def storeInfo(txt):
-
     dicR = {}
     dicC = {}
     page = 20
     entradas = re.split("###",txt)
     entradas=entradas[1:]
-    # print(entradas)
-
+    # print(len(entradas))
     for e in entradas:
         if e == '___\n':
             page +=1
-            # print(page)
         elif e[0] == 'R':
             dicR = storeER(e[1:-1].strip(),page,dicR)
-        elif e[0] == "C":
-            # print(e[1:].strip())
+        elif e[0] == 'C':
             dicC = storeEC(e[1:].strip(),page,dicC)
-    
-    json_object = json.dumps(dicR, indent = 4, ensure_ascii=False) 
+        
+    # print(f'C = {len(dicC)}')
+    # print(f'R = {len(dicR)}')
+    json_objectRC = {"Entradas_Remissivas": dicR, "Entradas_Completas": dicC}
+    json_object = json.dumps(json_objectRC, indent = 4, ensure_ascii=False) 
     with open('medicina.json', 'w') as f:
         f.write(json_object)
-    # print(dicR)
-    # print(dicC)
+
 
 storeInfo(txt)
 
 print(txt)
+
