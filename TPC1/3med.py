@@ -107,6 +107,9 @@ def correctStuff(txt):
     txt = re.sub(r'\s*(SIN\.-.*)\n\s*(\(.*)\n', r'\1\2\n', txt)
     txt = re.sub(r'(#Area.*)(SIN\.-.*)\n', r'\1\n\2\n', txt)
     txt = re.sub(r'@(SIN\.-.*)\n@(REL.*)\n', r'\1\2\n', txt)
+    txt = re.sub(r'@(SIN.*)\s*\n', r'\1', txt)
+    txt = re.sub(r'\s*(SIN.*)\s*(VAR.*)\n', r'\n\1\n\2\n', txt)
+
 
     #Traduções numa só linha:
     txt = re.sub(r'(@.*)\s*\n(=.*)', r'\1 \2', txt)
@@ -188,9 +191,12 @@ def storeEC(e, page, dicC):
                 
                 info[key] = strip_value
             else:
-                res = re.search(r'\s*(.*)\.-?\s*(.*)', elem)
+                # print(elem)
+                res = re.search(r'\s*(.*)\.-\s*(.*)', elem)
                 key = res.group(1)
+                # print(f'key = {key}')
                 value = f'{res.group(2)}'
+                # print(f'value = {value}')
                 value = re.split(';',value)
                 strip_value = []
                 for val in value: 
@@ -230,3 +236,7 @@ storeInfo(txt)
 
 print(txt)
 
+
+# CORRIGIR PLURAL
+# Readme file 
+# makefile com alguns passos de teste de invariantes 

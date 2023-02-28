@@ -643,7 +643,8 @@ Vid.- hormona adrenocorticotrópica
 @pt = adsorvente
 ###C 97 adución f
 #Area Fisioloxía Anatomía
- SIN.- aproximación VAR.- addución
+SIN.- aproximación 
+VAR.- addución
 @es = adducción; aducción; aproximación
 @en = adduction
 @pt = adução; aproximação
@@ -1511,7 +1512,8 @@ Vid.- anosmia
 ###___
 ###C 235 anosmia f
 #Area Semioloxía
- SIN.- anosfrasia VAR.- anodmia
+SIN.- anosfrasia 
+VAR.- anodmia
 @es = anodmia; anosfrasia; anosmia
 @en = anodmia; anosmia; anosphrasia; anosphresia
 @pt = anodmia; anosmia
@@ -1765,7 +1767,8 @@ Vid.- contracepción
 Vid.- anticonvulsivo
 ###C 278 anticonvulsivo m
 #Area Farmacoloxía
- SIN.- antiepiléptico VAR.- anticonvulsionante
+SIN.- antiepiléptico 
+VAR.- anticonvulsionante
 @es = anticonvulsionante; anticonvulsivante; anticonvulsivo; antiepiléptico
 @en = anticonvulsant; antiepileptic
 @pt = anticonvulsionante; anticonvulsivo; antiepiléptico
@@ -1788,8 +1791,7 @@ Vid.- anticonvulsivo
 @pt = antidiarréico
 ###C 282 antídoto m
 #Area Farmacoloxía
-@SIN.- contraveleno; antitóxico; toxicida
-@es = antídoto; antitóxico; contraveneno
+SIN.- contraveleno; antitóxico; toxicida@es = antídoto; antitóxico; contraveneno
 @en = antidote; antitoxic; counterpoison; toxicide
 @pt = antídoto; antitoxico; contraveneno
 ###C 283 antiemético m
@@ -1971,7 +1973,8 @@ Vid.- antiprurixinoso
 Vid.- antiprurixinoso
 ###C 310 antiprurixinoso m
 #Area Farmacoloxía
- SIN.- antipsórico VAR.- antiprurítico; antipruritoso
+SIN.- antipsórico 
+VAR.- antiprurítico; antipruritoso
 @es = antipruriginoso; antiprurítico
 @en = antipruritic; antipsoric
 @pt = antipruriginoso; antiprurítico; antipruritoso
@@ -2018,8 +2021,7 @@ Vid.- antiprurixinoso
 Vid.- antipirético
 ###C 318 antitiroide m
 #Area Farmacoloxía
-@SIN.- axente antitiroide
-@es = agente antitiroideo; antitiroideo
+SIN.- axente antitiroide@es = agente antitiroideo; antitiroideo
 @en = antithyroid; antithyroid agent
 @pt = agente anti-tiróide; anti-tiróide
 ###R antitóxico
@@ -2342,8 +2344,7 @@ Vid.- estrinximento
 Vid.- ápice
 ###C 366 ápice m
 #Area Anatomía
-@SIN.- ápex
-@es = ápex; ápice
+SIN.- ápex@es = ápex; ápice
 @en = apex
 @pt = ápex
 ###C 367 aplasia f
@@ -2363,8 +2364,7 @@ Vid.- ápice
 @pt = apnéia
 ###C 370 apófise accesoria f
 #Area Anatomía
-@SIN.- proceso accesorio (m)
-@es = apófisis accesoria
+SIN.- proceso accesorio (m)@es = apófisis accesoria
 @en = accessory process
 @pt = apófise acessória
 @la = processus accessorius
@@ -2372,8 +2372,7 @@ Vid.- ápice
 Vid.- acromion
 ###C 371 apófise articular f
 #Area Anatomía
-@SIN.- proceso articular (m)
-@es = apófisis articular
+SIN.- proceso articular (m)@es = apófisis articular
 @en = articular process
 @pt = apófise articular; processo articular
 @la = processus articularis
@@ -2408,8 +2407,7 @@ Vid.- acromion
 @la = processus costalis; processus costiformis
 ###C 376 apófise espiñosa f
 #Area Anatomía
-@SIN.- proceso espiñoso (m)
-@es = apófisis espinosa
+SIN.- proceso espiñoso (m)@es = apófisis espinosa
 @en = spinous process
 @pt = apófise espinhosa; processo espinhoso
 @la = processus spinosus
@@ -2442,7 +2440,8 @@ Vid.- acromion
 @la = processus pterygoideus
 ###C 381 apófise xifoide f
 #Area Anatomía
- SIN.- proceso xifoide (m) VAR.- apófise xifoidea
+SIN.- proceso xifoide (m) 
+VAR.- apófise xifoidea
 @es = apófisis xifoide; apófisis xifoides
 @en = xiphoid process
 @pt = apófise xifóide; processo xifóide
@@ -2827,8 +2826,7 @@ Vid.- arteria ulnar
 @la = arteria profunda femoris
 ###C 433 arteria fibular f
 #Area Anatomía
-@SIN.- arteria peroneal
-@es = arteria fibular; arteria peronea
+SIN.- arteria peroneal@es = arteria fibular; arteria peronea
 @en = fibular artery; peroneal artery
 @pt = artéria fibular; artéria peroneal
 @la = arteria fibularis; arteria peronea
@@ -3321,7 +3319,8 @@ Vid.- asistencia domiciliaria
 Vid.- atención ambulatoria
 ###C 509 asistencia domiciliaria f
 #Area Organización sanitaria
- SIN.- atención domiciliaria VAR.- asistencia a domicilio
+SIN.- atención domiciliaria 
+VAR.- asistencia a domicilio
 @es = asistencia a domicilio; asistencia domiciliaria; atención domiciliaria
 @en = home care
 @pt = assistência domiciliar
@@ -3415,7 +3414,8 @@ Vid.- aspiración de medula ósea
 @pt = astenia
 ###C 522 astereognosia f
 #Area Semioloxía
- SIN.- agnosia táctil VAR.- estereoagnosia
+SIN.- agnosia táctil 
+VAR.- estereoagnosia
 @es = agnosia táctil; astereognosia; estereoagnosia
 @en = astereognosis; stereoagnosis; tactile agnosia
 @pt = agnosia táctil [Pt.]; agnosia tátil [Br.]; astereognósia
@@ -3672,13 +3672,15 @@ Vid.- autoexploración mamaria
 Vid.- autoexploración testicular
 ###C 561 autoexploración mamaria f
 #Area Probas complementarias
- SIN.- autoexame das mamas (m); autoexame mamario (m) VAR.- autoexploración das mamas
+SIN.- autoexame das mamas (m); autoexame mamario (m) 
+VAR.- autoexploración das mamas
 @es = autoexamen de las mamas; autoexamen mamario; autoexploración de las mamas; autoexploración mamaria
 @en = breast self-examination
 @pt = auto-exame das mamas; auto-exame mamário
 ###C 562 autoexploración testicular f
 #Area Probas complementarias
- SIN.- autoexame testicular (m); autoexame dos testículos (m) VAR.- autoexploración dos testículos
+SIN.- autoexame testicular (m); autoexame dos testículos (m) 
+VAR.- autoexploración dos testículos
 @es = autoexamen de los testículos; autoexamen testicular; autoexploración de los testículos; autoexploración testicular
 @en = testicular self-examination
 @pt = auto-exame dos testículos; auto- exame testicular
@@ -3744,7 +3746,8 @@ Vid.- envellecemento
 @pt = avitaminose; hipovitaminose
 ###C 572 axe m
 #Area Anatomía
- SIN.- vértebra C II (f); C II (sg) VAR.- axis
+SIN.- vértebra C II (f); C II (sg) 
+VAR.- axis
 @es = axis; C II (sg); vértebra C II
 @en = axis; C II (sg); C II vertebra; second cervical vertebra
 @pt = áxis; C II (sg); vértebra C II
@@ -3803,7 +3806,8 @@ Vid.- axe
 Vid.- axón
 ###C 577 axón m
 #Area Histoloxía
- SIN.- cilindroeixe [arc.] VAR.- axon
+SIN.- cilindroeixe [arc.] 
+VAR.- axon
 @es = axón; cilindroeje [arc.]
 @en = axis cylinder [arc.]; axon
 @pt = axônio; cilindro-eixo [arc.]
@@ -3834,7 +3838,8 @@ Vid.- bacilo ácido-alcol-resistente
 ###___
 ###C 582 bacilo ácido-alcol-resistente m
 #Area Etiopatoxenia
- SIN.- BAAR (sg) VAR.- bacilo ácido-alcohol-resistente
+SIN.- BAAR (sg) 
+VAR.- bacilo ácido-alcohol-resistente
 @es = BAAR (sg); bacilo ácido-alcohol- resistente
 @en = acid-fast bacillus; AFB (sg)
 @pt = BAAR (sg); bacilo álcool-ácido resistente
@@ -4366,7 +4371,8 @@ Vid.- costra
 @pt = botulismo
 ###C 665 bóveda cranial f
 #Area Anatomía
- SIN.- calota cranial; calota craniana VAR.- bóveda craniana
+SIN.- calota cranial; calota craniana 
+VAR.- bóveda craniana
 @es = bóveda craneal; calota craneal
 @en = skullcap
 @pt = abóbada craniana; calota craniana
@@ -4460,7 +4466,8 @@ Vid.- broncospasmo
 ###___
 ###C 680 broncospasmo m
 #Area Etiopatoxenia Semioloxía
- SIN.- espasmo bronquial VAR.- broncoespasmo
+SIN.- espasmo bronquial 
+VAR.- broncoespasmo
 @es = broncoespasmo; espasmo bronquial
 @en = bronchial spasm; bronchospasm
 @pt = broncoespasmo; broncospasmo; espasmo brônquico
@@ -4798,7 +4805,8 @@ Vid.- cámara vítrea
 Vid.- cambra
 ###C 731 cambra f
 #Area Semioloxía
- SIN.- breca [pop.] VAR.- cambia [pop.]
+SIN.- breca [pop.] 
+VAR.- cambia [pop.]
 @es = calambre
 @en = cramp
 @pt = cãibra
@@ -4852,8 +4860,7 @@ Vid.- clivus
 @pt = canal iônico [Br.]; canal iónico [Pt.]
 ###C 739 canal vertebral m
 #Area Anatomía
-@SIN.- conduto vertebral
-@es = canal vertebral; conducto vertebral
+SIN.- conduto vertebral@es = canal vertebral; conducto vertebral
 @en = spinal canal; vertebral canal
 @pt = canal vertebral
 @la = canalis vertebralis
@@ -4871,7 +4878,8 @@ Vid.- clivus
 Vid.- cancro
 ###C 742 cancro m
 #Area Patoloxías
- SIN.- tumor maligno; neoplasia maligna (f) VAR.- cáncer
+SIN.- tumor maligno; neoplasia maligna (f) 
+VAR.- cáncer
 @es = cáncer; neoplasia maligna; tumor maligno
 @en = cancer; malignant neoplasm; malignant tumor
 @pt = câncer; neoplasia maligna; tumor maligno
@@ -5100,7 +5108,8 @@ Vid.- carbúnculo
 Vid.- carbúnculo
 ###C 773 carbúnculo m
 #Area Patoloxías
- SIN.- carafuncho; solda (f); nacida (f) [pop.] VAR.- carbuncho
+SIN.- carafuncho; solda (f); nacida (f) [pop.] 
+VAR.- carbuncho
 @es = carbunco
 @en = anthrax
 @pt = carbúnculo
@@ -5425,7 +5434,8 @@ Vid.- catarro común
 Vid.- sonda
 ###C 824 cateterismo m
 #Area Terapéutica
- SIN.- sondaxe (f); intubación (f) VAR.- cateterización (f)
+SIN.- sondaxe (f); intubación (f) 
+VAR.- cateterización (f)
 @es = cateterismo; cateterización; intubación; sondaje
 @en = catheterism; catheterization; intubation
 @pt = cateterismo; cateterización; entubação; intubação; sondagem
@@ -5438,8 +5448,7 @@ Vid.- sonda
 Vid.- cateterismo
 ###C 826 cauda equina f
 #Area Anatomía
-@SIN.- cola de cabalo
-@es = cola de caballo
+SIN.- cola de cabalo@es = cola de caballo
 @en = cauda equina
 @pt = cauda equina
 @la = cauda equina
@@ -5732,8 +5741,7 @@ Vid.- célula NK
 ###___
 ###C 867 célula nai f
 #Area Histoloxía
-@SIN.- célula troncal; célula tronco
-@es = célula madre; célula troncal
+SIN.- célula troncal; célula tronco@es = célula madre; célula troncal
 @en = mother cell; stem cell
 @pt = célula-mãe; célula-tronco
 ###C 868 célula neuroendócrina f
@@ -6106,7 +6114,8 @@ Vid.- cinesiterapia
 Vid.- cinesiterapia
 ###C 927 cinesiterapia f
 #Area Terapéutica
- SIN.- cinesiatría VAR.- cinesioterapia
+SIN.- cinesiatría 
+VAR.- cinesioterapia
 @es = cinesiterapia; kinesiterapia; quinesiterapia
 @en = kinesiatrics; kinesiotherapy; kinesitherapy
 @pt = cinesiatria; cinesioterapia; cinesiterapia
@@ -6226,7 +6235,8 @@ Vid.- circulación sistémica
 Vid.- cirrose hepática
 ###C 943 cirrose alcohólica f
 #Area Patoloxías
- SIN.- cirrose hepática alcohólica; cirrose hepática alcólica VAR.- cirrose alcólica
+SIN.- cirrose hepática alcohólica; cirrose hepática alcólica 
+VAR.- cirrose alcólica
 @es = cirrosis alcohólica; cirrosis hepática alcohólica
 @en = alcoholic cirrhosis; alcoholic liver cirrhosis
 @pt = cirrose alcoólica; cirrose hepática alcoólica
@@ -6570,7 +6580,8 @@ Vid.- andropausa
 Vid.- clitoridectomía
 ###C 999 clitoridectomía f
 #Area Terapéutica
- SIN.- ablación do clítoris VAR.- clitorectomía
+SIN.- ablación do clítoris 
+VAR.- clitorectomía
 @es = clitorectomía; clitoridectomía
 @en = clitorectomy; clitoridectomy
 @pt = clitorectomia; clitoridectomia
@@ -6720,8 +6731,7 @@ Vid.- razón de probabilidade
 @pt = co-dominante
 ###C 1021 codón m
 #Area Xenética
-@SIN.- triplete
-@es = codón; triplete
+SIN.- triplete@es = codón; triplete
 @en = codon; triplet
 @pt = codão [Pt.]; códon [Br.]; trinca [Br.]; tripleto [Pt.]
 ###C 1022 coeficiente de correlación m
@@ -6746,7 +6756,8 @@ Vid.- coenzima
 Vid.- atención ambulatoria
 ###C 1025 coiloniquia f
 #Area Semioloxía
- SIN.- uña en culler [pop.] VAR.- celoniquia
+SIN.- uña en culler [pop.] 
+VAR.- celoniquia
 @es = celoniquia; coiloniquia; uña en cuchara [pop.]
 @en = koilonychia; spoon nail [pop.]
 @pt = celoniquia; coiloniquia; unha em colher [pop.]
@@ -7089,8 +7100,7 @@ Vid.- tinguidura de Gram
 Vid.- colonoscopia
 ###C 1080 colostomía f
 #Area Terapéutica
-@SIN.- coloproccia [arc.]
-@es = colostomía
+SIN.- coloproccia [arc.]@es = colostomía
 @en = coloproctia [arc.]; colostomy
 @pt = coloproctia [arc.]; colostomia
 ###C 1081 colpectomía f
@@ -7234,7 +7244,8 @@ Vid.- complexo principal de histocompatibilidade
 Vid.- complexo QRS
 ###C 1101 compliancia f
 #Area Fisioloxía
- SIN.- distensibilidade dinámica VAR.- complianza
+SIN.- distensibilidade dinámica 
+VAR.- complianza
 @es = compliancia
 @en = compliance
 @pt = complacência
@@ -7826,7 +7837,8 @@ Vid.- retinocoroidite
 Vid.- coroa radiada
 ###C 1193 coronariografía f
 #Area Probas complementarias
- SIN.- anxiografía coronaria VAR.- coronografía
+SIN.- anxiografía coronaria 
+VAR.- coronografía
 @es = angiografía coronaria; coronariografía
 @en = coronary angiography
 @pt = angiografia coronária; coronariografia
@@ -7912,13 +7924,15 @@ Vid.- corpus luteum
 Vid.- humor vítreo
 ###C 1205 corpus albicans m
 #Area Histoloxía
- SIN.- corpo branco VAR.- corpo albicans
+SIN.- corpo branco 
+VAR.- corpo albicans
 @es = corpus albicans; cuerpo albicans; cuerpo blanco
 @en = albicans; corpus albicans
 @pt = corpo albicans; corpo branco; corpus albicans
 ###C 1206 corpus luteum m
 #Area Histoloxía
- SIN.- corpo amarelo VAR.- corpo lúteo
+SIN.- corpo amarelo 
+VAR.- corpo lúteo
 @es = corpus luteum; cuerpo amarillo; cuerpo lúteo
 @en = corpus luteum; yellow body
 @pt = corpo amarelo; corpo lúteo; corpus luteum
@@ -8102,7 +8116,8 @@ Vid.- encefalocele
 Vid.- creatina quinase
 ###C 1230 creatina quinase f
 #Area Bioquímica
- SIN.- CK (sg) VAR.- creatina cinase
+SIN.- CK (sg) 
+VAR.- creatina cinase
 @es = CK (sg); creatina cinasa; creatina kinasa; creatina quinasa
 @en = CK (sg); creatine kinase
 @pt = CK (sg); creatina quinase
@@ -8747,7 +8762,8 @@ Vid.- anastomose
 Vid.- derme
 ###C 1324 dermatite f
 #Area Patoloxías
- SIN.- dermatose inflamatoria VAR.- dermite
+SIN.- dermatose inflamatoria 
+VAR.- dermite
 @es = dermatitis; dermatosis inflamatoria; dermitis
 @en = dermatitis; dermitis; inflammatory dermatosis
 @pt = dermatite; dermatose inflamatória; dermite
@@ -8849,7 +8865,8 @@ Vid.- dermatite
 @pt = dermatografismo; dermografismo
 ###C 1340 dermopatía f
 #Area Patoloxías
- SIN.- dermatose VAR.- dermatopatía
+SIN.- dermatose 
+VAR.- dermatopatía
 @es = dermatopatía; dermatosis; dermopatía
 @en = dermatopathy; dermatosis; dermopathy
 @pt = dermatopatia; dermatose; dermopatia
@@ -9096,8 +9113,7 @@ Vid.- dextrocardia
 Vid.- diabetes insípida
 ###C 1381 diabetes mellitus f
 #Area Patoloxías
-@SIN.- diabetes sacarina
-@es = diabetes mellitus; diabetes sacarina
+SIN.- diabetes sacarina@es = diabetes mellitus; diabetes sacarina
 @en = diabetes mellitus
 @pt = diabete mellitus; diabetes mellitus
 ###___
@@ -9131,7 +9147,8 @@ Vid.- diabetes mellitus
 Nota.- Designa o ‘tabique musculomembranoso que separa o abdome do tórax’.
 ###C 1386 diafragma da pelve m
 #Area Anatomía
- SIN.- solo da pelve; solo pelviano VAR.- diafragma pelviano
+SIN.- solo da pelve; solo pelviano 
+VAR.- diafragma pelviano
 @es = diafragma pélvico; suelo pelviano; suelo pélvico
 @en = pelvic diaphragm; pelvic floor
 @pt = diafragma pélvico; solo pélvico
@@ -10397,7 +10414,8 @@ Vid.- articulación esferoide
 @la = encephalon
 ###C 1586 encefalocele f
 #Area Patoloxías
- SIN.- craniocele VAR.- cefalocele
+SIN.- craniocele 
+VAR.- cefalocele
 @es = cefalocele; craneocele; encefalocele
 @en = cephalocele; craniocele; encephalocele
 @pt = cefalocele; craniocele; encefalocele
@@ -10816,7 +10834,8 @@ Vid.- reumatismo
 Vid.- enfisema mediastínico
 ###C 1654 enfisema mediastínico m
 #Area Patoloxías
- SIN.- pneumomediastino VAR.- enfisema do mediastino
+SIN.- pneumomediastino 
+VAR.- enfisema do mediastino
 @es = enfisema mediastínico; neumomediastino
 @en = mediastinal emphysema; pneumomediastinum
 @pt = enfisema do mediastino; enfisema mediastínico; pneumomediastino
@@ -11187,8 +11206,7 @@ Vid.- omentorrafia
 @pt = episiotomia
 ###C 1716 epispadia m
 #Area Patoloxías
-@SIN.- fisura uretral superior (f)
-@es = epispadia; epispadias
+SIN.- fisura uretral superior (f)@es = epispadia; epispadias
 @en = epispadias
 @pt = epispadia
 ###C 1717 epistaxe f
@@ -11638,7 +11656,8 @@ Vid.- esfínter pilórico
 Vid.- músculo esfínter
 ###C 1783 esfínter anal m
 #Area Anatomía
- SIN.- esfínter anorrectal; esfíncter anorrectal VAR.- esfíncter anal
+SIN.- esfínter anorrectal; esfíncter anorrectal 
+VAR.- esfíncter anal
 @es = esfínter anal; esfínter del ano
 @en = anal sphincter
 @pt = esfíncter anal
@@ -11647,7 +11666,8 @@ Vid.- músculo esfínter
 Vid.- esfínter anal
 ###C 1784 esfínter esofáxico inferior m
 #Area Anatomía
- SIN.- constrición diafragmática (f) VAR.- esfíncter esofáxico inferior
+SIN.- constrición diafragmática (f) 
+VAR.- esfíncter esofáxico inferior
 @es = esfínter esofágico inferior; estrechamiento diafragmático; estrechamiento frénico
 @en = diaphragmatic constriction; inferior esophageal sphincter; lower esophageal sphincter
 @pt = esfíncter esofágico inferior
@@ -12560,7 +12580,8 @@ Vid.- morte
 Vid.- ectoderma
 ###C 1925 exoftalmía f
 #Area Semioloxía
- SIN.- oftalmocele (m); oftalmoptose VAR.- exoftalmo (m)
+SIN.- oftalmocele (m); oftalmoptose 
+VAR.- exoftalmo (m)
 @es = exoftalmia; exoftalmos; oftalmocele; oftalmoptosis
 @en = exophthalmia; exophthalmos; exophthalmy; ophthalmocele; ophthalmoptosis
 @pt = exoftalmia; exoftalmo
@@ -13616,7 +13637,8 @@ Vid.- escavación rectovesical
 Vid.- fórnix vaxinal
 ###C 2085 fonendoscopio m
 #Area Instrumental
- SIN.- estetoscopio VAR.- fonendo [col.]
+SIN.- estetoscopio 
+VAR.- fonendo [col.]
 @es = estetoscopio; fonendo [pop.]; fonendoscopio
 @en = phonendoscope; stethoscope
 @pt = estetoscópio; fonendoscópio
@@ -14566,7 +14588,8 @@ Vid.- gonadotropina coriónica humana
 @pt = gonadotrofina; gonadotropina
 ###C 2233 gonadotropina coriónica humana f
 #Area Bioquímica Fisioloxía
- SIN.- hCG (sg) VAR.- gonadotrofina coriónica humana
+SIN.- hCG (sg) 
+VAR.- gonadotrofina coriónica humana
 @es = gonadotropina coriónica humana; hCG (sg)
 @en = hCG (sg); human chorionic gonadotropin
 @pt = gonadotrofina coriônica humana; gonadotropina coriónica humana; hCG (sg)
@@ -14821,7 +14844,8 @@ Vid.- anxiosarcoma
 @pt = hematomielia
 ###C 2272 hematopoese f
 #Area Fisioloxía
- SIN.- hematoxénese; hemocitopoese VAR.- hemopoese
+SIN.- hematoxénese; hemocitopoese 
+VAR.- hemopoese
 @es = hematogénesis; hematopoyesis; hemocitopoyesis; hemopoyesis
 @en = hematogenesis; hematopoiesis; hemocytopoiesis; hemopoiesis
 @pt = hematogénese; hematopoiese; hemocitopoiese; hemopoiese
@@ -15027,7 +15051,8 @@ Vid.- antihemorráxico
 @pt = hematoterapia; hemoterapia
 ###C 2305 hemotórax m
 #Area Semioloxía Patoloxías
- SIN.- hemopleura (f) VAR.- hematotórax
+SIN.- hemopleura (f) 
+VAR.- hematotórax
 @es = hematotórax; hemopleura; hemotórax
 @en = hematothorax; hemopleura; hemothorax
 @pt = hematotórax; hemopleura; hemotórax
@@ -15434,7 +15459,8 @@ Vid.- rabia
 @pt = hidrolase
 ###C 2374 hidronefrose f
 #Area Patoloxías
- SIN.- uronefrose VAR.- nefrohidrose
+SIN.- uronefrose 
+VAR.- nefrohidrose
 @es = hidronefrosis; nefrohidrose; uronefrose
 @en = hydronephrosis; nephrohydrosis; uronephrosis
 @pt = hidronefrose; uronefrose
@@ -15805,8 +15831,7 @@ Vid.- hipertensión arterial
 Vid.- hipertensión intracranial
 ###C 2437 hipertensión intracranial f
 #Area Semioloxía
-@SIN.- hipertensión endocranial
-@es = hipertensión intracraneal
+SIN.- hipertensión endocranial@es = hipertensión intracraneal
 @en = intracranial hypertension
 @pt = hipertensão intracraniana
 ###C 2438 hipertensión portal f
@@ -16235,7 +16260,8 @@ Vid.- neurose
 ###___
 ###C 2511 histiocito m
 #Area Histoloxía
- SIN.- endoteliocito VAR.- histocito
+SIN.- endoteliocito 
+VAR.- histocito
 @es = histiocito
 @en = histiocyte; histocyte
 @pt = histiócito
@@ -16338,7 +16364,8 @@ Vid.- alotransplante
 Vid.- hormona adrenocorticotrópica
 ###C 2527 hormona adrenocorticotrópica f
 #Area Fisioloxía Bioquímica
- SIN.- ACTH (sg); adrenocorticotropina; corticotropina VAR.- hormona adrenocorticótropa
+SIN.- ACTH (sg); adrenocorticotropina; corticotropina 
+VAR.- hormona adrenocorticótropa
 @es = ACTH; adrenocorticotropina; hormona adrenocorticotropa
 @en = ACTH (sg); adrenocorticotropic hormone; adrenocorticotropin; corticotropin
 @pt = ACTH (sg); adrenocorticotropina; corticotropina; hormona adrenocorticotrópica [Pt.]; hormônio adrenocorticotrópico [Br.]
@@ -16418,7 +16445,8 @@ Vid.- prolactina
 @pt = hormona paratiroideia [Pt.]; hormônio da paratireóide [Br.]; paratormona [Pt.]; paratormônio [Br.]; PTH (sg)
 ###C 2539 hormonoterapia f
 #Area Terapéutica
- SIN.- endocrinoterapia VAR.- terapia hormonal
+SIN.- endocrinoterapia 
+VAR.- terapia hormonal
 @es = endocrinoterapia; hormonoterapia; terapia hormonal
 @en = endocrine therapy; endocrinotherapy; hormone therapy; hormonotherapy
 @pt = endocrinoterapia; hormonoterapia; terapia hormonal
@@ -17067,8 +17095,7 @@ Vid.- inhibidor da transcriptase inversa
 @pt = COXIB (sg); inibidor selectivo da ciclooxigenase [Pt.]; inibidor seletivo da ciclooxigenase [Br.]
 ###C 2639 inhibidor selectivo da recaptación da serotonina m
 #Area Farmacoloxía
-@SIN.- ISRS (sg)
-@es = inhibidor selectivo de la recaptación de la serotonina; ISRS (sg)
+SIN.- ISRS (sg)@es = inhibidor selectivo de la recaptación de la serotonina; ISRS (sg)
 @en = selective serotonin reuptake inhibitor; SSRI (sg)
 @pt = inibidor seletivo da recaptação da serotonina; ISRS (sg)
 ###C 2640 iniciador m
@@ -18867,7 +18894,8 @@ Vid.- nefrolitíase
 @la = lobus cerebri
 ###C 2930 lobo da ínsula m
 #Area Anatomía
- SIN.- ínsula (f) VAR.- lobo insular
+SIN.- ínsula (f) 
+VAR.- lobo insular
 @es = ínsula; lóbulo de la ínsula
 @en = insula; insular lobe
 @pt = ínsula; lobo da ínsula
@@ -19161,7 +19189,8 @@ Vid.- mastectomía
 @pt = mamografia
 ###C 2973 mamoplastia f
 #Area Terapéutica
- SIN.- mastoplastia VAR.- mamaplastia
+SIN.- mastoplastia 
+VAR.- mamaplastia
 @es = mamaplastia; mamoplastia; mastoplastia
 @en = mammaplasty; mastoplasty
 @pt = mamaplastia; mamoplastia; mastoplastia
@@ -19337,8 +19366,7 @@ Vid.- marcha festinante
 @pt = ataxia vestibular; marcha em estrela; marcha vestibular
 ###C 3001 marco de lectura m
 #Area Xenética
-@SIN.- cadro de lectura
-@es = cuadro de lectura; pauta de lectura
+SIN.- cadro de lectura@es = cuadro de lectura; pauta de lectura
 @en = reading frame
 @pt = quadro de leitura
 ###C 3002 mareo m
@@ -19560,7 +19588,8 @@ Vid.- medicina familiar
 @pt = medicina do trabalho
 ###C 3035 medicina familiar f
 #Area Organización sanitaria
- SIN.- medicina de cabeceira [arc.] VAR.- medicina de familia
+SIN.- medicina de cabeceira [arc.] 
+VAR.- medicina de familia
 @es = medicina de cabecera [arc.]; medicina de familia; medicina familiar
 @en = family medicine; family practice
 @pt = medicina de família; medicina familiar
@@ -20283,7 +20312,8 @@ Vid.- mielopatía espondilótica
 ###___
 ###C 3155 mielopatía espondilótica f
 #Area Patoloxías
- SIN.- mielopatía cervical VAR.- mielopatía espondilótica cervical; mielopatía cervical espondilítica; mielopatía espondilítica
+SIN.- mielopatía cervical 
+VAR.- mielopatía espondilótica cervical; mielopatía cervical espondilítica; mielopatía espondilítica
 @es = mielopatía cervical; mielopatía espondilítica; mielopatía espondilótica; mielopatía espondilótica cervical
 @en = cervical myelopathy; cervical spondylotic myelopathy; spondylotic myelopathy
 @pt = mielopatia cervical; mielopatia espondilótica; mielopatia espondilótica cervical
@@ -20746,7 +20776,8 @@ Vid.- natimorto -ta
 ###___
 ###C 3230 mosaicismo m
 #Area Xenética
- SIN.- mosaicismo celular VAR.- mosaico
+SIN.- mosaicismo celular 
+VAR.- mosaico
 @es = mosaicismo; mosaicismo celular; mosaico
 @en = cellular mosaicism; mosaic; mosaicism
 @pt = mosaicismo; mosaicismo celular; mosaico
@@ -21823,7 +21854,8 @@ Vid.- músculo recto femoral
 @la = musculus rectus capitis anterior
 ###C 3383 músculo recto do abdome m
 #Area Anatomía
- SIN.- músculo recto maior do abdome VAR.- músculo recto abdominal
+SIN.- músculo recto maior do abdome 
+VAR.- músculo recto abdominal
 @es = músculo recto abdominal; músculo recto del abdomen; músculo recto mayor del abdomen
 @en = rectus abdominis; rectus abdominis muscle
 @pt = músculo recto abdominal [Pt.]; músculo recto do abdómen [Pt.]; músculo reto abdominal [Br.]; músculo reto do abdômen [Br.]
@@ -22213,7 +22245,8 @@ Vid.- narcoanálise
 @pt = nariz em sela
 ###C 3441 nasofarinxe f
 #Area Anatomía
- SIN.- rinofarinxe; epifarinxe VAR.- farinxe nasal
+SIN.- rinofarinxe; epifarinxe 
+VAR.- farinxe nasal
 @es = nasofaringe; rinofaringe
 @en = nasopharynx; rhinopharynx
 @pt = nasofaringe; rinofaringe
@@ -22685,8 +22718,7 @@ Vid.- nervio abducente
 @la = nervus olfactorius
 ###C 3509 nervio óptico m
 #Area Anatomía
-@SIN.- II par cranial
-@es = II par craneal; nervio óptico
+SIN.- II par cranial@es = II par craneal; nervio óptico
 @en = cranial nerve II; optic nerve
 @pt = II par craniano; nervo óptico
 @la = nervus opticus
@@ -23473,8 +23505,7 @@ Vid.- oligohidramnio
 @pt = oligoelemento; oligo-elemento
 ###C 3632 oligohidramnio m
 #Area Semioloxía
-@SIN.- oligoamnio
-@es = oligoamnios; oligohidramnios
+SIN.- oligoamnio@es = oligoamnios; oligohidramnios
 @en = oligoamnios; oligohydramnios
 @pt = oligoâmnio; oligohidrâmnio
 ###C 3633 oligomenorrea f
@@ -23860,7 +23891,8 @@ Vid.- osteoxénese
 @pt = oxigenação
 ###C 3691 osíxeno m
 #Area Bioquímica
- SIN.- O (sb) VAR.- oxíxeno
+SIN.- O (sb) 
+VAR.- oxíxeno
 @es = oxígeno
 @en = oxygen
 @pt = oxigênio [Br.]; oxigénio [Pt.]
@@ -24232,7 +24264,8 @@ Vid.- osteocondrite
 @pt = osteoma
 ###C 3746 osteomalacía f
 #Area Patoloxías
- SIN.- enfermidade de Miller VAR.- osteomalacose
+SIN.- enfermidade de Miller 
+VAR.- osteomalacose
 @es = enfermedad de Miller; osteomalacia
 @en = Miller’s disease; osteomalacia; osteomalacosis
 @pt = osteomalacia
@@ -24772,7 +24805,8 @@ Vid.- toracocentese
 Vid.- quemodectoma
 ###C 3826 parálise f
 #Area Semioloxía Patoloxías
- SIN.- perlesía [pop.] VAR.- paralisia
+SIN.- perlesía [pop.] 
+VAR.- paralisia
 @es = parálisis; plejía
 @en = paralysis; plegia
 @pt = paralisia; plegia
@@ -25381,7 +25415,8 @@ Vid.- período de latencia
 @pt = período refractário [Pt.]; período refratário [Br.]
 ###C 3920 periodontite f
 #Area Patoloxías
- SIN.- pericementite [arc.] VAR.- peridentite [arc.]
+SIN.- pericementite [arc.] 
+VAR.- peridentite [arc.]
 @es = periodontitis
 @en = periodontitis
 @pt = periodontite
@@ -25770,7 +25805,8 @@ Vid.- pirámide estacionaria
 Vid.- pirámide progresiva
 ###C 3975 pirámide poboacional f
 #Area Epidemioloxía
- SIN.- pirámide de idades VAR.- pirámide de poboación
+SIN.- pirámide de idades 
+VAR.- pirámide de poboación
 @es = pirámide de edades; pirámide de población; pirámide poblacional
 @en = age pyramid; population pyramid
 @pt = pirâmide etária; pirâmide populacional
@@ -26087,7 +26123,8 @@ Vid.- multípara
 Vid.- péptido natriurético atrial
 ###C 4021 pneumectomía f
 #Area Terapéutica
- SIN.- pulmonectomía VAR.- pneumonectomía
+SIN.- pulmonectomía 
+VAR.- pneumonectomía
 @es = neumectomía; neumonectomía
 @en = pneumectomy; pneumonectomy
 @pt = pneumectomia; pneumonectomia
@@ -26561,14 +26598,16 @@ Vid.- pregadura vocal
 @la = plica
 ###C 4096 pregadura vestibular f
 #Area Anatomía
- SIN.- corda vocal falsa VAR.- prega vestibular
+SIN.- corda vocal falsa 
+VAR.- prega vestibular
 @es = cuerda vocal falsa; cuerda vocal superior; pliegue vestibular
 @en = false vocal cord; vestibular fold
 @pt = falsa corda vocal; prega vestibular
 @la = plica vestibularis
 ###C 4097 pregadura vocal f
 #Area Anatomía
- SIN.- corda vocal verdadeira VAR.- prega vocal
+SIN.- corda vocal verdadeira 
+VAR.- prega vocal
 @es = cuerda vocal inferior; cuerda vocal verdadera; pliegue vocal
 @en = true vocal cord; vocal cord; vocal fold
 @pt = corda vocal verdadeira; prega vocal
@@ -27094,7 +27133,8 @@ Vid.- prolapso rectal
 @la = pronatio
 ###C 4168 proopiomelanocortina f
 #Area Bioquímica Fisioloxía
- SIN.- POMC (sg) VAR.- pro-opiomelanocortina
+SIN.- POMC (sg) 
+VAR.- pro-opiomelanocortina
 @es = POMC (sg); proopiomelanocortina; pro-opiomelanocortina
 @en = POMC (sg); proopiomelanocortin; pro-opiomelanocortin
 @pt = POMC (sg); pró-opiomelanocortina [Br.]; pro-opiomelanocortina [Pt.]
@@ -27286,7 +27326,8 @@ Vid.- protozoo
 ###___
 ###C 4200 prurito m
 #Area Semioloxía
- SIN.- comechón (f) [pop.]; comechume (f) [pop.]; VAR.- proído; comicio [pop.]
+SIN.- comechón (f) [pop.]; comechume (f) [pop.]; 
+VAR.- proído; comicio [pop.]
 @es = comezón; picazón [pop.]; prurito
 @en = itch; pruritus
 @pt = coceira [pop.]; prurido
@@ -27606,14 +27647,16 @@ Vid.- púrpura trombopénica trombótica
 @pt = púrpura trombocitopênica [Br.]; púrpura trombocitopénica [Pt.]
 ###C 4249 púrpura trombopénica idiopática f
 #Area Patoloxías
- SIN.- PTI (sg) VAR.- púrpura trombocitopénica idiopática
+SIN.- PTI (sg) 
+VAR.- púrpura trombocitopénica idiopática
 @es = PTI (sg); púrpura trombocitopénica idiopática; púrpura trombopénica idiopática
 @en = idiopathic thrombocytopenic purpura; PTI (sg)
 @pt = PTI (sg); púrpura trombocitopênica idiopática [Br.]; púrpura trombocitopénica idiopática [Pt.]
 ###___
 ###C 4250 púrpura trombopénica trombótica f
 #Area Patoloxías
- SIN.- PTT (sg) VAR.- púrpura trombocitopénica trombótica
+SIN.- PTT (sg) 
+VAR.- púrpura trombocitopénica trombótica
 @es = PTT; púrpura trombocitopénica trombótica; púrpura trombopénica trombótica
 @en = thrombotic thrombocytopenic purpura ;TTP (sg)
 @pt = PTT (sg); púrpura trombocitopênica trombótica [Br.]; púrpura trombocitopénica trombótica [Pt.]
@@ -27673,7 +27716,8 @@ Vid.- queimadura
 @pt = queimadura
 ###C 4260 queixelo m
 #Area Anatomía
- SIN.- mento [cult.] VAR.- queixo
+SIN.- mento [cult.] 
+VAR.- queixo
 @es = mentón
 @en = chin; mentum
 @pt = mento; queixo
@@ -27805,7 +27849,8 @@ Vid.- quimioprofilaxe
 Vid.- quimiotaxe
 ###C 4281 quimiotaxe f
 #Area Fisioloxía
- SIN.- quimiotactismo (m) VAR.- quimiotaxia
+SIN.- quimiotactismo (m) 
+VAR.- quimiotaxia
 @es = quimiotactismo; quimiotaxis
 @en = chemotactism; chemotaxis
 @pt = quimiotactismo; quimiotaxia
@@ -28038,7 +28083,8 @@ Vid.- raíz anterior
 ###___
 ###C 4321 raíz pulmonar f
 #Area Anatomía
- SIN.- pedículo pulmonar VAR.- raíz do pulmón
+SIN.- pedículo pulmonar 
+VAR.- raíz do pulmón
 @es = pedículo pulmonar; raíz del pulmón; raíz pulmonar
 @en = root of lung
 @pt = raiz do pulmão; raiz pulmonar
@@ -28069,7 +28115,8 @@ Vid.- rastrexo
 Vid.- rastrexo
 ###C 4323 rastrexo m
 #Area Epidemioloxía
- SIN.- detección (f) VAR.- rastreamento; rastrexamento
+SIN.- detección (f) 
+VAR.- rastreamento; rastrexamento
 @es = criba; cribado; cribaje; despistaje
 @en = screening
 @pt = despistagem; rastreamento; rastreio
@@ -28156,7 +28203,8 @@ Vid.- reabsorción ósea
 @pt = reação decidual
 ###C 4337 reacción en cadea da polimerase f
 #Area Probas complementarias Xenética
- SIN.- PCR (sg) VAR.- reacción en cadea pola polimerase
+SIN.- PCR (sg) 
+VAR.- reacción en cadea pola polimerase
 @es = PCR (sg); reacción en cadena de la polimerasa; reacción en cadena por la polimerasa
 @en = PCR (sg); polymerase chain reaction
 @pt = PCR (sg); reação em cadeia da polimerase [Br.]; reacção em cadeia da polimerase [Pt.]
@@ -28306,8 +28354,7 @@ Vid.- recursos sanitarios
 @pt = reflexo bulbocavernoso; reflexo bulbo-cavernoso
 ###C 4359 reflexo corneal m
 #Area Semioloxía
-@SIN.- reflexo palpebral
-@es = reflejo corneal
+SIN.- reflexo palpebral@es = reflejo corneal
 @en = blink reflex; corneal reflex
 @pt = reflexo corneano; reflexo palpebral
 ###___
@@ -28566,7 +28613,8 @@ Vid.- médico -ca residente
 Vid.- resonancia magnética nuclear
 ###C 4400 resonancia magnética nuclear f
 #Area Probas complementarias
- SIN.- RMN (sg); RM (sg); RNM (sg) VAR.- resonancia magnética; resonancia nuclear magnética
+SIN.- RMN (sg); RM (sg); RNM (sg) 
+VAR.- resonancia magnética; resonancia nuclear magnética
 @es = resonancia magnética; resonancia magnética nuclear; RMN (sg)
 @en = magnetic resonance; NMR (sg); nuclear magnetic resonance
 @pt = ressonância magnética nuclear; ressonância nuclear magnética; RMN (sg); RNM (sg)
@@ -28664,7 +28712,8 @@ VAR.- retículo endoplásmico liso
 @pt = REL (sg); retículo endoplasmático liso
 ###C 4414 retículo endoplasmático rugoso m
 #Area Histoloxía
- SIN.- retículo endoplasmático granular; RER (sg) VAR.- retículo endoplásmico rugoso
+SIN.- retículo endoplasmático granular; RER (sg) 
+VAR.- retículo endoplásmico rugoso
 @es = RER (sg); retículo endoplasmático granular; retículo endoplasmático rugoso
 @en = GER (sg); granular endoplasmic reticulum; RER (sg); rough endoplasmic reticulum
 @pt = RER (sg); retículo endoplasmático rugoso
@@ -28977,7 +29026,8 @@ Vid.- exceso de risco
 @pt = razão de risco; risco relativo
 ###C 4464 riso sardónico m
 #Area Semioloxía
- SIN.- risa canina (f) VAR.- risa sardónica (f)
+SIN.- risa canina (f) 
+VAR.- risa sardónica (f)
 @es = risa canina; risa sardónica
 @en = sardonic laugh
 @pt = riso sardônico
@@ -29885,7 +29935,8 @@ Vid.- simpatectomía
 @pt = simpaticomimético
 ###C 4600 simultagnosia f
 #Area Semioloxía
- SIN.- agnosia simultánea VAR.- simultanagnosia
+SIN.- agnosia simultánea 
+VAR.- simultanagnosia
 @es = simultagnosia; simultanagnosia
 @en = simultagnosia; simultanagnosia
 @pt = simultagnosia
@@ -30298,7 +30349,8 @@ Vid.- síndrome do membro fantasma
 @pt = síndrome do restaurante chinês
 ###C 4663 síndrome do túnel carpiano f
 #Area Patoloxías
- SIN.- síndrome da canle carpiana VAR.- síndrome do túnel do carpo
+SIN.- síndrome da canle carpiana 
+VAR.- síndrome do túnel do carpo
 @es = síndrome do túnel carpiano; síndrome do túnel do carpo
 @en = carpal tunnel syndrome
 @pt = síndrome do tunel do carpo; síndrome do túnel do carpo
@@ -31022,7 +31074,8 @@ Vid.- tiroxina###C 4768 tabaco m
 @pt = tabagismo
 ###C 4771 tabe dorsal f
 #Area Patoloxías
- SIN.- mielopatía sifilítica; sífile da columna vertebral VAR.- tabes dorsal
+SIN.- mielopatía sifilítica; sífile da columna vertebral 
+VAR.- tabes dorsal
 @es = mielopatía sifilítica; sífilis de la columna vertebral; tabes dorsal
 @en = spinal cord syphilis; syphilitic myelopathy; tabes dorsalis
 @pt = mielopatía sifilítica; sífilis da medula espinhal; tabes dorsal
@@ -31335,7 +31388,8 @@ Vid.- tecido conectivo
 Vid.- tecido linfoide
 ###C 4816 tecido linfoide m
 #Area Histoloxía
- SIN.- tecido adenoide VAR.- tecido linfático
+SIN.- tecido adenoide 
+VAR.- tecido linfático
 @es = tecido linfoide; tejido adenoide; tejido linfático
 @en = adenoid tissue; lymphoid tissue
 @pt = tecid adenóide; tecido linfático; tecido linfóide
@@ -32194,7 +32248,8 @@ Vid.- amigdalite
 Vid.- toracocentese
 ###C 4942 toracocentese f
 #Area Terapéutica Probas complementarias
- SIN.- pleurocentese; paracentese torácica VAR.- toracentese
+SIN.- pleurocentese; paracentese torácica 
+VAR.- toracentese
 @es = paracentesis torácica; pleurocentesis; toracentesis; toracocentesis
 @en = pleurocentesis; thoracentesis; thoracocentesis
 @pt = pleurocentese; toracentese; toracocentese
@@ -32345,7 +32400,8 @@ Vid.- tracto olfactorio
 ###___
 ###C 4966 tracto olfactorio m
 #Area Anatomía
- SIN.- cintiña olfactiva (f); cintiña olfactoria (f) VAR.- tracto olfactivo
+SIN.- cintiña olfactiva (f); cintiña olfactoria (f) 
+VAR.- tracto olfactivo
 @es = tracto olfatorio; cintilla olfatoria
 @en = olfactory tract
 @pt = tracto olfactório [Pt.]; trato olfatório [Br.]
@@ -32783,7 +32839,8 @@ Vid.- trombina
 @pt = trombectomia
 ###C 5034 trombina f
 #Area Bioquímica Fisioloxía
- SIN.- trombase VAR.- trombosina
+SIN.- trombase 
+VAR.- trombosina
 @es = trombasa; trombina; trombosina
 @en = thrombase; thrombin; thrombosin
 @pt = trombina
@@ -33846,7 +33903,8 @@ Vid.- vea mediana cubital
 @la = vena gastrica sinistra
 ###C 5187 vea hemiácigos f
 #Area Anatomía
- SIN.- hemiácigos; hemiázigos VAR.- vea hemiázigos
+SIN.- hemiácigos; hemiázigos 
+VAR.- vea hemiázigos
 @es = hemiácigos; vena hemiácigos
 @en = hemi-azygos vein; inferior hemi-azygos vein
 @pt = veia hemiázigos
@@ -34093,8 +34151,7 @@ Vid.- flebectomía
 Vid.- fleborrafia
 ###C 5222 venoclise f
 #Area Terapéutica
-@SIN.- fleboclise
-@es = fleboclisis; venoclisis
+SIN.- fleboclise@es = fleboclisis; venoclisis
 @en = phleboclysis; venoclysis
 @pt = fleboclise; venoclise
 ###C 5223 venodisección f
@@ -34240,7 +34297,8 @@ Vid.- vermis do cerebelo
 Vid.- verruga
 ###C 5241 verruga f
 #Area Patoloxías
- SIN.- espulla [pop.] VAR.- verruca [cult.]
+SIN.- espulla [pop.] 
+VAR.- verruca [cult.]
 @es = verruca; verruga
 @en = verruca; wart
 @pt = verruca; verruga
@@ -35129,7 +35187,8 @@ Vid.- xerodermia pigmentosa
 ###___
 ###C 5373 xerodermia pigmentosa f
 #Area Patoloxías
- SIN.- enfermidade de Kaposi VAR.- xeroderma pigmentoso (m)
+SIN.- enfermidade de Kaposi 
+VAR.- xeroderma pigmentoso (m)
 @es = enfermedad de Kaposi; xeroderma pigmentoso; xerodermia pigmentosa
 @en = Kaposi disease; xeroderma pigmentosum
 @pt = doença de Kaposi; xeroderma pigmentoso; xerodermia pigmentosa
@@ -35257,4 +35316,3 @@ Vid.- hipoacusia
 @es = jugo pancreático
 @en = pancreatic juice
 @pt = suco pancreático
-

@@ -14384,8 +14384,9 @@
             "Género": "m",
             "Página": 21,
             "Área": "Anatomía",
-            "SIN.- rexión abdominal (f); panza [pop": [
-                "]"
+            "SIN": [
+                "rexión abdominal (f)",
+                "panza [pop.]"
             ],
             "Tradução es": [
                 "abdomen",
@@ -14490,8 +14491,8 @@
             "Tradução la": [
                 "abductio"
             ],
-            "Nota.- Evítese “abducción”": [
-                ""
+            "Nota": [
+                "Evítese “abducción”."
             ]
         },
         "8": {
@@ -15230,8 +15231,8 @@
                 "acne",
                 "acne vulgar"
             ],
-            "Nota.- Evítese “acné”": [
-                ""
+            "Nota": [
+                "Evítese “acné”."
             ]
         },
         "50": {
@@ -15284,8 +15285,8 @@
             "Tradução pt": [
                 "acomodação"
             ],
-            "Nota.- Designa o ‘proceso de adaptación que realizan o músculo ciliar e o cristalino para axustar o ollo á visión a distintas distancias’": [
-                ""
+            "Nota": [
+                "Designa o ‘proceso de adaptación que realizan o músculo ciliar e o cristalino para axustar o ollo á visión a distintas distancias’."
             ]
         },
         "53": {
@@ -15723,8 +15724,8 @@
             "Tradução pt": [
                 "adenectomia"
             ],
-            "Nota.- Designa a ‘extirpación cirúrxica dunha glándula ou ganglio’. Cfr. con “adenoidectomía”": [
-                ""
+            "Nota": [
+                "Designa a ‘extirpación cirúrxica dunha glándula ou ganglio’. Cfr. con “adenoidectomía”."
             ]
         },
         "78": {
@@ -15805,8 +15806,8 @@
             "Tradução pt": [
                 "adenoidectomia"
             ],
-            "Nota.- Designa a ‘extirpación das vexetacións adenoides’. Cfr. con “adenectomía”": [
-                ""
+            "Nota": [
+                "Designa a ‘extirpación das vexetacións adenoides’. Cfr. con “adenectomía”."
             ]
         },
         "83": {
@@ -16065,7 +16066,10 @@
             "Género": "f",
             "Página": 30,
             "Área": "Fisioloxía Anatomía",
-            "SIN.- aproximación VAR": [
+            "SIN": [
+                "aproximación"
+            ],
+            "VAR": [
                 "addución"
             ],
             "Tradução es": [
@@ -16253,8 +16257,8 @@
             "Tradução pt": [
                 "agamaglobulinemia"
             ],
-            "Nota.- Designa un ‘estado de deficiencia inmunolóxica caracterizado por concentración moi baixa de todas as clases de globulinas gamma no sangue’. Cfr. con “hipogammaglobulinemia”": [
-                ""
+            "Nota": [
+                "Designa un ‘estado de deficiencia inmunolóxica caracterizado por concentración moi baixa de todas as clases de globulinas gamma no sangue’. Cfr. con “hipogammaglobulinemia”."
             ]
         },
         "108": {
@@ -16376,8 +16380,8 @@
                 "agranulocitose",
                 "neutropenia maligna"
             ],
-            "Nota.- Cfr. con “granulocitopenia”": [
-                ""
+            "Nota": [
+                "Cfr. con “granulocitopenia”."
             ]
         },
         "115": {
@@ -17057,8 +17061,9 @@
             "Género": "f",
             "Página": 35,
             "Área": "Semioloxía Patoloxías",
-            "SIN.- ollo vago (m) [pop.]; ollo preguiceiro (m) [pop": [
-                "]"
+            "SIN": [
+                "ollo vago (m) [pop.]",
+                "ollo preguiceiro (m) [pop.]"
             ],
             "Tradução es": [
                 "ambliopía",
@@ -17395,8 +17400,10 @@
             "Género": "f",
             "Página": 37,
             "Área": "Semioloxía",
-            "SIN.- flictena; bocha [pop.]; vexiga [pop": [
-                "]"
+            "SIN": [
+                "flictena",
+                "bocha [pop.]",
+                "vexiga [pop.]"
             ],
             "Tradução es": [
                 "ampolla",
@@ -17557,8 +17564,8 @@
                 "análise de urina",
                 "exame de urina"
             ],
-            "Nota.- Evítese “análise de ouriños” e “análise de mexo”": [
-                ""
+            "Nota": [
+                "Evítese “análise de ouriños” e “análise de mexo”."
             ]
         },
         "185": {
@@ -17596,8 +17603,8 @@
                 "analgesia",
                 "analgia"
             ],
-            "Nota.- Designa o ‘estado en que os estímulos nociceptivos se perciben pero non se interpretan como dolorosos’. Cfr. con “anestesia”": [
-                ""
+            "Nota": [
+                "Designa o ‘estado en que os estímulos nociceptivos se perciben pero non se interpretan como dolorosos’. Cfr. con “anestesia”."
             ]
         },
         "187": {
@@ -18098,8 +18105,8 @@
             "Tradução pt": [
                 "anestesia"
             ],
-            "Nota.- Designa o ‘estado caracterizado pola abolición da sensibilidade, fundamentalmente por causa de depresión farmacolóxica da función nerviosa’. Cfr. con “analxesia”": [
-                ""
+            "Nota": [
+                "Designa o ‘estado caracterizado pola abolición da sensibilidade, fundamentalmente por causa de depresión farmacolóxica da función nerviosa’. Cfr. con “analxesia”."
             ]
         },
         "215": {
@@ -18107,8 +18114,8 @@
             "Género": "m",
             "Página": 41,
             "Área": "Farmacoloxía",
-            "VAR.- anestesia (f) [col": [
-                "]"
+            "VAR": [
+                "anestesia (f) [col.]"
             ],
             "Tradução es": [
                 "anestesia [col.]",
@@ -18147,8 +18154,8 @@
             "Género": "f",
             "Página": 41,
             "Área": "Organización sanitaria",
-            "VAR.- anestesia [col": [
-                "]"
+            "VAR": [
+                "anestesia [col.]"
             ],
             "Tradução es": [
                 "anestesiología"
@@ -18453,7 +18460,10 @@
             "Género": "f",
             "Página": 43,
             "Área": "Semioloxía",
-            "SIN.- anosfrasia VAR": [
+            "SIN": [
+                "anosfrasia"
+            ],
+            "VAR": [
                 "anodmia"
             ],
             "Tradução es": [
@@ -19043,8 +19053,8 @@
             "Tradução pt": [
                 "antecipação"
             ],
-            "Nota.- Designa a ‘capacidade do individuo para adaptarse aos acontecementos e converter os feitos futuros en feitos presentes da conciencia’": [
-                ""
+            "Nota": [
+                "Designa a ‘capacidade do individuo para adaptarse aos acontecementos e converter os feitos futuros en feitos presentes da conciencia’."
             ]
         },
         "271": {
@@ -19067,8 +19077,8 @@
                 "antecipação",
                 "antecipação genética"
             ],
-            "Nota.- Designa a ‘tendencia de certas enfermidades hereditarias a apareceren progresivamente a idade máis temperá nas xeracións sucesivas’": [
-                ""
+            "Nota": [
+                "Designa a ‘tendencia de certas enfermidades hereditarias a apareceren progresivamente a idade máis temperá nas xeracións sucesivas’."
             ]
         },
         "272": {
@@ -19180,7 +19190,10 @@
             "Género": "m",
             "Página": 46,
             "Área": "Farmacoloxía",
-            "SIN.- antiepiléptico VAR": [
+            "SIN": [
+                "antiepiléptico"
+            ],
+            "VAR": [
                 "anticonvulsionante"
             ],
             "Tradução es": [
@@ -19204,8 +19217,8 @@
             "Género": "m",
             "Página": 46,
             "Área": "Bioquímica Fisioloxía",
-            "SIN.- Ac (abrev": [
-                ")"
+            "SIN": [
+                "Ac (abrev.)"
             ],
             "Tradução es": [
                 "Ac (abrev.)",
@@ -19257,11 +19270,6 @@
             "Género": "m",
             "Página": 47,
             "Área": "Farmacoloxía",
-            "@SIN": [
-                "contraveleno",
-                "antitóxico",
-                "toxicida"
-            ],
             "Tradução es": [
                 "antídoto",
                 "antitóxico",
@@ -19793,7 +19801,10 @@
             "Género": "m",
             "Página": 50,
             "Área": "Farmacoloxía",
-            "SIN.- antipsórico VAR": [
+            "SIN": [
+                "antipsórico"
+            ],
+            "VAR": [
                 "antiprurítico",
                 "antipruritoso"
             ],
@@ -19937,9 +19948,6 @@
             "Género": "m",
             "Página": 50,
             "Área": "Farmacoloxía",
-            "@SIN": [
-                "axente antitiroide"
-            ],
             "Tradução es": [
                 "agente antitiroideo",
                 "antitiroideo"
@@ -20073,8 +20081,8 @@
             "Tradução pt": [
                 "antitússico"
             ],
-            "Nota.- Evítese “antitusivo”": [
-                ""
+            "Nota": [
+                "Evítese “antitusivo”."
             ]
         },
         "326": {
@@ -20766,9 +20774,6 @@
             "Género": "m",
             "Página": 55,
             "Área": "Anatomía",
-            "@SIN": [
-                "ápex"
-            ],
             "Tradução es": [
                 "ápex",
                 "ápice"
@@ -20832,9 +20837,6 @@
             "Género": "f",
             "Página": 55,
             "Área": "Anatomía",
-            "@SIN": [
-                "proceso accesorio (m)"
-            ],
             "Tradução es": [
                 "apófisis accesoria"
             ],
@@ -20853,9 +20855,6 @@
             "Género": "f",
             "Página": 55,
             "Área": "Anatomía",
-            "@SIN": [
-                "proceso articular (m)"
-            ],
             "Tradução es": [
                 "apófisis articular"
             ],
@@ -20963,9 +20962,6 @@
             "Género": "f",
             "Página": 56,
             "Área": "Anatomía",
-            "@SIN": [
-                "proceso espiñoso (m)"
-            ],
             "Tradução es": [
                 "apófisis espinosa"
             ],
@@ -21074,7 +21070,10 @@
             "Género": "f",
             "Página": 56,
             "Área": "Anatomía",
-            "SIN.- proceso xifoide (m) VAR": [
+            "SIN": [
+                "proceso xifoide (m)"
+            ],
+            "VAR": [
                 "apófise xifoidea"
             ],
             "Tradução es": [
@@ -21371,8 +21370,8 @@
             "Tradução la": [
                 "arcus aortae"
             ],
-            "Nota.- Evítese “caxato da aorta”": [
-                ""
+            "Nota": [
+                "Evítese “caxato da aorta”."
             ]
         },
         "397": {
@@ -21439,8 +21438,8 @@
             "Tradução la": [
                 "arcus venae azygos"
             ],
-            "Nota.- Evítese “caxato da vea ácigos”": [
-                ""
+            "Nota": [
+                "Evítese “caxato da vea ácigos”."
             ]
         },
         "400": {
@@ -22125,9 +22124,6 @@
             "Género": "f",
             "Página": 62,
             "Área": "Anatomía",
-            "@SIN": [
-                "arteria peroneal"
-            ],
             "Tradução es": [
                 "arteria fibular",
                 "arteria peronea"
@@ -23083,8 +23079,8 @@
             "Tradução la": [
                 "articulatio sellaris"
             ],
-            "Nota.- Evítese “articulación sellar”": [
-                ""
+            "Nota": [
+                "Evítese “articulación sellar”."
             ]
         },
         "484": {
@@ -23515,7 +23511,10 @@
             "Género": "f",
             "Página": 69,
             "Área": "Organización sanitaria",
-            "SIN.- atención domiciliaria VAR": [
+            "SIN": [
+                "atención domiciliaria"
+            ],
+            "VAR": [
                 "asistencia a domicilio"
             ],
             "Tradução es": [
@@ -23529,8 +23528,8 @@
             "Tradução pt": [
                 "assistência domiciliar"
             ],
-            "Nota.- Cfr": [
-                "con “hospitalización a domicilio”"
+            "Nota": [
+                "Cfr. con “hospitalización a domicilio”"
             ]
         },
         "510": {
@@ -23749,7 +23748,10 @@
             "Género": "f",
             "Página": 70,
             "Área": "Semioloxía",
-            "SIN.- agnosia táctil VAR": [
+            "SIN": [
+                "agnosia táctil"
+            ],
+            "VAR": [
                 "estereoagnosia"
             ],
             "Tradução es": [
@@ -24409,8 +24411,8 @@
             "Tradução pt": [
                 "auto-enxerto"
             ],
-            "Nota.- Designa un ‘enxerto tomado do corpo do mesmo doente’. Cfr. con “autotransplante”": [
-                ""
+            "Nota": [
+                "Designa un ‘enxerto tomado do corpo do mesmo doente’. Cfr. con “autotransplante”."
             ]
         },
         "560": {
@@ -24433,7 +24435,11 @@
             "Género": "f",
             "Página": 74,
             "Área": "Probas complementarias",
-            "SIN.- autoexame das mamas (m); autoexame mamario (m) VAR": [
+            "SIN": [
+                "autoexame das mamas (m)",
+                "autoexame mamario (m)"
+            ],
+            "VAR": [
                 "autoexploración das mamas"
             ],
             "Tradução es": [
@@ -24455,7 +24461,11 @@
             "Género": "f",
             "Página": 74,
             "Área": "Probas complementarias",
-            "SIN.- autoexame testicular (m); autoexame dos testículos (m) VAR": [
+            "SIN": [
+                "autoexame testicular (m)",
+                "autoexame dos testículos (m)"
+            ],
+            "VAR": [
                 "autoexploración dos testículos"
             ],
             "Tradução es": [
@@ -24575,8 +24585,8 @@
                 "autotransplante",
                 "auto-transplante"
             ],
-            "Nota.- Designa a ‘operación de tomar unha porción de tecido dunha parte do corpo e enxertalo noutra parte do mesmo corpo’. Cfr. con “autoenxerto”": [
-                ""
+            "Nota": [
+                "Designa a ‘operación de tomar unha porción de tecido dunha parte do corpo e enxertalo noutra parte do mesmo corpo’. Cfr. con “autoenxerto”."
             ]
         },
         "569": {
@@ -24643,7 +24653,11 @@
             "Género": "m",
             "Página": 75,
             "Área": "Anatomía",
-            "SIN.- vértebra C II (f); C II (sg) VAR": [
+            "SIN": [
+                "vértebra C II (f)",
+                "C II (sg)"
+            ],
+            "VAR": [
                 "axis"
             ],
             "Tradução es": [
@@ -24707,8 +24721,11 @@
             "Género": "f",
             "Página": 76,
             "Área": "Anatomía",
-            "SIN.- fosa axilar; oco axilar (m); sobrazo (m) [pop.]; sobaco (m) [pop": [
-                "]"
+            "SIN": [
+                "fosa axilar",
+                "oco axilar (m)",
+                "sobrazo (m) [pop.]",
+                "sobaco (m) [pop.]"
             ],
             "Tradução es": [
                 "axila",
@@ -24745,7 +24762,10 @@
             "Género": "m",
             "Página": 76,
             "Área": "Histoloxía",
-            "SIN.- cilindroeixe [arc.] VAR": [
+            "SIN": [
+                "cilindroeixe [arc.]"
+            ],
+            "VAR": [
                 "axon"
             ],
             "Tradução es": [
@@ -24827,7 +24847,10 @@
             "Género": "m",
             "Página": 77,
             "Área": "Etiopatoxenia",
-            "SIN.- BAAR (sg) VAR": [
+            "SIN": [
+                "BAAR (sg)"
+            ],
+            "VAR": [
                 "bacilo ácido-alcohol-resistente"
             ],
             "Tradução es": [
@@ -25098,8 +25121,8 @@
             "Tradução pt": [
                 "balismo"
             ],
-            "Nota.- Cfr. con “corea”": [
-                ""
+            "Nota": [
+                "Cfr. con “corea”."
             ]
         },
         "598": {
@@ -25241,8 +25264,10 @@
             "Género": "f",
             "Página": 79,
             "Área": "Anatomía",
-            "SIN.- papo da perna (m) [pop.]; mazá da perna [pop.]; sura [cult": [
-                "]"
+            "SIN": [
+                "papo da perna (m) [pop.]",
+                "mazá da perna [pop.]",
+                "sura [cult.]"
             ],
             "Tradução es": [
                 "pantorrilla",
@@ -25515,8 +25540,8 @@
             "Género": "f",
             "Página": 80,
             "Área": "Fisioloxía",
-            "SIN.- fel (m) [pop": [
-                "]"
+            "SIN": [
+                "fel (m) [pop.]"
             ],
             "Tradução es": [
                 "bilis"
@@ -25832,8 +25857,11 @@
             "Género": "f",
             "Página": 82,
             "Área": "Semioloxía Patoloxías",
-            "SIN.- blenorrea; gonorrea; gonococia; purgacións (pl) [pop": [
-                "]"
+            "SIN": [
+                "blenorrea",
+                "gonorrea",
+                "gonococia",
+                "purgacións (pl) [pop.]"
             ],
             "Tradução es": [
                 "blenorragia",
@@ -25968,8 +25996,11 @@
             "Género": "m",
             "Página": 82,
             "Área": "Semioloxía",
-            "SIN.- garxola (f) [pop.]; lamporca (f) [pop.]; papeira (f) [pop.]; papo [pop": [
-                "]"
+            "SIN": [
+                "garxola (f) [pop.]",
+                "lamporca (f) [pop.]",
+                "papeira (f) [pop.]",
+                "papo [pop.]"
             ],
             "Tradução es": [
                 "bocio"
@@ -26028,8 +26059,8 @@
             "Tradução pt": [
                 "bolo"
             ],
-            "Nota.- Designa unha ‘pílula maior ca as ordinarias’": [
-                ""
+            "Nota": [
+                "Designa unha ‘pílula maior ca as ordinarias’."
             ]
         },
         "651": {
@@ -26046,8 +26077,8 @@
             "Tradução pt": [
                 "bolo"
             ],
-            "Nota.- Designa un ‘material de contraste ou un medicamento inxectado con rapidez no aparello circulatorio por unha embolada’": [
-                ""
+            "Nota": [
+                "Designa un ‘material de contraste ou un medicamento inxectado con rapidez no aparello circulatorio por unha embolada’."
             ]
         },
         "652": {
@@ -26310,7 +26341,11 @@
             "Género": "f",
             "Página": 84,
             "Área": "Anatomía",
-            "SIN.- calota cranial; calota craniana VAR": [
+            "SIN": [
+                "calota cranial",
+                "calota craniana"
+            ],
+            "VAR": [
                 "bóveda craniana"
             ],
             "Tradução es": [
@@ -26561,7 +26596,10 @@
             "Género": "m",
             "Página": 86,
             "Área": "Etiopatoxenia Semioloxía",
-            "SIN.- espasmo bronquial VAR": [
+            "SIN": [
+                "espasmo bronquial"
+            ],
+            "VAR": [
                 "broncoespasmo"
             ],
             "Tradução es": [
@@ -26730,8 +26768,9 @@
             "Género": "m",
             "Página": 86,
             "Área": "Patoloxías Semioloxía",
-            "SIN.- bruxomanía (f); renxido dos dentes [pop": [
-                "]"
+            "SIN": [
+                "bruxomanía (f)",
+                "renxido dos dentes [pop.]"
             ],
             "Tradução es": [
                 "bruxismo",
@@ -27286,8 +27325,8 @@
             "Tradução pt": [
                 "calmante"
             ],
-            "Nota.- Designa un ‘tipo de fármaco que mitiga a excitación, a irritación ou a dor’. Cfr. con “tranquilizante” e “sedante”": [
-                ""
+            "Nota": [
+                "Designa un ‘tipo de fármaco que mitiga a excitación, a irritación ou a dor’. Cfr. con “tranquilizante” e “sedante”."
             ]
         },
         "722": {
@@ -27456,8 +27495,11 @@
             "Género": "f",
             "Página": 90,
             "Área": "Semioloxía",
-            "SIN.- breca [pop.] VAR.- cambia [pop": [
-                "]"
+            "SIN": [
+                "breca [pop.]"
+            ],
+            "VAR": [
+                "cambia [pop.]"
             ],
             "Tradução es": [
                 "calambre"
@@ -27598,9 +27640,6 @@
             "Género": "m",
             "Página": 91,
             "Área": "Anatomía",
-            "@SIN": [
-                "conduto vertebral"
-            ],
             "Tradução es": [
                 "canal vertebral",
                 "conducto vertebral"
@@ -27652,7 +27691,11 @@
             "Género": "m",
             "Página": 91,
             "Área": "Patoloxías",
-            "SIN.- tumor maligno; neoplasia maligna (f) VAR": [
+            "SIN": [
+                "tumor maligno",
+                "neoplasia maligna (f)"
+            ],
+            "VAR": [
                 "cáncer"
             ],
             "Tradução es": [
@@ -27670,8 +27713,8 @@
                 "neoplasia maligna",
                 "tumor maligno"
             ],
-            "Nota.- Designa un ‘crecemento descontrolado de células anormais no corpo, que se acaban estendendo e difundindo fóra das zonas onde estaban inicialmente situadas’’. Cfr. con “tumor”": [
-                ""
+            "Nota": [
+                "Designa un ‘crecemento descontrolado de células anormais no corpo, que se acaban estendendo e difundindo fóra das zonas onde estaban inicialmente situadas’’. Cfr. con “tumor”."
             ]
         },
         "743": {
@@ -27870,8 +27913,8 @@
             "Tradução la": [
                 "capsula"
             ],
-            "Nota.- Designa a ‘envoltura membranosa ou fibrosa que rodea un órgano’": [
-                ""
+            "Nota": [
+                "Designa a ‘envoltura membranosa ou fibrosa que rodea un órgano’."
             ]
         },
         "754": {
@@ -27888,8 +27931,8 @@
             "Tradução pt": [
                 "cápsula"
             ],
-            "Nota.- Designa a ‘forma farmaceutica na que o principio activo se encerra nun envoltorio de xelatina soluble’": [
-                ""
+            "Nota": [
+                "Designa a ‘forma farmaceutica na que o principio activo se encerra nun envoltorio de xelatina soluble’."
             ]
         },
         "755": {
@@ -28082,8 +28125,8 @@
             "Tradução la": [
                 "facies"
             ],
-            "Nota.- Designa a ‘parte anterior da cabeza’. Cfr. con “facies”": [
-                ""
+            "Nota": [
+                "Designa a ‘parte anterior da cabeza’. Cfr. con “facies”."
             ]
         },
         "765": {
@@ -28227,7 +28270,12 @@
             "Género": "m",
             "Página": 95,
             "Área": "Patoloxías",
-            "SIN.- carafuncho; solda (f); nacida (f) [pop.] VAR": [
+            "SIN": [
+                "carafuncho",
+                "solda (f)",
+                "nacida (f) [pop.]"
+            ],
+            "VAR": [
                 "carbuncho"
             ],
             "Tradução es": [
@@ -28274,8 +28322,8 @@
             "Tradução pt": [
                 "carcinomatose"
             ],
-            "Nota.- Designa o ‘estado producido pola diseminación polo organismo dun único carcinoma’. Cfr. con “carcinose”": [
-                ""
+            "Nota": [
+                "Designa o ‘estado producido pola diseminación polo organismo dun único carcinoma’. Cfr. con “carcinose”."
             ]
         },
         "776": {
@@ -28292,8 +28340,8 @@
             "Tradução pt": [
                 "carcinose"
             ],
-            "Nota.- Designa o ‘desenvolvemento de múltiples carcinomas no organismo’. Cfr. con “carcinomatose”": [
-                ""
+            "Nota": [
+                "Designa o ‘desenvolvemento de múltiples carcinomas no organismo’. Cfr. con “carcinomatose”."
             ]
         },
         "777": {
@@ -28479,8 +28527,8 @@
             "Tradução pt": [
                 "cardiotomia"
             ],
-            "Nota.- Designa a ‘intervención na que se incide no extremo cardial do estómago ou no orificio cardial’": [
-                ""
+            "Nota": [
+                "Designa a ‘intervención na que se incide no extremo cardial do estómago ou no orificio cardial’."
             ]
         },
         "788": {
@@ -28497,8 +28545,8 @@
             "Tradução pt": [
                 "cardiotomia"
             ],
-            "Nota.- Designa a ‘operación na que se realiza unha incisión no corazón’": [
-                ""
+            "Nota": [
+                "Designa a ‘operación na que se realiza unha incisión no corazón’."
             ]
         },
         "789": {
@@ -28676,8 +28724,8 @@
             "Tradução la": [
                 "cartilago"
             ],
-            "Nota.- Evítese “cartílago”": [
-                ""
+            "Nota": [
+                "Evítese “cartílago”."
             ]
         },
         "799": {
@@ -28959,8 +29007,9 @@
             "Género": "f",
             "Página": 98,
             "Área": "Patoloxías",
-            "SIN.- feila [pop.]; freila [pop": [
-                "]"
+            "SIN": [
+                "feila [pop.]",
+                "freila [pop.]"
             ],
             "Tradução es": [
                 "caspa"
@@ -29053,8 +29102,9 @@
             "Género": "f",
             "Página": 99,
             "Área": "Patoloxías",
-            "SIN.- belida [pop.]; carraza [pop": [
-                "]"
+            "SIN": [
+                "belida [pop.]",
+                "carraza [pop.]"
             ],
             "Tradução es": [
                 "catarata"
@@ -29071,8 +29121,11 @@
             "Género": "m",
             "Página": 99,
             "Área": "Patoloxías",
-            "SIN.- coriza (f) [cult.]; rinite catarral (f) [cult.]; arrefriado común; catarreira (f) [pop": [
-                "]"
+            "SIN": [
+                "coriza (f) [cult.]",
+                "rinite catarral (f) [cult.]",
+                "arrefriado común",
+                "catarreira (f) [pop.]"
             ],
             "Tradução es": [
                 "catarro común",
@@ -29124,7 +29177,11 @@
             "Género": "m",
             "Página": 99,
             "Área": "Terapéutica",
-            "SIN.- sondaxe (f); intubación (f) VAR": [
+            "SIN": [
+                "sondaxe (f)",
+                "intubación (f)"
+            ],
+            "VAR": [
                 "cateterización (f)"
             ],
             "Tradução es": [
@@ -29166,9 +29223,6 @@
             "Género": "f",
             "Página": 99,
             "Área": "Anatomía",
-            "@SIN": [
-                "cola de cabalo"
-            ],
             "Tradução es": [
                 "cola de caballo"
             ],
@@ -29694,8 +29748,8 @@
             "Tradução pt": [
                 "célula"
             ],
-            "Nota.- Designa a ‘pequena cavidade ósea ou seo que se agrupa dunha forma parecida a un favo de abellas’": [
-                ""
+            "Nota": [
+                "Designa a ‘pequena cavidade ósea ou seo que se agrupa dunha forma parecida a un favo de abellas’."
             ]
         },
         "853": {
@@ -29766,8 +29820,8 @@
             "Tradução la": [
                 "cellula"
             ],
-            "Nota.- Designa a ‘unidade básica do corpo a nivel vivente, estrutural e funcional’": [
-                ""
+            "Nota": [
+                "Designa a ‘unidade básica do corpo a nivel vivente, estrutural e funcional’."
             ]
         },
         "858": {
@@ -29912,10 +29966,6 @@
             "Género": "f",
             "Página": 104,
             "Área": "Histoloxía",
-            "@SIN": [
-                "célula troncal",
-                "célula tronco"
-            ],
             "Tradução es": [
                 "célula madre",
                 "célula troncal"
@@ -30973,7 +31023,10 @@
             "Género": "f",
             "Página": 109,
             "Área": "Terapéutica",
-            "SIN.- cinesiatría VAR": [
+            "SIN": [
+                "cinesiatría"
+            ],
+            "VAR": [
                 "cinesioterapia"
             ],
             "Tradução es": [
@@ -31284,7 +31337,11 @@
             "Género": "f",
             "Página": 111,
             "Área": "Patoloxías",
-            "SIN.- cirrose hepática alcohólica; cirrose hepática alcólica VAR": [
+            "SIN": [
+                "cirrose hepática alcohólica",
+                "cirrose hepática alcólica"
+            ],
+            "VAR": [
                 "cirrose alcólica"
             ],
             "Tradução es": [
@@ -31356,8 +31413,8 @@
             "Tradução pt": [
                 "cirurgia"
             ],
-            "Nota.- Designa a ‘rama da medicina que se ocupa do tratamento das enfermidades, lesións e deformidades por medio de operacións ou manipulacións’": [
-                ""
+            "Nota": [
+                "Designa a ‘rama da medicina que se ocupa do tratamento das enfermidades, lesións e deformidades por medio de operacións ou manipulacións’."
             ]
         },
         "947": {
@@ -31374,8 +31431,8 @@
             "Tradução pt": [
                 "cirurgia"
             ],
-            "Nota.- Designa o ‘conxunto de procedementos que integran unha operación ou intervención cirúrxica’": [
-                ""
+            "Nota": [
+                "Designa o ‘conxunto de procedementos que integran unha operación ou intervención cirúrxica’."
             ]
         },
         "948": {
@@ -31533,8 +31590,8 @@
             "Tradução pt": [
                 "cistectomia"
             ],
-            "Nota.- Designa a ‘extirpación dun quiste’": [
-                ""
+            "Nota": [
+                "Designa a ‘extirpación dun quiste’."
             ]
         },
         "958": {
@@ -31551,8 +31608,8 @@
             "Tradução pt": [
                 "cistectomia"
             ],
-            "Nota.- Designa a ‘resección da vexiga urinaria’": [
-                ""
+            "Nota": [
+                "Designa a ‘resección da vexiga urinaria’."
             ]
         },
         "959": {
@@ -31944,8 +32001,8 @@
                 "citodiagnóstico",
                 "citologia"
             ],
-            "Nota.- Designa o ‘método diagnóstico consistente na obtención e exame de células dun tecido determinado’": [
-                ""
+            "Nota": [
+                "Designa o ‘método diagnóstico consistente na obtención e exame de células dun tecido determinado’."
             ]
         },
         "982": {
@@ -31962,8 +32019,8 @@
             "Tradução pt": [
                 "citologia"
             ],
-            "Nota.- Designa a ‘ciencia que ten por obxecto o estudo das células’": [
-                ""
+            "Nota": [
+                "Designa a ‘ciencia que ten por obxecto o estudo das células’."
             ]
         },
         "983": {
@@ -32197,8 +32254,8 @@
             "Tradução pt": [
                 "climaterio"
             ],
-            "Nota.- Cfr. con “menopausa”": [
-                ""
+            "Nota": [
+                "Cfr. con “menopausa”."
             ]
         },
         "997": {
@@ -32236,7 +32293,10 @@
             "Género": "f",
             "Página": 116,
             "Área": "Terapéutica",
-            "SIN.- ablación do clítoris VAR": [
+            "SIN": [
+                "ablación do clítoris"
+            ],
+            "VAR": [
                 "clitorectomía"
             ],
             "Tradução es": [
@@ -32351,8 +32411,9 @@
             "Género": "m",
             "Página": 116,
             "Área": "Semioloxía",
-            "SIN.- melasma; pano [pop": [
-                "]"
+            "SIN": [
+                "melasma",
+                "pano [pop.]"
             ],
             "Tradução es": [
                 "cloasma",
@@ -32643,9 +32704,6 @@
             "Género": "m",
             "Página": 118,
             "Área": "Xenética",
-            "@SIN": [
-                "triplete"
-            ],
             "Tradução es": [
                 "codón",
                 "triplete"
@@ -32716,7 +32774,10 @@
             "Género": "f",
             "Página": 118,
             "Área": "Semioloxía",
-            "SIN.- uña en culler [pop.] VAR": [
+            "SIN": [
+                "uña en culler [pop.]"
+            ],
+            "VAR": [
                 "celoniquia"
             ],
             "Tradução es": [
@@ -32971,8 +33032,8 @@
             "Tradução pt": [
                 "colar cervical"
             ],
-            "Nota.- Evítese “colariño”": [
-                ""
+            "Nota": [
+                "Evítese “colariño”."
             ]
         },
         "1040": {
@@ -33320,8 +33381,8 @@
             "Tradução pt": [
                 "retalho"
             ],
-            "Nota.- Evítese “colgaxo”": [
-                ""
+            "Nota": [
+                "Evítese “colgaxo”."
             ]
         },
         "1061": {
@@ -33680,9 +33741,6 @@
             "Género": "f",
             "Página": 123,
             "Área": "Terapéutica",
-            "@SIN.- coloproccia [arc": [
-                "]"
-            ],
             "Tradução es": [
                 "colostomía"
             ],
@@ -33840,8 +33898,10 @@
             "Género": "f",
             "Página": 124,
             "Área": "Anatomía",
-            "SIN.- raque; espiña dorsal; espiñazo (m) [pop": [
-                "]"
+            "SIN": [
+                "raque",
+                "espiña dorsal",
+                "espiñazo (m) [pop.]"
             ],
             "Tradução es": [
                 "columna vertebral",
@@ -33933,8 +33993,8 @@
             "Género": "m",
             "Página": 125,
             "Área": "Semioloxía",
-            "SIN.- espiña (f) [pop": [
-                "]"
+            "SIN": [
+                "espiña (f) [pop.]"
             ],
             "Tradução es": [
                 "comedón",
@@ -33982,8 +34042,8 @@
             "Tradução pt": [
                 "comissurotomia"
             ],
-            "Nota.- Designa a ‘desconexión cirúrxica dos hemisferios cerebrais’": [
-                ""
+            "Nota": [
+                "Designa a ‘desconexión cirúrxica dos hemisferios cerebrais’."
             ]
         },
         "1097": {
@@ -34006,8 +34066,8 @@
                 "comissurotomia",
                 "comissurotomia mitral"
             ],
-            "Nota.- Designa a ‘apertura do orificio da válvula mitral estreitado para alivia-la estenose mitral’": [
-                ""
+            "Nota": [
+                "Designa a ‘apertura do orificio da válvula mitral estreitado para alivia-la estenose mitral’."
             ]
         },
         "1098": {
@@ -34077,7 +34137,10 @@
             "Género": "f",
             "Página": 126,
             "Área": "Fisioloxía",
-            "SIN.- distensibilidade dinámica VAR": [
+            "SIN": [
+                "distensibilidade dinámica"
+            ],
+            "VAR": [
                 "complianza"
             ],
             "Tradução es": [
@@ -34738,8 +34801,8 @@
             "Tradução pt": [
                 "consanguinidade"
             ],
-            "Nota.- Evítese “cosanguinidade”": [
-                ""
+            "Nota": [
+                "Evítese “cosanguinidade”."
             ]
         },
         "1141": {
@@ -34853,8 +34916,8 @@
             "Tradução pt": [
                 "consulta"
             ],
-            "Nota.- Designa o ‘acto médico de estudar e diagnosticar un paciente’": [
-                ""
+            "Nota": [
+                "Designa o ‘acto médico de estudar e diagnosticar un paciente’."
             ]
         },
         "1148": {
@@ -34875,8 +34938,8 @@
             "Tradução pt": [
                 "consultório"
             ],
-            "Nota.- Designa o ‘lugar onde o médico atende o paciente’": [
-                ""
+            "Nota": [
+                "Designa o ‘lugar onde o médico atende o paciente’."
             ]
         },
         "1149": {
@@ -35028,8 +35091,8 @@
             "Género": "m",
             "Página": 131,
             "Área": "Organización sanitaria",
-            "SIN.- control [col": [
-                "]",
+            "SIN": [
+                "control [col.]",
                 "posto de enfermaría"
             ],
             "Tradução es": [
@@ -35394,8 +35457,8 @@
             "Género": "m",
             "Página": 133,
             "Área": "Anatomía",
-            "SIN.- cadillo [pop": [
-                "]"
+            "SIN": [
+                "cadillo [pop.]"
             ],
             "Tradução es": [
                 "cordón umbilical"
@@ -35430,8 +35493,8 @@
                 "cordotomia",
                 "tractotomia"
             ],
-            "Nota.- Designa a ‘sección do cordón anterolateral da medula, nos casos de dores intolerables rebeldes a todo tratamento’": [
-                ""
+            "Nota": [
+                "Designa a ‘sección do cordón anterolateral da medula, nos casos de dores intolerables rebeldes a todo tratamento’."
             ]
         },
         "1180": {
@@ -35450,8 +35513,8 @@
             "Tradução pt": [
                 "cordotomia"
             ],
-            "Nota.- Designa a ‘sección dunha corda vocal’": [
-                ""
+            "Nota": [
+                "Designa a ‘sección dunha corda vocal’."
             ]
         },
         "1181": {
@@ -35468,8 +35531,8 @@
             "Tradução pt": [
                 "coréia"
             ],
-            "Nota.- Cfr. con “balismo”": [
-                ""
+            "Nota": [
+                "Cfr. con “balismo”."
             ]
         },
         "1182": {
@@ -35670,7 +35733,10 @@
             "Género": "f",
             "Página": 134,
             "Área": "Probas complementarias",
-            "SIN.- anxiografía coronaria VAR": [
+            "SIN": [
+                "anxiografía coronaria"
+            ],
+            "VAR": [
                 "coronografía"
             ],
             "Tradução es": [
@@ -35891,7 +35957,10 @@
             "Género": "m",
             "Página": 136,
             "Área": "Histoloxía",
-            "SIN.- corpo branco VAR": [
+            "SIN": [
+                "corpo branco"
+            ],
+            "VAR": [
                 "corpo albicans"
             ],
             "Tradução es": [
@@ -35914,7 +35983,10 @@
             "Género": "m",
             "Página": 136,
             "Área": "Histoloxía",
-            "SIN.- corpo amarelo VAR": [
+            "SIN": [
+                "corpo amarelo"
+            ],
+            "VAR": [
                 "corpo lúteo"
             ],
             "Tradução es": [
@@ -36052,8 +36124,9 @@
                 "cortisol",
                 "hidrocortisona"
             ],
-            "Nota.- Optamos por non incluír “hidrocortisona” como sinónimo, xa que o prefixo “hidro-” ten unicamente o valor de ‘auga’; pola contra, tanto o sufixo “-ol” coma o prefixo “hidroxi-” apuntan á presenza do grupo -OH (hidroxilo)": [
-                ""
+            "Nota": [
+                "Optamos por non incluír “hidrocortisona” como sinónimo, xa que o prefixo “hidro-” ten unicamente o valor de ‘auga’",
+                "pola contra, tanto o sufixo “-ol” coma o prefixo “hidroxi-” apuntan á presenza do grupo -OH (hidroxilo)."
             ]
         },
         "1213": {
@@ -36061,8 +36134,8 @@
             "Género": "l",
             "Página": 137,
             "Área": "Anatomía",
-            "SIN.- lombo (m) [pop": [
-                "]"
+            "SIN": [
+                "lombo (m) [pop.]"
             ],
             "Tradução es": [
                 "espalda"
@@ -36076,8 +36149,8 @@
             "Tradução la": [
                 "dorsum"
             ],
-            "Nota.- Designa a ‘área dorsal entre os ombreiros e o van’. Cfr. con “rexión costal”": [
-                ""
+            "Nota": [
+                "Designa a ‘área dorsal entre os ombreiros e o van’. Cfr. con “rexión costal”."
             ]
         },
         "1214": {
@@ -36175,8 +36248,8 @@
             "Género": "f",
             "Página": 138,
             "Área": "Semioloxía",
-            "SIN.- bostela [pop": [
-                "]"
+            "SIN": [
+                "bostela [pop.]"
             ],
             "Tradução es": [
                 "costra"
@@ -36365,7 +36438,10 @@
             "Género": "f",
             "Página": 139,
             "Área": "Bioquímica",
-            "SIN.- CK (sg) VAR": [
+            "SIN": [
+                "CK (sg)"
+            ],
+            "VAR": [
                 "creatina cinase"
             ],
             "Tradução es": [
@@ -36484,8 +36560,8 @@
             "Tradução pt": [
                 "sinal de Hamman"
             ],
-            "Nota.- Evítese “ruxido mediastínico”": [
-                ""
+            "Nota": [
+                "Evítese “ruxido mediastínico”."
             ]
         },
         "1237": {
@@ -36899,8 +36975,8 @@
             "Género": "m",
             "Página": 141,
             "Área": "Anatomía",
-            "SIN.- ulna (f) [cult": [
-                "]"
+            "SIN": [
+                "ulna (f) [cult.]"
             ],
             "Tradução es": [
                 "cúbito",
@@ -37315,8 +37391,10 @@
             "Género": "m",
             "Página": 144,
             "Área": "Anatomía",
-            "SIN.- anular; dedo do aro [pop.]; dedo mediano [pop": [
-                "]"
+            "SIN": [
+                "anular",
+                "dedo do aro [pop.]",
+                "dedo mediano [pop.]"
             ],
             "Tradução es": [
                 "cuarto dedo",
@@ -37407,8 +37485,9 @@
             "Género": "m",
             "Página": 144,
             "Área": "Anatomía",
-            "SIN.- indicador; furabolos [pop": [
-                "]"
+            "SIN": [
+                "indicador",
+                "furabolos [pop.]"
             ],
             "Tradução es": [
                 "dedo índice",
@@ -37433,8 +37512,10 @@
             "Género": "m",
             "Página": 144,
             "Área": "Anatomía",
-            "SIN.- maimiño; dedo auricular; dedo pequeniño [pop": [
-                "]"
+            "SIN": [
+                "maimiño",
+                "dedo auricular",
+                "dedo pequeniño [pop.]"
             ],
             "Tradução es": [
                 "dedo meñique",
@@ -37459,8 +37540,10 @@
             "Género": "m",
             "Página": 145,
             "Área": "Anatomía",
-            "SIN.- medio; pai de todos [pop.]; dedo cordial [cult": [
-                "]"
+            "SIN": [
+                "medio",
+                "pai de todos [pop.]",
+                "dedo cordial [cult.]"
             ],
             "Tradução es": [
                 "dedo corazón",
@@ -37485,8 +37568,13 @@
             "Género": "m",
             "Página": 145,
             "Área": "Anatomía",
-            "SIN.- polgar; pollex; [cult.]; dedo gordo [pop.]; matapiollos [pop.]; cachapiollos [pop": [
-                "]"
+            "SIN": [
+                "polgar",
+                "pollex",
+                "[cult.]",
+                "dedo gordo [pop.]",
+                "matapiollos [pop.]",
+                "cachapiollos [pop.]"
             ],
             "Tradução es": [
                 "dedo pulgar",
@@ -37635,8 +37723,8 @@
             "Tradução pt": [
                 "deglutição"
             ],
-            "Nota.- Evítese “deglución”": [
-                ""
+            "Nota": [
+                "Evítese “deglución”."
             ]
         },
         "1301": {
@@ -37789,8 +37877,11 @@
             "Género": "m",
             "Página": 147,
             "Área": "Anatomía",
-            "SIN.- canino; cabeiro [pop.]; cairo [pop.]; canteiro [pop": [
-                "]"
+            "SIN": [
+                "canino",
+                "cabeiro [pop.]",
+                "cairo [pop.]",
+                "canteiro [pop.]"
             ],
             "Tradução es": [
                 "canino",
@@ -37863,8 +37954,12 @@
             "Género": "m",
             "Página": 147,
             "Área": "Anatomía",
-            "SIN.- terceiro molar; moa do xuízo (f); moa cordal (f); cordal; moa do siso (f) [pop": [
-                "]"
+            "SIN": [
+                "terceiro molar",
+                "moa do xuízo (f)",
+                "moa cordal (f)",
+                "cordal",
+                "moa do siso (f) [pop.]"
             ],
             "Tradução es": [
                 "cordal",
@@ -37891,8 +37986,10 @@
             "Género": "m",
             "Página": 147,
             "Área": "Anatomía",
-            "SIN.- premolar; dente bicúspide; moa (f) [pop": [
-                "]"
+            "SIN": [
+                "premolar",
+                "dente bicúspide",
+                "moa (f) [pop.]"
             ],
             "Tradução es": [
                 "diente premolar",
@@ -38027,8 +38124,8 @@
             "Tradução pt": [
                 "depuração"
             ],
-            "Nota.- Evítese “aclaramento” ou “clareamento”": [
-                ""
+            "Nota": [
+                "Evítese “aclaramento” ou “clareamento”."
             ]
         },
         "1321": {
@@ -38047,8 +38144,8 @@
                 "aclaramento de creatinina",
                 "depuração de creatinina"
             ],
-            "Nota.- Evítese “aclaramento de creatinina”": [
-                ""
+            "Nota": [
+                "Evítese “aclaramento de creatinina”."
             ]
         },
         "1322": {
@@ -38067,8 +38164,8 @@
                 "aclaramento de uréia",
                 "depuração de uréia"
             ],
-            "Nota.- Evítese “aclaramento de urea”": [
-                ""
+            "Nota": [
+                "Evítese “aclaramento de urea”."
             ]
         },
         "1323": {
@@ -38092,7 +38189,10 @@
             "Género": "f",
             "Página": 148,
             "Área": "Patoloxías",
-            "SIN.- dermatose inflamatoria VAR": [
+            "SIN": [
+                "dermatose inflamatoria"
+            ],
+            "VAR": [
                 "dermite"
             ],
             "Tradução es": [
@@ -38383,7 +38483,10 @@
             "Género": "f",
             "Página": 150,
             "Área": "Patoloxías",
-            "SIN.- dermatose VAR": [
+            "SIN": [
+                "dermatose"
+            ],
+            "VAR": [
                 "dermatopatía"
             ],
             "Tradução es": [
@@ -38407,8 +38510,8 @@
             "Género": "m",
             "Página": 150,
             "Área": "Semioloxía",
-            "SIN.- efusión (f) [cult": [
-                "]"
+            "SIN": [
+                "efusión (f) [cult.]"
             ],
             "Tradução es": [
                 "derrame",
@@ -39061,9 +39164,6 @@
             "Género": "f",
             "Página": 153,
             "Área": "Patoloxías",
-            "@SIN": [
-                "diabetes sacarina"
-            ],
             "Tradução es": [
                 "diabetes mellitus",
                 "diabetes sacarina"
@@ -39133,8 +39233,8 @@
             "Tradução pt": [
                 "diafragma"
             ],
-            "Nota.- Designa un ‘contraceptivo feminino de goma ou material plástico que se coloca diante do colo do útero’": [
-                ""
+            "Nota": [
+                "Designa un ‘contraceptivo feminino de goma ou material plástico que se coloca diante do colo do útero’."
             ]
         },
         "1385": {
@@ -39159,8 +39259,8 @@
             "Tradução la": [
                 "diaphragma"
             ],
-            "Nota.- Designa o ‘tabique musculomembranoso que separa o abdome do tórax’": [
-                ""
+            "Nota": [
+                "Designa o ‘tabique musculomembranoso que separa o abdome do tórax’."
             ]
         },
         "1386": {
@@ -39168,7 +39268,11 @@
             "Género": "m",
             "Página": 154,
             "Área": "Anatomía",
-            "SIN.- solo da pelve; solo pelviano VAR": [
+            "SIN": [
+                "solo da pelve",
+                "solo pelviano"
+            ],
+            "VAR": [
                 "diafragma pelviano"
             ],
             "Tradução es": [
@@ -39372,8 +39476,8 @@
             "Género": "f",
             "Página": 155,
             "Área": "Semioloxía",
-            "SIN.- descomposición [pop": [
-                "]"
+            "SIN": [
+                "descomposición [pop.]"
             ],
             "Tradução es": [
                 "diarrea"
@@ -39570,8 +39674,9 @@
             "Género": "m",
             "Página": 156,
             "Área": "Bioquímica",
-            "SIN.- CO2 (sb); anhídrico carbónico [arc": [
-                "]"
+            "SIN": [
+                "CO2 (sb)",
+                "anhídrico carbónico [arc.]"
             ],
             "Tradução es": [
                 "anhídrico carbónico [arc.]",
@@ -39747,8 +39852,8 @@
             "Tradução pt": [
                 "deficiência"
             ],
-            "Nota.- En contextos técnicos, débese evitar o uso de “deficiencia” e de “minusvalidez” polas súas connotacións pexorativas": [
-                ""
+            "Nota": [
+                "En contextos técnicos, débese evitar o uso de “deficiencia” e de “minusvalidez” polas súas connotacións pexorativas."
             ]
         },
         "1421": {
@@ -39772,8 +39877,8 @@
                 "deficiente",
                 "pessoa con deficiência"
             ],
-            "Nota.- En contextos técnicos, débese evitar o uso de “deficiente” e de “minusválido” polas súas connotacións pexorativas": [
-                ""
+            "Nota": [
+                "En contextos técnicos, débese evitar o uso de “deficiente” e de “minusválido” polas súas connotacións pexorativas."
             ]
         },
         "1422": {
@@ -39795,8 +39900,8 @@
                 "discectomia",
                 "dissectomia"
             ],
-            "Nota.- Designa a ‘escisión dun disco intervertebral’. Cfr. con “nucleotomía”": [
-                ""
+            "Nota": [
+                "Designa a ‘escisión dun disco intervertebral’. Cfr. con “nucleotomía”."
             ]
         },
         "1423": {
@@ -40895,8 +41000,8 @@
                 "drágea [Br.]",
                 "drageia [Pt.]"
             ],
-            "Nota.- Evítese “graxea”": [
-                ""
+            "Nota": [
+                "Evítese “graxea”."
             ]
         },
         "1490": {
@@ -41557,8 +41662,8 @@
             "Género": "f",
             "Página": 167,
             "Área": "Semioloxía",
-            "SIN.- penca [pop": [
-                "]",
+            "SIN": [
+                "penca [pop.]",
                 "marxa"
             ],
             "Tradução es": [
@@ -42202,8 +42307,10 @@
             "Género": "m",
             "Página": 171,
             "Área": "Fisioloxía",
-            "SIN.- xestación (f); gravidez (f) [cult.]; preñez (f) [pop": [
-                "]"
+            "SIN": [
+                "xestación (f)",
+                "gravidez (f) [cult.]",
+                "preñez (f) [pop.]"
             ],
             "Tradução es": [
                 "embarazo",
@@ -42395,8 +42502,8 @@
             "Tradução pt": [
                 "emergência"
             ],
-            "Nota.- Designa a ‘situación urxente que pon en perigo inmediato a vida do paciente ou a función dalgún órgano’. Cfr. con “urxencia”": [
-                ""
+            "Nota": [
+                "Designa a ‘situación urxente que pon en perigo inmediato a vida do paciente ou a función dalgún órgano’. Cfr. con “urxencia”."
             ]
         },
         "1575": {
@@ -42473,8 +42580,8 @@
             "Tradução pt": [
                 "emparelhamento"
             ],
-            "Nota.- Designa a ‘asociación lateral activa dos cromosomas no cigoteno’": [
-                ""
+            "Nota": [
+                "Designa a ‘asociación lateral activa dos cromosomas no cigoteno’."
             ]
         },
         "1579": {
@@ -42492,8 +42599,8 @@
             "Tradução pt": [
                 "emparelhamento"
             ],
-            "Nota.- Designa un ‘método para intentar aleatorizar sen erros as mostras dos estudos epidemiolóxicos’": [
-                ""
+            "Nota": [
+                "Designa un ‘método para intentar aleatorizar sen erros as mostras dos estudos epidemiolóxicos’."
             ]
         },
         "1580": {
@@ -42600,7 +42707,10 @@
             "Género": "f",
             "Página": 173,
             "Área": "Patoloxías",
-            "SIN.- craniocele VAR": [
+            "SIN": [
+                "craniocele"
+            ],
+            "VAR": [
                 "cefalocele"
             ],
             "Tradução es": [
@@ -42938,8 +43048,8 @@
             "Tradução pt": [
                 "endoftalmia"
             ],
-            "Nota.- Designa unha ‘proxección anormal do globo ocular cara ao interior da cavidade ocular’": [
-                ""
+            "Nota": [
+                "Designa unha ‘proxección anormal do globo ocular cara ao interior da cavidade ocular’."
             ]
         },
         "1607": {
@@ -42962,8 +43072,8 @@
                 "endoftalmia",
                 "endoftalmite"
             ],
-            "Nota.- Designa unha ‘inflamación dos tecidos internos que compoñen o ollo’": [
-                ""
+            "Nota": [
+                "Designa unha ‘inflamación dos tecidos internos que compoñen o ollo’."
             ]
         },
         "1608": {
@@ -43167,8 +43277,9 @@
             "Género": "m",
             "Página": 176,
             "Área": "Farmacoloxía",
-            "SIN.- lavativa (f) [pop.]; irrigación (f) [cult": [
-                "]"
+            "SIN": [
+                "lavativa (f) [pop.]",
+                "irrigación (f) [cult.]"
             ],
             "Tradução es": [
                 "enema",
@@ -43227,8 +43338,9 @@
             "Género": "s",
             "Página": 176,
             "Área": "Organización sanitaria",
-            "SIN.- auxiliar técnico sanitario [arc.]; ATS [arc": [
-                "]"
+            "SIN": [
+                "auxiliar técnico sanitario [arc.]",
+                "ATS [arc.]"
             ],
             "Tradução es": [
                 "ATS [arc.]",
@@ -43241,8 +43353,8 @@
             "Tradução pt": [
                 "enfermeiro"
             ],
-            "Nota.- En inglés emprégase “male nurse” cando quen exerce esa profesión é un home": [
-                ""
+            "Nota": [
+                "En inglés emprégase “male nurse” cando quen exerce esa profesión é un home."
             ]
         },
         "1625": {
@@ -43405,8 +43517,8 @@
             "Género": "f",
             "Página": 177,
             "Área": "Patoloxías",
-            "SIN.- mal africano (m) [ant": [
-                "]",
+            "SIN": [
+                "mal africano (m) [ant.]",
                 "tripanosomíase africana"
             ],
             "Tradução es": [
@@ -43828,7 +43940,10 @@
             "Género": "m",
             "Página": 180,
             "Área": "Patoloxías",
-            "SIN.- pneumomediastino VAR": [
+            "SIN": [
+                "pneumomediastino"
+            ],
+            "VAR": [
                 "enfisema do mediastino"
             ],
             "Tradução es": [
@@ -44302,8 +44417,8 @@
             "Género": "f",
             "Página": 182,
             "Área": "Farmacoloxía",
-            "SIN.- lavadura [pop": [
-                "]"
+            "SIN": [
+                "lavadura [pop.]"
             ],
             "Tradução es": [
                 "enjuague"
@@ -44821,9 +44936,6 @@
             "Género": "m",
             "Página": 185,
             "Área": "Patoloxías",
-            "@SIN": [
-                "fisura uretral superior (f)"
-            ],
             "Tradução es": [
                 "epispadia",
                 "epispadias"
@@ -44984,8 +45096,9 @@
             "Género": "f",
             "Página": 186,
             "Área": "Semioloxía",
-            "SIN.- mazadura [pop.]; negrón (m) [pop": [
-                "]"
+            "SIN": [
+                "mazadura [pop.]",
+                "negrón (m) [pop.]"
             ],
             "Tradução es": [
                 "cardenal [pop.]",
@@ -45492,8 +45605,11 @@
             "Género": "f",
             "Página": 189,
             "Área": "Anatomía",
-            "SIN.- omoplata; espádoa [pop.]; pa [pop.]; paleta [pop": [
-                "]"
+            "SIN": [
+                "omoplata",
+                "espádoa [pop.]",
+                "pa [pop.]",
+                "paleta [pop.]"
             ],
             "Tradução es": [
                 "escápula",
@@ -45584,8 +45700,8 @@
             "Tradução la": [
                 "excavatio rectouterina"
             ],
-            "Nota.- A denominación “fondo de saco de Douglas” designa tanto este concepto como a “escavación rectovesical”": [
-                ""
+            "Nota": [
+                "A denominación “fondo de saco de Douglas” designa tanto este concepto como a “escavación rectovesical”."
             ]
         },
         "1757": {
@@ -45614,8 +45730,8 @@
             "Tradução la": [
                 "excavatio rectovesicalis"
             ],
-            "Nota.- A denominación “fondo de saco de Douglas” designa tanto este concepto como a “escavación rectouterina”": [
-                ""
+            "Nota": [
+                "A denominación “fondo de saco de Douglas” designa tanto este concepto como a “escavación rectouterina”."
             ]
         },
         "1758": {
@@ -45623,8 +45739,8 @@
             "Género": "f",
             "Página": 189,
             "Área": "Anatomía",
-            "SIN.- branco do ollo (m) [pop": [
-                "]",
+            "SIN": [
+                "branco do ollo (m) [pop.]",
                 "albuginea oculi"
             ],
             "[cult.] VAR": [
@@ -45895,8 +46011,9 @@
             "Género": "f",
             "Página": 191,
             "Área": "Patoloxías",
-            "SIN.- torcedura; esnogadura [pop": [
-                "]"
+            "SIN": [
+                "torcedura",
+                "esnogadura [pop.]"
             ],
             "Tradução es": [
                 "esguince"
@@ -46082,7 +46199,11 @@
             "Género": "m",
             "Página": 192,
             "Área": "Anatomía",
-            "SIN.- esfínter anorrectal; esfíncter anorrectal VAR": [
+            "SIN": [
+                "esfínter anorrectal",
+                "esfíncter anorrectal"
+            ],
+            "VAR": [
                 "esfíncter anal"
             ],
             "Tradução es": [
@@ -46104,7 +46225,10 @@
             "Género": "m",
             "Página": 192,
             "Área": "Anatomía",
-            "SIN.- constrición diafragmática (f) VAR": [
+            "SIN": [
+                "constrición diafragmática (f)"
+            ],
+            "VAR": [
                 "esfíncter esofáxico inferior"
             ],
             "Tradução es": [
@@ -47162,8 +47286,8 @@
             "Género": "f",
             "Página": 198,
             "Área": "Semioloxía",
-            "SIN.- esgarro [pop": [
-                "]"
+            "SIN": [
+                "esgarro [pop.]"
             ],
             "Tradução es": [
                 "esputo"
@@ -47303,8 +47427,8 @@
             "Tradução pt": [
                 "estafiloplastia"
             ],
-            "Nota.- Non se deben empregar como sinónimos “palatoplastia” e “uranoplastia”, que designan a cirurxía que afecta tanto o padal duro como o brando": [
-                ""
+            "Nota": [
+                "Non se deben empregar como sinónimos “palatoplastia” e “uranoplastia”, que designan a cirurxía que afecta tanto o padal duro como o brando."
             ]
         },
         "1852": {
@@ -47340,8 +47464,8 @@
             "Tradução pt": [
                 "estafilorrafia"
             ],
-            "Nota.- Non se deben empregar como sinónimos “palatorrafia” e “uranorrafia”, que designan a corrección cirúrxica que afecta a todo o padal": [
-                ""
+            "Nota": [
+                "Non se deben empregar como sinónimos “palatorrafia” e “uranorrafia”, que designan a corrección cirúrxica que afecta a todo o padal."
             ]
         },
         "1854": {
@@ -47624,8 +47748,8 @@
                 "castração",
                 "esterilização"
             ],
-            "Nota.- Designa a ‘extirpación das glándulas xenitais’": [
-                ""
+            "Nota": [
+                "Designa a ‘extirpación das glándulas xenitais’."
             ]
         },
         "1871": {
@@ -47642,8 +47766,8 @@
             "Tradução pt": [
                 "esterilização"
             ],
-            "Nota.- Designa a ‘eliminación de toda forma de vida mediante medios físicos, químicos, mecánicos ou por radiación, especialmente a eliminación de patóxenos do material cirúrxico’": [
-                ""
+            "Nota": [
+                "Designa a ‘eliminación de toda forma de vida mediante medios físicos, químicos, mecánicos ou por radiación, especialmente a eliminación de patóxenos do material cirúrxico’."
             ]
         },
         "1872": {
@@ -47669,8 +47793,9 @@
             "Género": "m",
             "Página": 201,
             "Área": "Anatomía",
-            "SIN.- escudo do corazón [pop.]; óso do peito [pop": [
-                "]"
+            "SIN": [
+                "escudo do corazón [pop.]",
+                "óso do peito [pop.]"
             ],
             "Tradução es": [
                 "esternón"
@@ -47684,8 +47809,8 @@
             "Tradução la": [
                 "sternum"
             ],
-            "Nota.- Evítese “esternón”": [
-                ""
+            "Nota": [
+                "Evítese “esternón”."
             ]
         },
         "1874": {
@@ -47986,8 +48111,11 @@
             "Género": "m",
             "Página": 202,
             "Área": "Semioloxía Patoloxías",
-            "SIN.- apertamento [pop.]; retraemento [cult.]; constipación (f) [cult.]; astricción (f) [cult": [
-                "]"
+            "SIN": [
+                "apertamento [pop.]",
+                "retraemento [cult.]",
+                "constipación (f) [cult.]",
+                "astricción (f) [cult.]"
             ],
             "Tradução es": [
                 "constipación de vientre",
@@ -48557,7 +48685,11 @@
             "Género": "f",
             "Página": 206,
             "Área": "Semioloxía",
-            "SIN.- oftalmocele (m); oftalmoptose VAR": [
+            "SIN": [
+                "oftalmocele (m)",
+                "oftalmoptose"
+            ],
+            "VAR": [
                 "exoftalmo (m)"
             ],
             "Tradução es": [
@@ -48898,8 +49030,8 @@
             "Tradução la": [
                 "facies"
             ],
-            "Nota.- Designa ‘calquera das superficies que limitan un órgano’. Cfr. con “cara”": [
-                ""
+            "Nota": [
+                "Designa ‘calquera das superficies que limitan un órgano’. Cfr. con “cara”."
             ]
         },
         "1944": {
@@ -49465,8 +49597,8 @@
             "Género": "f",
             "Página": 211,
             "Área": "Anatomía",
-            "SIN.- gorxa [pop": [
-                "]"
+            "SIN": [
+                "gorxa [pop.]"
             ],
             "Tradução es": [
                 "faringe"
@@ -49696,8 +49828,8 @@
             "Género": "f",
             "Página": 212,
             "Área": "Semioloxía",
-            "SIN.- quentura [pop": [
-                "]"
+            "SIN": [
+                "quentura [pop.]"
             ],
             "Tradução es": [
                 "calentura [pop.]",
@@ -49923,8 +50055,8 @@
             "Tradução pt": [
                 "fecundidade"
             ],
-            "Nota.- Designa o ‘resultado da actividade reprodutiva dunha persoa, unha parella, un grupo ou unha poboación’. Cfr. con “fertilidade”": [
-                ""
+            "Nota": [
+                "Designa o ‘resultado da actividade reprodutiva dunha persoa, unha parella, un grupo ou unha poboación’. Cfr. con “fertilidade”."
             ]
         },
         "2000": {
@@ -50149,8 +50281,8 @@
             "Tradução pt": [
                 "fertilidade"
             ],
-            "Nota.- Designa a ‘capacidade fisiolóxica dunha muller, dun home ou dunha parella para producir un fillo ou filla vivos’. Cfr. con “fecundidade”": [
-                ""
+            "Nota": [
+                "Designa a ‘capacidade fisiolóxica dunha muller, dun home ou dunha parella para producir un fillo ou filla vivos’. Cfr. con “fecundidade”."
             ]
         },
         "2013": {
@@ -50446,8 +50578,8 @@
             "Tradução la": [
                 "fibrocartilago"
             ],
-            "Nota.- Evítese “fibrocartílago”": [
-                ""
+            "Nota": [
+                "Evítese “fibrocartílago”."
             ]
         },
         "2030": {
@@ -51387,8 +51519,11 @@
             "Género": "m",
             "Página": 221,
             "Área": "Instrumental",
-            "SIN.- estetoscopio VAR.- fonendo [col": [
-                "]"
+            "SIN": [
+                "estetoscopio"
+            ],
+            "VAR": [
+                "fonendo [col.]"
             ],
             "Tradução es": [
                 "estetoscopio",
@@ -51409,8 +51544,10 @@
             "Género": "f",
             "Página": 221,
             "Área": "Anatomía",
-            "SIN.- fontanela cranial; fontela; moleira [pop": [
-                "]"
+            "SIN": [
+                "fontanela cranial",
+                "fontela",
+                "moleira [pop.]"
             ],
             "Tradução es": [
                 "fontanela",
@@ -51903,8 +52040,8 @@
             "Tradução la": [
                 "fovea"
             ],
-            "Nota.- Designa ‘calquera fosa ou depresión anatómica de pequeno tamaño’": [
-                ""
+            "Nota": [
+                "Designa ‘calquera fosa ou depresión anatómica de pequeno tamaño’."
             ]
         },
         "2114": {
@@ -51946,8 +52083,8 @@
             "Tradução la": [
                 "fovea centralis"
             ],
-            "Nota.- Designa a ‘depresión localizada na mácula lútea da retina’": [
-                ""
+            "Nota": [
+                "Designa a ‘depresión localizada na mácula lútea da retina’."
             ]
         },
         "2116": {
@@ -52014,8 +52151,8 @@
                 "RAP (sg)",
                 "risco atribuível percentual"
             ],
-            "Nota.- Cfr. con “risco atribuíble”": [
-                ""
+            "Nota": [
+                "Cfr. con “risco atribuíble”."
             ]
         },
         "2119": {
@@ -52153,8 +52290,8 @@
             "Tradução la": [
                 "frons"
             ],
-            "Nota.- Evítese “frente”": [
-                ""
+            "Nota": [
+                "Evítese “frente”."
             ]
         },
         "2127": {
@@ -52226,8 +52363,8 @@
             "Género": "f",
             "Página": 225,
             "Área": "Probas complementarias",
-            "SIN.- fondo de ollo (m) [col": [
-                "]"
+            "SIN": [
+                "fondo de ollo (m) [col.]"
             ],
             "Tradução es": [
                 "fondo de ojo [col.]",
@@ -52278,8 +52415,12 @@
             "Género": "m",
             "Página": 226,
             "Área": "Patoloxías",
-            "SIN.- furuncho; brumeiro [pop.]; carafuncho [pop.]; leixenzo [pop.]; neixarigo [pop": [
-                "]"
+            "SIN": [
+                "furuncho",
+                "brumeiro [pop.]",
+                "carafuncho [pop.]",
+                "leixenzo [pop.]",
+                "neixarigo [pop.]"
             ],
             "Tradução es": [
                 "furúnculo"
@@ -52435,8 +52576,8 @@
             "Tradução pt": [
                 "gamaglobulina"
             ],
-            "Nota.- Designa as ‘inmunoglobulinas que posúen unha mobilidade electroforética de tipo gamma’. Cfr. con “inmunoglobulina”": [
-                ""
+            "Nota": [
+                "Designa as ‘inmunoglobulinas que posúen unha mobilidade electroforética de tipo gamma’. Cfr. con “inmunoglobulina”."
             ]
         },
         "2143": {
@@ -52583,8 +52724,8 @@
             "Tradução pt": [
                 "gangrena"
             ],
-            "Nota.- Evítese “cangrena”": [
-                ""
+            "Nota": [
+                "Evítese “cangrena”."
             ]
         },
         "2152": {
@@ -52669,8 +52810,8 @@
             "Tradução pt": [
                 "débito cardíaco"
             ],
-            "Nota.- Cfr. con “traballo cardíaco”": [
-                ""
+            "Nota": [
+                "Cfr. con “traballo cardíaco”."
             ]
         },
         "2157": {
@@ -53004,8 +53145,8 @@
             "Tradução la": [
                 "glans"
             ],
-            "Nota.- Designa unha ‘zona anatómica de pequeno tamaño que posúe unha forma arredondada’. Cando se refire en concreto ao glande do pene, podemos empregar “bálano” como sinónimo": [
-                ""
+            "Nota": [
+                "Designa unha ‘zona anatómica de pequeno tamaño que posúe unha forma arredondada’. Cando se refire en concreto ao glande do pene, podemos empregar “bálano” como sinónimo."
             ]
         },
         "2178": {
@@ -53976,7 +54117,10 @@
             "Género": "f",
             "Página": 235,
             "Área": "Bioquímica Fisioloxía",
-            "SIN.- hCG (sg) VAR": [
+            "SIN": [
+                "hCG (sg)"
+            ],
+            "VAR": [
                 "gonadotrofina coriónica humana"
             ],
             "Tradução es": [
@@ -54084,8 +54228,8 @@
             "Tradução pt": [
                 "gota"
             ],
-            "Nota.- Os termos “podagra” e “podagrismo” (PT: podagra. EN: podagra. ES: podagra) indican un tipo específico de gota , aínda que ás veces se usan -de xeito impreciso- como sinónimos desta": [
-                ""
+            "Nota": [
+                "Os termos “podagra” e “podagrismo” (PT: podagra. EN: podagra. ES: podagra) indican un tipo específico de gota , aínda que ás veces se usan -de xeito impreciso- como sinónimos desta."
             ]
         },
         "2239": {
@@ -54132,8 +54276,8 @@
             "Tradução pt": [
                 "grânulo"
             ],
-            "Nota.- Designa unha ‘pequena pílula que contén unha mínima cantidade de medicamento e que se administra en forma de granulado’": [
-                ""
+            "Nota": [
+                "Designa unha ‘pequena pílula que contén unha mínima cantidade de medicamento e que se administra en forma de granulado’."
             ]
         },
         "2242": {
@@ -54150,8 +54294,8 @@
             "Tradução pt": [
                 "grânulo"
             ],
-            "Nota.- Designa unha ‘pequena estrutura que se pode observar ao microscopio no interior das células’": [
-                ""
+            "Nota": [
+                "Designa unha ‘pequena estrutura que se pode observar ao microscopio no interior das células’."
             ]
         },
         "2243": {
@@ -54186,8 +54330,8 @@
                 "granulocitopenia",
                 "granulopenia"
             ],
-            "Nota.- Designa a ‘diminución do número de granulocitos a menos de mil por milímetro cúbico de sangue’. Cfr. con “agranulocitose”": [
-                ""
+            "Nota": [
+                "Designa a ‘diminución do número de granulocitos a menos de mil por milímetro cúbico de sangue’. Cfr. con “agranulocitose”."
             ]
         },
         "2245": {
@@ -54642,7 +54786,11 @@
             "Género": "f",
             "Página": 239,
             "Área": "Fisioloxía",
-            "SIN.- hematoxénese; hemocitopoese VAR": [
+            "SIN": [
+                "hematoxénese",
+                "hemocitopoese"
+            ],
+            "VAR": [
                 "hemopoese"
             ],
             "Tradução es": [
@@ -55122,8 +55270,8 @@
             "Género": "f",
             "Página": 241,
             "Área": "Patoloxías",
-            "SIN.- almorrá [pop": [
-                "]"
+            "SIN": [
+                "almorrá [pop.]"
             ],
             "Tradução es": [
                 "almorrana [pop.]",
@@ -55215,7 +55363,10 @@
             "Género": "m",
             "Página": 242,
             "Área": "Semioloxía Patoloxías",
-            "SIN.- hemopleura (f) VAR": [
+            "SIN": [
+                "hemopleura (f)"
+            ],
+            "VAR": [
                 "hematotórax"
             ],
             "Tradução es": [
@@ -55658,8 +55809,9 @@
             "Género": "f",
             "Página": 244,
             "Área": "Patoloxías",
-            "SIN.- crebadura [pop.]; quebradura [pop": [
-                "]"
+            "SIN": [
+                "crebadura [pop.]",
+                "quebradura [pop.]"
             ],
             "Tradução es": [
                 "hernia"
@@ -55934,8 +56086,8 @@
                 "herpes labial",
                 "herpes simples oral"
             ],
-            "Nota.- Popularmente recibe o nome de “boqueira”, pero este nome designa ‘calquera proceso inflamatorio superficial nas comisuras dos labios’ e non especificamente un herpes": [
-                ""
+            "Nota": [
+                "Popularmente recibe o nome de “boqueira”, pero este nome designa ‘calquera proceso inflamatorio superficial nas comisuras dos labios’ e non especificamente un herpes."
             ]
         },
         "2348": {
@@ -55999,8 +56151,8 @@
             "Género": "m",
             "Página": 246,
             "Área": "Patoloxías",
-            "SIN.- goxo [pop": [
-                "]"
+            "SIN": [
+                "goxo [pop.]"
             ],
             "Tradução es": [
                 "culebrilla [pop.]",
@@ -56394,7 +56546,10 @@
             "Género": "f",
             "Página": 248,
             "Área": "Patoloxías",
-            "SIN.- uronefrose VAR": [
+            "SIN": [
+                "uronefrose"
+            ],
+            "VAR": [
                 "nefrohidrose"
             ],
             "Tradução es": [
@@ -57436,8 +57591,10 @@
             "Género": "f",
             "Página": 253,
             "Área": "Etiopatoxenia Patoloxías",
-            "SIN.- presión sanguínea alta; hipertensión; tensión alta [pop": [
-                "]"
+            "SIN": [
+                "presión sanguínea alta",
+                "hipertensión",
+                "tensión alta [pop.]"
             ],
             "Tradução es": [
                 "hipertensión",
@@ -57460,9 +57617,6 @@
             "Género": "f",
             "Página": 253,
             "Área": "Semioloxía",
-            "@SIN": [
-                "hipertensión endocranial"
-            ],
             "Tradução es": [
                 "hipertensión intracraneal"
             ],
@@ -57518,8 +57672,8 @@
                 "hipertireoidismo",
                 "hipertiroidismo"
             ],
-            "Nota.- Designa o ‘exceso da función tiroide’. Cfr. con “tirotoxicose”": [
-                ""
+            "Nota": [
+                "Designa o ‘exceso da función tiroide’. Cfr. con “tirotoxicose”."
             ]
         },
         "2441": {
@@ -57985,8 +58139,8 @@
             "Tradução pt": [
                 "hipogamaglobulinemia"
             ],
-            "Nota.- Designa o ‘déficit ou diminución dos niveis plasmáticos de globulinas gamma’. Cfr. con “agammaglobulinemia”": [
-                ""
+            "Nota": [
+                "Designa o ‘déficit ou diminución dos niveis plasmáticos de globulinas gamma’. Cfr. con “agammaglobulinemia”."
             ]
         },
         "2469": {
@@ -58034,8 +58188,8 @@
             "Tradução pt": [
                 "hipogonadismo"
             ],
-            "Nota.- Aínda que “hipoxenitalismo” (PT: hipogenitalismo. EN: hypogenitalism. ES: hipogenitalismo) se usa por veces como sinónimo, realmente é só unha consecuencia do “hipogonadismo”": [
-                ""
+            "Nota": [
+                "Aínda que “hipoxenitalismo” (PT: hipogenitalismo. EN: hypogenitalism. ES: hipogenitalismo) se usa por veces como sinónimo, realmente é só unha consecuencia do “hipogonadismo”."
             ]
         },
         "2472": {
@@ -58538,8 +58692,9 @@
             "Género": "f",
             "Página": 259,
             "Área": "Terapéutica",
-            "SIN.- uterectomía; baleirado (m) [pop": [
-                "]"
+            "SIN": [
+                "uterectomía",
+                "baleirado (m) [pop.]"
             ],
             "Tradução es": [
                 "histerectomía",
@@ -58696,7 +58851,10 @@
             "Género": "m",
             "Página": 260,
             "Área": "Histoloxía",
-            "SIN.- endoteliocito VAR": [
+            "SIN": [
+                "endoteliocito"
+            ],
+            "VAR": [
                 "histocito"
             ],
             "Tradução es": [
@@ -58821,8 +58979,8 @@
             "Tradução pt": [
                 "história clínica"
             ],
-            "Nota.- Cfr. con “historia médica”": [
-                ""
+            "Nota": [
+                "Cfr. con “historia médica”."
             ]
         },
         "2519": {
@@ -58865,8 +59023,8 @@
                 "prontuário médico [Br.]",
                 "registo clínico"
             ],
-            "Nota.- Cfr. con “historia clínica”": [
-                ""
+            "Nota": [
+                "Cfr. con “historia clínica”."
             ]
         },
         "2521": {
@@ -58978,7 +59136,12 @@
             "Género": "f",
             "Página": 261,
             "Área": "Fisioloxía Bioquímica",
-            "SIN.- ACTH (sg); adrenocorticotropina; corticotropina VAR": [
+            "SIN": [
+                "ACTH (sg)",
+                "adrenocorticotropina",
+                "corticotropina"
+            ],
+            "VAR": [
                 "hormona adrenocorticótropa"
             ],
             "Tradução es": [
@@ -59271,7 +59434,10 @@
             "Género": "f",
             "Página": 263,
             "Área": "Terapéutica",
-            "SIN.- endocrinoterapia VAR": [
+            "SIN": [
+                "endocrinoterapia"
+            ],
+            "VAR": [
                 "terapia hormonal"
             ],
             "Tradução es": [
@@ -59346,8 +59512,8 @@
             "Género": "m",
             "Página": 263,
             "Área": "Organización sanitaria",
-            "SIN.- sanatorio [arc": [
-                "]"
+            "SIN": [
+                "sanatorio [arc.]"
             ],
             "Tradução es": [
                 "hospital de media y larga estancia",
@@ -59401,8 +59567,8 @@
             "Tradução pt": [
                 "internação domiciliar"
             ],
-            "Nota.- Cfr. con “asistencia domiciliaria”": [
-                ""
+            "Nota": [
+                "Cfr. con “asistencia domiciliaria”."
             ]
         },
         "2546": {
@@ -59419,8 +59585,8 @@
             "Tradução pt": [
                 "humor"
             ],
-            "Nota.- Designa ‘calquera fluído orgánico”": [
-                ""
+            "Nota": [
+                "Designa ‘calquera fluído orgánico”."
             ]
         },
         "2547": {
@@ -59437,8 +59603,8 @@
             "Tradução pt": [
                 "humor"
             ],
-            "Nota.- Designa un ‘tipo de disposición afectiva orientada cara á ledicia ou á tristeza’": [
-                ""
+            "Nota": [
+                "Designa un ‘tipo de disposición afectiva orientada cara á ledicia ou á tristeza’."
             ]
         },
         "2548": {
@@ -59704,8 +59870,8 @@
             "Tradução la": [
                 "ileum"
             ],
-            "Nota.- Designa a ‘porción do intestino delgado que se estende entre o xexuno e o colon’": [
-                ""
+            "Nota": [
+                "Designa a ‘porción do intestino delgado que se estende entre o xexuno e o colon’."
             ]
         },
         "2563": {
@@ -59729,8 +59895,8 @@
                 "íleo",
                 "obstrução intestinal"
             ],
-            "Nota.- Designa un ‘tipo de bloqueo intestinal que interrompe o paso do seu contido’": [
-                ""
+            "Nota": [
+                "Designa un ‘tipo de bloqueo intestinal que interrompe o paso do seu contido’."
             ]
         },
         "2564": {
@@ -59819,8 +59985,8 @@
             "Tradução pt": [
                 "isolamento"
             ],
-            "Nota.- Designa a ‘separación dunha persoa infectada durante o período de transmisibilidade da súa doenza, intentando evitar que esta se lles transmita a outras persoas’": [
-                ""
+            "Nota": [
+                "Designa a ‘separación dunha persoa infectada durante o período de transmisibilidade da súa doenza, intentando evitar que esta se lles transmita a outras persoas’."
             ]
         },
         "2569": {
@@ -59837,8 +60003,8 @@
             "Tradução pt": [
                 "isolamento"
             ],
-            "Nota.- Designa un ‘mecanismo de defensa do suxeito, que satisfai parcialmente de forma mental ou simbólica un acto que lle está prohibido’": [
-                ""
+            "Nota": [
+                "Designa un ‘mecanismo de defensa do suxeito, que satisfai parcialmente de forma mental ou simbólica un acto que lle está prohibido’."
             ]
         },
         "2570": {
@@ -59923,8 +60089,8 @@
             "Tradução pt": [
                 "implantação"
             ],
-            "Nota.- Designa a ‘fixación cirúrxica dun órgano, dunha parte, ou dun tecido noutro órgano’. Cfr. con “implante”": [
-                ""
+            "Nota": [
+                "Designa a ‘fixación cirúrxica dun órgano, dunha parte, ou dun tecido noutro órgano’. Cfr. con “implante”."
             ]
         },
         "2575": {
@@ -59941,8 +60107,8 @@
             "Tradução pt": [
                 "implante"
             ],
-            "Nota.- Designa a ‘materia -orgánica ou inorgánica- que é implantada no corpo dunha persoa’. Cfr. con “implantación”": [
-                ""
+            "Nota": [
+                "Designa a ‘materia -orgánica ou inorgánica- que é implantada no corpo dunha persoa’. Cfr. con “implantación”."
             ]
         },
         "2576": {
@@ -59950,8 +60116,8 @@
             "Género": "f",
             "Página": 267,
             "Área": "Patoloxías",
-            "SIN.- disfunción eréctil [cult": [
-                "]"
+            "SIN": [
+                "disfunción eréctil [cult.]"
             ],
             "Tradução es": [
                 "disfunción eréctil [cult.]",
@@ -59981,8 +60147,8 @@
             "Tradução pt": [
                 "impressão digital"
             ],
-            "Nota.- Designa a ‘marca deixada polo contacto dun dedo nunha superficie’": [
-                ""
+            "Nota": [
+                "Designa a ‘marca deixada polo contacto dun dedo nunha superficie’."
             ]
         },
         "2578": {
@@ -60005,8 +60171,8 @@
             "Tradução pt": [
                 "impressão digital do DNA"
             ],
-            "Nota.- Designa a ‘identificación de múltiples alelos específicos no ADN dunha persoa co fin de atopar un identificador único para ela’": [
-                ""
+            "Nota": [
+                "Designa a ‘identificación de múltiples alelos específicos no ADN dunha persoa co fin de atopar un identificador único para ela’."
             ]
         },
         "2579": {
@@ -61021,9 +61187,6 @@
             "Género": "m",
             "Página": 273,
             "Área": "Farmacoloxía",
-            "@SIN": [
-                "ISRS (sg)"
-            ],
             "Tradução es": [
                 "inhibidor selectivo de la recaptación de la serotonina",
                 "ISRS (sg)"
@@ -61262,8 +61425,8 @@
             "Tradução pt": [
                 "imunodepressão"
             ],
-            "Nota.- Designa a ‘diminunción da inmunidade provocada por causas patolóxicas’. Cfr. con “inmunosupresión”": [
-                ""
+            "Nota": [
+                "Designa a ‘diminunción da inmunidade provocada por causas patolóxicas’. Cfr. con “inmunosupresión”."
             ]
         },
         "2654": {
@@ -61328,8 +61491,8 @@
             "Tradução pt": [
                 "imunoglobulina"
             ],
-            "Nota.- Cfr. con “gammaglobulina”": [
-                ""
+            "Nota": [
+                "Cfr. con “gammaglobulina”."
             ]
         },
         "2658": {
@@ -61406,8 +61569,8 @@
             "Tradução pt": [
                 "imunossupressão"
             ],
-            "Nota.- Designa a ‘anulación da inmunidade provocada artificialmente’. Cfr. con “inmunodepresión”": [
-                ""
+            "Nota": [
+                "Designa a ‘anulación da inmunidade provocada artificialmente’. Cfr. con “inmunodepresión”."
             ]
         },
         "2663": {
@@ -62110,8 +62273,8 @@
             "Género": "f",
             "Página": 279,
             "Área": "Terapéutica",
-            "SIN.- operación [pop": [
-                "]"
+            "SIN": [
+                "operación [pop.]"
             ],
             "Tradução es": [
                 "intervención",
@@ -62348,8 +62511,8 @@
             "Tradução pt": [
                 "ingesta"
             ],
-            "Nota.- Designa o ‘conxunto de materias que se introducen no organismo por vía oral con finalidade alimenticia’. Cfr": [
-                "con “inxestión”:"
+            "Nota": [
+                "Designa o ‘conxunto de materias que se introducen no organismo por vía oral con finalidade alimenticia’. Cfr. con “inxestión”:"
             ]
         },
         "2715": {
@@ -62366,8 +62529,8 @@
             "Tradução pt": [
                 "ingestão"
             ],
-            "Nota.- Designa a ‘introdución no organismo de alimentos, medicamentos ou calquera outra substancia a través da boca’. Cfr. con “inxesta”": [
-                ""
+            "Nota": [
+                "Designa a ‘introdución no organismo de alimentos, medicamentos ou calquera outra substancia a través da boca’. Cfr. con “inxesta”."
             ]
         },
         "2716": {
@@ -64275,8 +64438,8 @@
             "Tradução pt": [
                 "libido"
             ],
-            "Nota.- Evítese “líbido”": [
-                ""
+            "Nota": [
+                "Evítese “líbido”."
             ]
         },
         "2825": {
@@ -66160,7 +66323,10 @@
             "Género": "m",
             "Página": 300,
             "Área": "Anatomía",
-            "SIN.- ínsula (f) VAR": [
+            "SIN": [
+                "ínsula (f)"
+            ],
+            "VAR": [
                 "lobo insular"
             ],
             "Tradução es": [
@@ -66857,8 +67023,8 @@
             "Género": "f",
             "Página": 304,
             "Área": "Anatomía",
-            "SIN.- bico do peito (m) [pop": [
-                "]",
+            "SIN": [
+                "bico do peito (m) [pop.]",
                 "papila da mama"
             ],
             "Tradução es": [
@@ -66910,7 +67076,10 @@
             "Género": "f",
             "Página": 304,
             "Área": "Terapéutica",
-            "SIN.- mastoplastia VAR": [
+            "SIN": [
+                "mastoplastia"
+            ],
+            "VAR": [
                 "mamaplastia"
             ],
             "Tradução es": [
@@ -67403,9 +67572,6 @@
             "Género": "m",
             "Página": 306,
             "Área": "Xenética",
-            "@SIN": [
-                "cadro de lectura"
-            ],
             "Tradução es": [
                 "cuadro de lectura",
                 "pauta de lectura"
@@ -67461,8 +67627,8 @@
             "Tradução pt": [
                 "martelo"
             ],
-            "Nota.- Designa un ‘aparello formado por un mango e unha cabeza percutora de diversos materiais, que se emprega en manobras exploratorias ou cirúrxicas’": [
-                ""
+            "Nota": [
+                "Designa un ‘aparello formado por un mango e unha cabeza percutora de diversos materiais, que se emprega en manobras exploratorias ou cirúrxicas’."
             ]
         },
         "3005": {
@@ -67483,8 +67649,8 @@
             "Tradução la": [
                 "malleus"
             ],
-            "Nota.- Designa o ‘primeiro dos ósos que constitúen a cadea do oído medio, situado detrás da membrana timpánica’": [
-                ""
+            "Nota": [
+                "Designa o ‘primeiro dos ósos que constitúen a cadea do oído medio, situado detrás da membrana timpánica’."
             ]
         },
         "3006": {
@@ -67707,8 +67873,9 @@
             "Género": "s",
             "Página": 308,
             "Área": "Organización sanitaria",
-            "SIN.- comadrón -oa [pop.]; parteiro -ra [pop": [
-                "]"
+            "SIN": [
+                "comadrón -oa [pop.]",
+                "parteiro -ra [pop.]"
             ],
             "Tradução es": [
                 "comadrón [pop.]",
@@ -67720,8 +67887,8 @@
             "Tradução pt": [
                 "parteiro"
             ],
-            "Nota.- Aínda que incluímos as entradas en masculino por manter a coherencia co resto do traballo, na inmensa maioría das ocasións empréganse en feminino (matrona ou comadroa)": [
-                ""
+            "Nota": [
+                "Aínda que incluímos as entradas en masculino por manter a coherencia co resto do traballo, na inmensa maioría das ocasións empréganse en feminino (matrona ou comadroa)."
             ]
         },
         "3020": {
@@ -67918,8 +68085,10 @@
             "Género": "m",
             "Página": 309,
             "Área": "Farmacoloxía",
-            "SIN.- fármaco; medicina (f); menciña (f) [pop": [
-                "]"
+            "SIN": [
+                "fármaco",
+                "medicina (f)",
+                "menciña (f) [pop.]"
             ],
             "Tradução es": [
                 "fármaco",
@@ -68004,7 +68173,10 @@
             "Género": "f",
             "Página": 310,
             "Área": "Organización sanitaria",
-            "SIN.- medicina de cabeceira [arc.] VAR": [
+            "SIN": [
+                "medicina de cabeceira [arc.]"
+            ],
+            "VAR": [
                 "medicina de familia"
             ],
             "Tradução es": [
@@ -68157,8 +68329,8 @@
                 "doutor",
                 "médico"
             ],
-            "Nota.- Aínda que o “médico” só acada o título de “doutor” despois de realizar estudos de doutoramento, na práctica as dúas denominacións funcionan como sinónimos no sistema sanitario español": [
-                ""
+            "Nota": [
+                "Aínda que o “médico” só acada o título de “doutor” despois de realizar estudos de doutoramento, na práctica as dúas denominacións funcionan como sinónimos no sistema sanitario español."
             ]
         },
         "3044": {
@@ -68166,8 +68338,8 @@
             "Género": "s",
             "Página": 311,
             "Área": "Organización sanitaria",
-            "SIN.- médico -ca de cabeceira [pop": [
-                "]"
+            "SIN": [
+                "médico -ca de cabeceira [pop.]"
             ],
             "Tradução es": [
                 "médico de cabeceira [pop.]",
@@ -68256,8 +68428,8 @@
             "Tradução la": [
                 "medulla spinalis"
             ],
-            "Nota.- Evítese “médula”": [
-                ""
+            "Nota": [
+                "Evítese “médula”."
             ]
         },
         "3049": {
@@ -68995,8 +69167,8 @@
             "Tradução pt": [
                 "menopausa"
             ],
-            "Nota.- Cfr. con “climaterio”": [
-                ""
+            "Nota": [
+                "Cfr. con “climaterio”."
             ]
         },
         "3092": {
@@ -69019,8 +69191,11 @@
             "Género": "f",
             "Página": 316,
             "Área": "Fisioloxía",
-            "SIN.- catamenia; menorrea; período (m) [pop.]; regra [pop": [
-                "]"
+            "SIN": [
+                "catamenia",
+                "menorrea",
+                "período (m) [pop.]",
+                "regra [pop.]"
             ],
             "Tradução es": [
                 "catamenia",
@@ -70017,7 +70192,10 @@
             "Género": "f",
             "Página": 321,
             "Área": "Patoloxías",
-            "SIN.- mielopatía cervical VAR": [
+            "SIN": [
+                "mielopatía cervical"
+            ],
+            "VAR": [
                 "mielopatía espondilótica cervical",
                 "mielopatía cervical espondilítica",
                 "mielopatía espondilítica"
@@ -71253,8 +71431,10 @@
             "Género": "f",
             "Página": 327,
             "Área": "Termos xerais",
-            "SIN.- pasamento (m); exitus(m) [cult.]; finamento (m) [cult": [
-                "]"
+            "SIN": [
+                "pasamento (m)",
+                "exitus(m) [cult.]",
+                "finamento (m) [cult.]"
             ],
             "Tradução es": [
                 "exitus [cult.]",
@@ -71283,8 +71463,8 @@
             "Tradução pt": [
                 "morte assistida"
             ],
-            "Nota.- Non incluímos como sinónimo “suicidio asistido” (EN: assisted suicide. ES: suicidio asistido": [
-                "PT: suicídio assistido) porque esta denominación parece aludir a que se lle está a arrebatar a vida ao paciente, cando a “morte asistida” só se aplica en caso de que a morte do doente sexa"
+            "Nota": [
+                "Non incluímos como sinónimo “suicidio asistido” (EN: assisted suicide. ES: suicidio asistido. PT: suicídio assistido) porque esta denominación parece aludir a que se lle está a arrebatar a vida ao paciente, cando a “morte asistida” só se aplica en caso de que a morte do doente sexa"
             ]
         },
         "3228": {
@@ -71322,7 +71502,10 @@
             "Género": "m",
             "Página": 328,
             "Área": "Xenética",
-            "SIN.- mosaicismo celular VAR": [
+            "SIN": [
+                "mosaicismo celular"
+            ],
+            "VAR": [
                 "mosaico"
             ],
             "Tradução es": [
@@ -71400,8 +71583,8 @@
             "Tradução pt": [
                 "amostragem"
             ],
-            "Nota.- Evítese “mostreo”": [
-                ""
+            "Nota": [
+                "Evítese “mostreo”."
             ]
         },
         "3235": {
@@ -72240,8 +72423,8 @@
             "Tradução la": [
                 "musculus deltoideus"
             ],
-            "Nota.- Evítese “músculo deltoides”": [
-                ""
+            "Nota": [
+                "Evítese “músculo deltoides”."
             ]
         },
         "3278": {
@@ -73677,8 +73860,8 @@
             "Tradução la": [
                 "musculus masseter"
             ],
-            "Nota.- Evítese “músculo maseteiro” e “músculo maséter”": [
-                ""
+            "Nota": [
+                "Evítese “músculo maseteiro” e “músculo maséter”."
             ]
         },
         "3348": {
@@ -74421,7 +74604,10 @@
             "Género": "m",
             "Página": 346,
             "Área": "Anatomía",
-            "SIN.- músculo recto maior do abdome VAR": [
+            "SIN": [
+                "músculo recto maior do abdome"
+            ],
+            "VAR": [
                 "músculo recto abdominal"
             ],
             "Tradução es": [
@@ -75575,7 +75761,11 @@
             "Género": "f",
             "Página": 352,
             "Área": "Anatomía",
-            "SIN.- rinofarinxe; epifarinxe VAR": [
+            "SIN": [
+                "rinofarinxe",
+                "epifarinxe"
+            ],
+            "VAR": [
                 "farinxe nasal"
             ],
             "Tradução es": [
@@ -75632,8 +75822,9 @@
             "Género": "f",
             "Página": 352,
             "Área": "Semioloxía",
-            "SIN.- arcada; vasca [pop": [
-                "]"
+            "SIN": [
+                "arcada",
+                "vasca [pop.]"
             ],
             "Tradução es": [
                 "náusea"
@@ -76921,9 +77112,6 @@
             "Género": "m",
             "Página": 359,
             "Área": "Anatomía",
-            "@SIN": [
-                "II par cranial"
-            ],
             "Tradução es": [
                 "II par craneal",
                 "nervio óptico"
@@ -78325,8 +78513,8 @@
             "Tradução pt": [
                 "nosologia"
             ],
-            "Nota.- Designa a ‘parte da medicina que describe, diferencia e clasifica as enfermidades’. Cfr. con “patoloxía”": [
-                ""
+            "Nota": [
+                "Designa a ‘parte da medicina que describe, diferencia e clasifica as enfermidades’. Cfr. con “patoloxía”."
             ]
         },
         "3588": {
@@ -78487,8 +78675,8 @@
             "Tradução pt": [
                 "nucleotomia"
             ],
-            "Nota.- Designa a ‘extracción do material viscoso que contén o disco vertebral’. Cfr. con “discectomía”": [
-                ""
+            "Nota": [
+                "Designa a ‘extracción do material viscoso que contén o disco vertebral’. Cfr. con “discectomía”."
             ]
         },
         "3597": {
@@ -78749,8 +78937,8 @@
             "Género": "s",
             "Página": 369,
             "Área": "Organización sanitaria",
-            "SIN.- dentista [pop": [
-                "]"
+            "SIN": [
+                "dentista [pop.]"
             ],
             "Tradução es": [
                 "dentista [pop.]",
@@ -79081,9 +79269,6 @@
             "Género": "m",
             "Página": 370,
             "Área": "Semioloxía",
-            "@SIN": [
-                "oligoamnio"
-            ],
             "Tradução es": [
                 "oligoamnios",
                 "oligohidramnios"
@@ -80156,7 +80341,10 @@
             "Género": "m",
             "Página": 376,
             "Área": "Bioquímica",
-            "SIN.- O (sb) VAR": [
+            "SIN": [
+                "O (sb)"
+            ],
+            "VAR": [
                 "oxíxeno"
             ],
             "Tradução es": [
@@ -81243,7 +81431,10 @@
             "Género": "f",
             "Página": 381,
             "Área": "Patoloxías",
-            "SIN.- enfermidade de Miller VAR": [
+            "SIN": [
+                "enfermidade de Miller"
+            ],
+            "VAR": [
                 "osteomalacose"
             ],
             "Tradução es": [
@@ -81687,8 +81878,8 @@
             "Género": "s",
             "Página": 383,
             "Área": "Organización sanitaria",
-            "VAR.- otorrino [col": [
-                "]"
+            "VAR": [
+                "otorrino [col.]"
             ],
             "Tradução es": [
                 "otorrino [pop.]",
@@ -81882,8 +82073,8 @@
             "Tradução pt": [
                 "óvulo"
             ],
-            "Nota.- Designa a ‘célula sexual feminina’": [
-                ""
+            "Nota": [
+                "Designa a ‘célula sexual feminina’."
             ]
         },
         "3783": {
@@ -81906,8 +82097,8 @@
                 "óvulo",
                 "supositório vaginal"
             ],
-            "Nota.- Designa un ‘supositorio que se administra por vía vaxinal’": [
-                ""
+            "Nota": [
+                "Designa un ‘supositorio que se administra por vía vaxinal’."
             ]
         },
         "3784": {
@@ -82028,8 +82219,9 @@
             "Género": "m",
             "Página": 385,
             "Área": "Anatomía",
-            "SIN.- bóveda palatina (f); ceo da boca [pop": [
-                "]"
+            "SIN": [
+                "bóveda palatina (f)",
+                "ceo da boca [pop.]"
             ],
             "Tradução es": [
                 "bóveda palatina",
@@ -82185,8 +82377,10 @@
             "Género": "m",
             "Página": 386,
             "Área": "Semioloxía Patoloxías",
-            "SIN.- paroniquia (f); unlleiro [pop.]; colledizo [pop": [
-                "]"
+            "SIN": [
+                "paroniquia (f)",
+                "unlleiro [pop.]",
+                "colledizo [pop.]"
             ],
             "Tradução es": [
                 "panadizo",
@@ -82647,7 +82841,10 @@
             "Género": "f",
             "Página": 389,
             "Área": "Semioloxía Patoloxías",
-            "SIN.- perlesía [pop.] VAR": [
+            "SIN": [
+                "perlesía [pop.]"
+            ],
+            "VAR": [
                 "paralisia"
             ],
             "Tradução es": [
@@ -82834,8 +83031,8 @@
             "Tradução pt": [
                 "parasita"
             ],
-            "Nota.- Evítese “parásito”": [
-                ""
+            "Nota": [
+                "Evítese “parásito”."
             ]
         },
         "3838": {
@@ -83025,8 +83222,8 @@
             "Género": "m",
             "Página": 391,
             "Área": "Patoloxías",
-            "SIN.- párkinson [pop": [
-                "]",
+            "SIN": [
+                "párkinson [pop.]",
                 "trastornos parkinsonianos (pl)"
             ],
             "Tradução es": [
@@ -83079,8 +83276,9 @@
             "Género": "f",
             "Página": 391,
             "Área": "Patoloxías",
-            "SIN.- orellóns [pop.] (m pl); papeiras [pop": [
-                "] (f pl)"
+            "SIN": [
+                "orellóns [pop.] (m pl)",
+                "papeiras [pop.] (f pl)"
             ],
             "Tradução es": [
                 "paperas [pop.]",
@@ -83206,8 +83404,8 @@
             "Tradução pt": [
                 "patologia"
             ],
-            "Nota.- Designa a ‘parte da medicina que estuda as enfermidades, os seus síntomas e os cambios que provocan no organismo’. Cfr. con “nosoloxía”": [
-                ""
+            "Nota": [
+                "Designa a ‘parte da medicina que estuda as enfermidades, os seus síntomas e os cambios que provocan no organismo’. Cfr. con “nosoloxía”."
             ]
         },
         "3861": {
@@ -83489,8 +83687,8 @@
             "Género": "f",
             "Página": 394,
             "Área": "Patoloxías",
-            "SIN.- mal da rosa [arc": [
-                "] (m)"
+            "SIN": [
+                "mal da rosa [arc.] (m)"
             ],
             "Tradução es": [
                 "mal de la rosa [arc.]",
@@ -83523,8 +83721,8 @@
             "Género": "f",
             "Página": 394,
             "Área": "Anatomía",
-            "SIN.- bacinete (m) [arc": [
-                "]"
+            "SIN": [
+                "bacinete (m) [arc.]"
             ],
             "Tradução es": [
                 "bacinete [arc.]",
@@ -83905,8 +84103,8 @@
             "Tradução pt": [
                 "perfusão"
             ],
-            "Nota.- Designa o ‘proceso de subministración de nutrientes do sangue a unha rede de capilares’": [
-                ""
+            "Nota": [
+                "Designa o ‘proceso de subministración de nutrientes do sangue a unha rede de capilares’."
             ]
         },
         "3899": {
@@ -83923,8 +84121,8 @@
             "Tradução pt": [
                 "perfusão"
             ],
-            "Nota.- Designa unha ‘terapia pola que se lle inxecta a un doente un certo volume de líquido por vía intravenosa’": [
-                ""
+            "Nota": [
+                "Designa unha ‘terapia pola que se lle inxecta a un doente un certo volume de líquido por vía intravenosa’."
             ]
         },
         "3900": {
@@ -84126,8 +84324,8 @@
             "Tradução la": [
                 "perineum"
             ],
-            "Nota.- Evítese “periné”": [
-                ""
+            "Nota": [
+                "Evítese “periné”."
             ]
         },
         "3912": {
@@ -84262,8 +84460,11 @@
             "Género": "f",
             "Página": 398,
             "Área": "Patoloxías",
-            "SIN.- pericementite [arc.] VAR.- peridentite [arc": [
-                "]"
+            "SIN": [
+                "pericementite [arc.]"
+            ],
+            "VAR": [
+                "peridentite [arc.]"
             ],
             "Tradução es": [
                 "periodontitis"
@@ -84307,8 +84508,8 @@
             "Tradução la": [
                 "periosteum"
             ],
-            "Nota.- Evítese “periostio”": [
-                ""
+            "Nota": [
+                "Evítese “periostio”."
             ]
         },
         "3923": {
@@ -84363,8 +84564,8 @@
             "Tradução la": [
                 "peritoneum"
             ],
-            "Nota.- Evítese “peritoné”": [
-                ""
+            "Nota": [
+                "Evítese “peritoné”."
             ]
         },
         "3926": {
@@ -84575,8 +84776,8 @@
             "Género": "m",
             "Página": 399,
             "Área": "Anatomía",
-            "SIN.- colo [lit": [
-                "]"
+            "SIN": [
+                "colo [lit.]"
             ],
             "Tradução es": [
                 "cuello"
@@ -84983,8 +85184,8 @@
             "Tradução pt": [
                 "pílula"
             ],
-            "Nota.- Evítese “píldora”": [
-                ""
+            "Nota": [
+                "Evítese “píldora”."
             ]
         },
         "3960": {
@@ -85224,8 +85425,9 @@
             "Género": "f",
             "Página": 403,
             "Área": "Epidemioloxía",
-            "SIN.- pirámide poboacional estacionaria; pirámide madura [col": [
-                "]"
+            "SIN": [
+                "pirámide poboacional estacionaria",
+                "pirámide madura [col.]"
             ],
             "Tradução es": [
                 "pirámide de población estacionaria",
@@ -85243,7 +85445,10 @@
             "Género": "f",
             "Página": 403,
             "Área": "Epidemioloxía",
-            "SIN.- pirámide de idades VAR": [
+            "SIN": [
+                "pirámide de idades"
+            ],
+            "VAR": [
                 "pirámide de poboación"
             ],
             "Tradução es": [
@@ -85265,8 +85470,10 @@
             "Género": "f",
             "Página": 403,
             "Área": "Epidemioloxía",
-            "SIN.- pirámide poboacional progresiva; pirámide expansiva; pirámide nova [col": [
-                "]"
+            "SIN": [
+                "pirámide poboacional progresiva",
+                "pirámide expansiva",
+                "pirámide nova [col.]"
             ],
             "Tradução es": [
                 "pirámide de población expansiva",
@@ -85287,8 +85494,9 @@
             "Género": "f",
             "Página": 404,
             "Área": "Epidemioloxía",
-            "SIN.- pirámide poboacional regresiva; pirámide envellecida [col": [
-                "]"
+            "SIN": [
+                "pirámide poboacional regresiva",
+                "pirámide envellecida [col.]"
             ],
             "Tradução es": [
                 "pirámide de población regresiva",
@@ -85373,8 +85581,11 @@
             "Género": "f",
             "Página": 404,
             "Área": "Semioloxía",
-            "SIN.- acidez; acedume (m); acedía [pop.]; acía [pop": [
-                "]"
+            "SIN": [
+                "acidez",
+                "acedume (m)",
+                "acedía [pop.]",
+                "acía [pop.]"
             ],
             "Tradução es": [
                 "acidez",
@@ -85610,8 +85821,8 @@
                 "planta",
                 "planta pedis"
             ],
-            "Nota.- Evítese “pranta do pé”": [
-                ""
+            "Nota": [
+                "Evítese “pranta do pé”."
             ]
         },
         "3995": {
@@ -86071,7 +86282,10 @@
             "Género": "f",
             "Página": 408,
             "Área": "Terapéutica",
-            "SIN.- pulmonectomía VAR": [
+            "SIN": [
+                "pulmonectomía"
+            ],
+            "VAR": [
                 "pneumonectomía"
             ],
             "Tradução es": [
@@ -86984,8 +87198,8 @@
                 "portador",
                 "portador genético"
             ],
-            "Nota.- Designa o ‘individuo que posúe un trazo xenético recesivo ou inexpresado’": [
-                ""
+            "Nota": [
+                "Designa o ‘individuo que posúe un trazo xenético recesivo ou inexpresado’."
             ]
         },
         "4075": {
@@ -87002,8 +87216,8 @@
             "Tradução pt": [
                 "portador"
             ],
-            "Nota.- Designa o ‘individuo infectado de xermes que actúa como propagador dunha enfermidade’": [
-                ""
+            "Nota": [
+                "Designa o ‘individuo infectado de xermes que actúa como propagador dunha enfermidade’."
             ]
         },
         "4076": {
@@ -87069,8 +87283,8 @@
             "Tradução pt": [
                 "pós-parto"
             ],
-            "Nota.- Designa o ‘período de tempo que sucede inmediatamente ao parto’. Cfr. con “puerperio”": [
-                ""
+            "Nota": [
+                "Designa o ‘período de tempo que sucede inmediatamente ao parto’. Cfr. con “puerperio”."
             ]
         },
         "4080": {
@@ -87341,7 +87555,10 @@
             "Género": "f",
             "Página": 415,
             "Área": "Anatomía",
-            "SIN.- corda vocal falsa VAR": [
+            "SIN": [
+                "corda vocal falsa"
+            ],
+            "VAR": [
                 "prega vestibular"
             ],
             "Tradução es": [
@@ -87366,7 +87583,10 @@
             "Género": "f",
             "Página": 415,
             "Área": "Anatomía",
-            "SIN.- corda vocal verdadeira VAR": [
+            "SIN": [
+                "corda vocal verdadeira"
+            ],
+            "VAR": [
                 "prega vocal"
             ],
             "Tradução es": [
@@ -87546,8 +87766,9 @@
             "Género": "m",
             "Página": 416,
             "Área": "Medicina preventiva",
-            "SIN.- condón [pop.]; profiláctico [cult": [
-                "]"
+            "SIN": [
+                "condón [pop.]",
+                "profiláctico [cult.]"
             ],
             "Tradução es": [
                 "condón [pop.]",
@@ -87569,8 +87790,10 @@
             "Género": "f",
             "Página": 416,
             "Área": "Fisioloxía",
-            "SIN.- presión sanguínea; tensión arterial; tensión [pop": [
-                "]"
+            "SIN": [
+                "presión sanguínea",
+                "tensión arterial",
+                "tensión [pop.]"
             ],
             "Tradução es": [
                 "presión arterial",
@@ -88616,7 +88839,10 @@
             "Género": "f",
             "Página": 423,
             "Área": "Bioquímica Fisioloxía",
-            "SIN.- POMC (sg) VAR": [
+            "SIN": [
+                "POMC (sg)"
+            ],
+            "VAR": [
                 "pro-opiomelanocortina"
             ],
             "Tradução es": [
@@ -88871,8 +89097,9 @@
             "Género": "f",
             "Página": 424,
             "Área": "Bioquímica",
-            "SIN.- prótido (m) [arc.]; proteido (m) [arc": [
-                "]"
+            "SIN": [
+                "prótido (m) [arc.]",
+                "proteido (m) [arc.]"
             ],
             "Tradução es": [
                 "proteína"
@@ -89156,8 +89383,14 @@
             "Género": "m",
             "Página": 426,
             "Área": "Semioloxía",
-            "SIN.- comechón (f) [pop.]; comechume (f) [pop.]; VAR.- proído; comicio [pop": [
-                "]"
+            "SIN": [
+                "comechón (f) [pop.]",
+                "comechume (f) [pop.]",
+                ""
+            ],
+            "VAR": [
+                "proído",
+                "comicio [pop.]"
             ],
             "Tradução es": [
                 "comezón",
@@ -89685,8 +89918,8 @@
             "Tradução pt": [
                 "puerpério"
             ],
-            "Nota.- Designa o ‘período de tempo que transcorre desde o parto ata que os xenitais e o estado xeral da muller recuperan o seu estado anterior ao embarazo’. Cfr. con “posparto”": [
-                ""
+            "Nota": [
+                "Designa o ‘período de tempo que transcorre desde o parto ata que os xenitais e o estado xeral da muller recuperan o seu estado anterior ao embarazo’. Cfr. con “posparto”."
             ]
         },
         "4232": {
@@ -89794,8 +90027,8 @@
             "Tradução pt": [
                 "pulso"
             ],
-            "Nota.- Designa o ‘lugar onde se xuntan a man e o antebrazo’. Evítese “boneca” e “moneca”": [
-                ""
+            "Nota": [
+                "Designa o ‘lugar onde se xuntan a man e o antebrazo’. Evítese “boneca” e “moneca”."
             ]
         },
         "4238": {
@@ -89812,8 +90045,8 @@
             "Tradução pt": [
                 "pulso"
             ],
-            "Nota.- Designa a ‘sucesión das pulsacións arteriais’": [
-                ""
+            "Nota": [
+                "Designa a ‘sucesión das pulsacións arteriais’."
             ]
         },
         "4239": {
@@ -89867,8 +90100,8 @@
             "Tradução pt": [
                 "pulso paradoxal"
             ],
-            "Nota.- Evítese “pulso paradóxico”": [
-                ""
+            "Nota": [
+                "Evítese “pulso paradóxico”."
             ]
         },
         "4242": {
@@ -89929,8 +90162,9 @@
             "Género": "f",
             "Página": 430,
             "Área": "Anatomía",
-            "SIN.- meniña do ollo; santiña [pop": [
-                "]"
+            "SIN": [
+                "meniña do ollo",
+                "santiña [pop.]"
             ],
             "Tradução es": [
                 "pupila"
@@ -90002,7 +90236,10 @@
             "Género": "f",
             "Página": 430,
             "Área": "Patoloxías",
-            "SIN.- PTI (sg) VAR": [
+            "SIN": [
+                "PTI (sg)"
+            ],
+            "VAR": [
                 "púrpura trombocitopénica idiopática"
             ],
             "Tradução es": [
@@ -90025,7 +90262,10 @@
             "Género": "f",
             "Página": 431,
             "Área": "Patoloxías",
-            "SIN.- PTT (sg) VAR": [
+            "SIN": [
+                "PTT (sg)"
+            ],
+            "VAR": [
                 "púrpura trombocitopénica trombótica"
             ],
             "Tradução es": [
@@ -90192,7 +90432,10 @@
             "Género": "m",
             "Página": 431,
             "Área": "Anatomía",
-            "SIN.- mento [cult.] VAR": [
+            "SIN": [
+                "mento [cult.]"
+            ],
+            "VAR": [
                 "queixo"
             ],
             "Tradução es": [
@@ -90209,8 +90452,8 @@
             "Tradução la": [
                 "mentum"
             ],
-            "Nota.- Evítese “mentón”": [
-                ""
+            "Nota": [
+                "Evítese “mentón”."
             ]
         },
         "4261": {
@@ -90448,8 +90691,8 @@
             "Tradução pt": [
                 "quilomícron"
             ],
-            "Nota.- Evítese “quilomicrón”": [
-                ""
+            "Nota": [
+                "Evítese “quilomicrón”."
             ]
         },
         "4275": {
@@ -90553,7 +90796,10 @@
             "Género": "f",
             "Página": 433,
             "Área": "Fisioloxía",
-            "SIN.- quimiotactismo (m) VAR": [
+            "SIN": [
+                "quimiotactismo (m)"
+            ],
+            "VAR": [
                 "quimiotaxia"
             ],
             "Tradução es": [
@@ -90801,8 +91047,8 @@
             "Género": "f",
             "Página": 434,
             "Área": "Patoloxías",
-            "SIN.- hidrofobia [arc": [
-                "]"
+            "SIN": [
+                "hidrofobia [arc.]"
             ],
             "Tradução es": [
                 "hidrofobia [arc.]",
@@ -91238,7 +91484,10 @@
             "Género": "f",
             "Página": 437,
             "Área": "Anatomía",
-            "SIN.- pedículo pulmonar VAR": [
+            "SIN": [
+                "pedículo pulmonar"
+            ],
+            "VAR": [
                 "raíz do pulmón"
             ],
             "Tradução es": [
@@ -91283,7 +91532,10 @@
             "Género": "m",
             "Página": 437,
             "Área": "Epidemioloxía",
-            "SIN.- detección (f) VAR": [
+            "SIN": [
+                "detección (f)"
+            ],
+            "VAR": [
                 "rastreamento",
                 "rastrexamento"
             ],
@@ -91535,7 +91787,10 @@
             "Género": "f",
             "Página": 438,
             "Área": "Probas complementarias Xenética",
-            "SIN.- PCR (sg) VAR": [
+            "SIN": [
+                "PCR (sg)"
+            ],
+            "VAR": [
                 "reacción en cadea pola polimerase"
             ],
             "Tradução es": [
@@ -91925,9 +92180,6 @@
             "Género": "m",
             "Página": 440,
             "Área": "Semioloxía",
-            "@SIN": [
-                "reflexo palpebral"
-            ],
             "Tradução es": [
                 "reflejo corneal"
             ],
@@ -92608,7 +92860,12 @@
             "Género": "f",
             "Página": 444,
             "Área": "Probas complementarias",
-            "SIN.- RMN (sg); RM (sg); RNM (sg) VAR": [
+            "SIN": [
+                "RMN (sg)",
+                "RM (sg)",
+                "RNM (sg)"
+            ],
+            "VAR": [
                 "resonancia magnética",
                 "resonancia nuclear magnética"
             ],
@@ -92860,7 +93117,11 @@
             "Género": "m",
             "Página": 446,
             "Área": "Histoloxía",
-            "SIN.- retículo endoplasmático granular; RER (sg) VAR": [
+            "SIN": [
+                "retículo endoplasmático granular",
+                "RER (sg)"
+            ],
+            "VAR": [
                 "retículo endoplásmico rugoso"
             ],
             "Tradução es": [
@@ -93196,8 +93457,8 @@
             "Tradução la": [
                 "regio costalis"
             ],
-            "Nota.- Designa a ‘parte do tronco onde están as costelas’. Cfr. con “costas”": [
-                ""
+            "Nota": [
+                "Designa a ‘parte do tronco onde están as costelas’. Cfr. con “costas”."
             ]
         },
         "4434": {
@@ -93255,8 +93516,11 @@
             "Género": "f",
             "Página": 448,
             "Área": "Anatomía",
-            "SIN.- fosa ilíaca; ingua; éngoa; virilla [pop": [
-                "]"
+            "SIN": [
+                "fosa ilíaca",
+                "ingua",
+                "éngoa",
+                "virilla [pop.]"
             ],
             "Tradução es": [
                 "fosa ilíaca",
@@ -93283,8 +93547,12 @@
             "Género": "f",
             "Página": 448,
             "Área": "Anatomía",
-            "SIN.- rexión lateral do abdome; flanco (m); costado (m); illarga [pop.]; illó (m) [pop": [
-                "]"
+            "SIN": [
+                "rexión lateral do abdome",
+                "flanco (m)",
+                "costado (m)",
+                "illarga [pop.]",
+                "illó (m) [pop.]"
             ],
             "Tradução es": [
                 "costado",
@@ -93311,8 +93579,8 @@
             "Género": "f",
             "Página": 448,
             "Área": "Anatomía",
-            "SIN.- lombo (m) [pop": [
-                "]"
+            "SIN": [
+                "lombo (m) [pop.]"
             ],
             "Tradução es": [
                 "región lumbar"
@@ -93659,8 +93927,8 @@
             "Tradução pt": [
                 "risco atribuível"
             ],
-            "Nota.- Cfr": [
-                "con “fracción etiolóxica de risco”"
+            "Nota": [
+                "Cfr. con “fracción etiolóxica de risco”"
             ]
         },
         "4460": {
@@ -93734,7 +94002,10 @@
             "Género": "m",
             "Página": 450,
             "Área": "Semioloxía",
-            "SIN.- risa canina (f) VAR": [
+            "SIN": [
+                "risa canina (f)"
+            ],
+            "VAR": [
                 "risa sardónica (f)"
             ],
             "Tradução es": [
@@ -93869,8 +94140,8 @@
             "Género": "f",
             "Página": 451,
             "Área": "Semioloxía",
-            "SIN.- borreca [pop": [
-                "]"
+            "SIN": [
+                "borreca [pop.]"
             ],
             "Tradução es": [
                 "habón",
@@ -93994,8 +94265,8 @@
             "Género": "f",
             "Página": 452,
             "Área": "Anatomía",
-            "SIN.- patela [cult": [
-                "]"
+            "SIN": [
+                "patela [cult.]"
             ],
             "Tradução es": [
                 "rótula"
@@ -94340,8 +94611,9 @@
             "Género": "f",
             "Página": 453,
             "Área": "Fisioloxía",
-            "SIN.- cuspe (m) [pop.]; ptisma [cult": [
-                "]"
+            "SIN": [
+                "cuspe (m) [pop.]",
+                "ptisma [cult.]"
             ],
             "Tradução es": [
                 "saliva"
@@ -94622,8 +94894,9 @@
             "Género": "f",
             "Página": 455,
             "Área": "Patoloxías",
-            "SIN.- escabiose; raña [pop": [
-                "]"
+            "SIN": [
+                "escabiose",
+                "raña [pop.]"
             ],
             "Tradução es": [
                 "escabiosis",
@@ -94985,8 +95258,8 @@
             "Tradução pt": [
                 "sedativo"
             ],
-            "Nota.- Designa un ‘tipo de fármaco que calma a excitación e a dor’. Cfr. con “calmante” e “tranquilizante”": [
-                ""
+            "Nota": [
+                "Designa un ‘tipo de fármaco que calma a excitación e a dor’. Cfr. con “calmante” e “tranquilizante”."
             ]
         },
         "4539": {
@@ -95143,8 +95416,8 @@
             "Tradução pt": [
                 "semiologia"
             ],
-            "Nota.- Cfr. con “sintomatoloxía”": [
-                ""
+            "Nota": [
+                "Cfr. con “sintomatoloxía”."
             ]
         },
         "4548": {
@@ -95176,8 +95449,8 @@
             "Tradução pt": [
                 "sensibilidade"
             ],
-            "Nota.- Designa unha ‘forma de medida do grao de exactitude dunha proba’": [
-                ""
+            "Nota": [
+                "Designa unha ‘forma de medida do grao de exactitude dunha proba’."
             ]
         },
         "4550": {
@@ -95194,8 +95467,8 @@
             "Tradução pt": [
                 "sensibilidade"
             ],
-            "Nota.- Designa a ‘capacidade de percibir sensacións de orixe cutánea, profunda e interoceptiva’": [
-                ""
+            "Nota": [
+                "Designa a ‘capacidade de percibir sensacións de orixe cutánea, profunda e interoceptiva’."
             ]
         },
         "4551": {
@@ -96093,7 +96366,10 @@
             "Género": "f",
             "Página": 463,
             "Área": "Semioloxía",
-            "SIN.- agnosia simultánea VAR": [
+            "SIN": [
+                "agnosia simultánea"
+            ],
+            "VAR": [
                 "simultanagnosia"
             ],
             "Tradução es": [
@@ -96839,8 +97115,8 @@
             "Tradução pt": [
                 "síndrome de Down"
             ],
-            "Nota.- Esta doenza foi coñecida ata os anos 60 do pasado século co nome de “mongolismo”, pero hoxe o seu uso está desaconsellado polas connotacións pexorativas que comporta": [
-                ""
+            "Nota": [
+                "Esta doenza foi coñecida ata os anos 60 do pasado século co nome de “mongolismo”, pero hoxe o seu uso está desaconsellado polas connotacións pexorativas que comporta."
             ]
         },
         "4642": {
@@ -97216,7 +97492,10 @@
             "Género": "f",
             "Página": 470,
             "Área": "Patoloxías",
-            "SIN.- síndrome da canle carpiana VAR": [
+            "SIN": [
+                "síndrome da canle carpiana"
+            ],
+            "VAR": [
                 "síndrome do túnel do carpo"
             ],
             "Tradução es": [
@@ -97510,8 +97789,8 @@
             "Tradução pt": [
                 "sintomatologia"
             ],
-            "Nota.- Cfr. con “semioloxía”": [
-                ""
+            "Nota": [
+                "Cfr. con “semioloxía”."
             ]
         },
         "4681": {
@@ -98407,8 +98686,8 @@
             "Tradução pt": [
                 "sonambulismo"
             ],
-            "Nota.- Evítese “sonambulismo”": [
-                ""
+            "Nota": [
+                "Evítese “sonambulismo”."
             ]
         },
         "4728": {
@@ -98449,8 +98728,8 @@
                 "cateter",
                 "sonda"
             ],
-            "Nota.- Designa un ‘instrumento longo e fino, cilíndrico, empregado para explorar condutos do organismo, extraer ou introducir substancias, etc": [
-                "’"
+            "Nota": [
+                "Designa un ‘instrumento longo e fino, cilíndrico, empregado para explorar condutos do organismo, extraer ou introducir substancias, etc.’"
             ]
         },
         "4730": {
@@ -98467,8 +98746,8 @@
             "Tradução pt": [
                 "sonda"
             ],
-            "Nota.- Designa un ‘fragmento de ADN ou ARN que se emprega para determinados labores de detección no ámbito da xenética’": [
-                ""
+            "Nota": [
+                "Designa un ‘fragmento de ADN ou ARN que se emprega para determinados labores de detección no ámbito da xenética’."
             ]
         },
         "4731": {
@@ -98531,8 +98810,8 @@
             "Tradução pt": [
                 "soro"
             ],
-            "Nota.- Designa a ‘parte límpida dun líquido orgánico, separada por coagulación’": [
-                ""
+            "Nota": [
+                "Designa a ‘parte límpida dun líquido orgánico, separada por coagulación’."
             ]
         },
         "4735": {
@@ -99180,7 +99459,11 @@
             "Género": "f",
             "Página": 481,
             "Área": "Patoloxías",
-            "SIN.- mielopatía sifilítica; sífile da columna vertebral VAR": [
+            "SIN": [
+                "mielopatía sifilítica",
+                "sífile da columna vertebral"
+            ],
+            "VAR": [
                 "tabes dorsal"
             ],
             "Tradução es": [
@@ -99400,8 +99683,9 @@
             "Género": "m",
             "Página": 483,
             "Área": "Anatomía",
-            "SIN.- calcañar [pop.]; calcaño [pop": [
-                "]"
+            "SIN": [
+                "calcañar [pop.]",
+                "calcaño [pop.]"
             ],
             "Tradução es": [
                 "talón"
@@ -99415,8 +99699,8 @@
             "Tradução la": [
                 "calx"
             ],
-            "Nota.- Algúns dicionarios galegos diferencian entre “talón” e “calcañar” indicando que o segundo é a ‘parte inferior do talón’": [
-                ""
+            "Nota": [
+                "Algúns dicionarios galegos diferencian entre “talón” e “calcañar” indicando que o segundo é a ‘parte inferior do talón’."
             ]
         },
         "4784": {
@@ -99635,8 +99919,8 @@
             "Tradução pt": [
                 "taxa de fecundidade"
             ],
-            "Nota.- Cfr. con “taxa de fertilidade”": [
-                ""
+            "Nota": [
+                "Cfr. con “taxa de fertilidade”."
             ]
         },
         "4797": {
@@ -99653,8 +99937,8 @@
             "Tradução pt": [
                 "taxa de fertilidade"
             ],
-            "Nota.- Cfr. con “taxa de fecundidade”": [
-                ""
+            "Nota": [
+                "Cfr. con “taxa de fecundidade”."
             ]
         },
         "4798": {
@@ -99973,7 +100257,10 @@
             "Género": "m",
             "Página": 486,
             "Área": "Histoloxía",
-            "SIN.- tecido adenoide VAR": [
+            "SIN": [
+                "tecido adenoide"
+            ],
+            "VAR": [
                 "tecido linfático"
             ],
             "Tradução es": [
@@ -100116,8 +100403,9 @@
             "Género": "f",
             "Página": 487,
             "Área": "Anatomía",
-            "SIN.- sen; vidalla [pop": [
-                "]"
+            "SIN": [
+                "sen",
+                "vidalla [pop.]"
             ],
             "Tradução es": [
                 "sien"
@@ -100277,8 +100565,8 @@
             "Género": "m",
             "Página": 487,
             "Área": "Anatomía",
-            "SIN.- corda (f) [pop": [
-                "]"
+            "SIN": [
+                "corda (f) [pop.]"
             ],
             "Tradução es": [
                 "tendón"
@@ -100355,8 +100643,8 @@
             "Género": "f",
             "Página": 488,
             "Área": "Patoloxías",
-            "SIN.- solitaria [pop": [
-                "]"
+            "SIN": [
+                "solitaria [pop.]"
             ],
             "Tradução es": [
                 "solitaria [pop.]",
@@ -101472,8 +101760,8 @@
             "Tradução pt": [
                 "tétano"
             ],
-            "Nota.- Evítese “tétanos”": [
-                ""
+            "Nota": [
+                "Evítese “tétanos”."
             ]
         },
         "4898": {
@@ -101564,8 +101852,8 @@
             "Género": "f",
             "Página": 495,
             "Área": "Anatomía",
-            "SIN.- canela [pop": [
-                "]"
+            "SIN": [
+                "canela [pop.]"
             ],
             "Tradução es": [
                 "tibia"
@@ -102034,8 +102322,8 @@
             "Tradução pt": [
                 "tirotoxicose"
             ],
-            "Nota.- Designa o ‘efecto producido polo exceso de hormonas tiroides’. Cfr. con “hipertiroidismo”": [
-                ""
+            "Nota": [
+                "Designa o ‘efecto producido polo exceso de hormonas tiroides’. Cfr. con “hipertiroidismo”."
             ]
         },
         "4931": {
@@ -102252,7 +102540,11 @@
             "Género": "f",
             "Página": 499,
             "Área": "Terapéutica Probas complementarias",
-            "SIN.- pleurocentese; paracentese torácica VAR": [
+            "SIN": [
+                "pleurocentese",
+                "paracentese torácica"
+            ],
+            "VAR": [
                 "toracentese"
             ],
             "Tradução es": [
@@ -102337,8 +102629,8 @@
             "Tradução pt": [
                 "toracotomia"
             ],
-            "Nota.- Cfr. con “pleurotomía”": [
-                ""
+            "Nota": [
+                "Cfr. con “pleurotomía”."
             ]
         },
         "4947": {
@@ -102597,8 +102889,8 @@
             "Tradução pt": [
                 "trabalho cardíaco"
             ],
-            "Nota.- Cfr. con “gasto cardíaco”": [
-                ""
+            "Nota": [
+                "Cfr. con “gasto cardíaco”."
             ]
         },
         "4961": {
@@ -102700,7 +102992,11 @@
             "Género": "m",
             "Página": 502,
             "Área": "Anatomía",
-            "SIN.- cintiña olfactiva (f); cintiña olfactoria (f) VAR": [
+            "SIN": [
+                "cintiña olfactiva (f)",
+                "cintiña olfactoria (f)"
+            ],
+            "VAR": [
                 "tracto olfactivo"
             ],
             "Tradução es": [
@@ -102770,8 +103066,8 @@
             "Tradução pt": [
                 "tranquilizante"
             ],
-            "Nota.- Designa un ‘tipo de fármacos psicotrópicos que posúen efecto ansiolítico e sedante’. Cfr. con “sedante” e “calmante”": [
-                ""
+            "Nota": [
+                "Designa un ‘tipo de fármacos psicotrópicos que posúen efecto ansiolítico e sedante’. Cfr. con “sedante” e “calmante”."
             ]
         },
         "4970": {
@@ -103157,8 +103453,8 @@
             "Tradução la": [
                 "trachea"
             ],
-            "Nota.- Evítese “tráquea”": [
-                ""
+            "Nota": [
+                "Evítese “tráquea”."
             ]
         },
         "4994": {
@@ -103337,8 +103633,9 @@
             "Género": "m",
             "Página": 505,
             "Área": "Patoloxías",
-            "SIN.- depresión bipolar (f); psicose maniacodepresiva (f) [arc": [
-                "]"
+            "SIN": [
+                "depresión bipolar (f)",
+                "psicose maniacodepresiva (f) [arc.]"
             ],
             "Tradução es": [
                 "depresión bipolar",
@@ -103493,8 +103790,8 @@
                 "trauma psicológico",
                 "trauma psíquico"
             ],
-            "Nota.- Designa a ‘emoción intensa ou vivencia brusca que imposibilita a reacción, marcando a personalidade de quen a padece’. Cfr. con “traumatismo”": [
-                ""
+            "Nota": [
+                "Designa a ‘emoción intensa ou vivencia brusca que imposibilita a reacción, marcando a personalidade de quen a padece’. Cfr. con “traumatismo”."
             ]
         },
         "5013": {
@@ -103512,8 +103809,8 @@
             "Tradução pt": [
                 "traumatismo"
             ],
-            "Nota.- Designa a ‘lesión física producida por unha acción violenta ou pola introdución no corpo dunha substancia tóxica’. Cfr. con “trauma”": [
-                ""
+            "Nota": [
+                "Designa a ‘lesión física producida por unha acción violenta ou pola introdución no corpo dunha substancia tóxica’. Cfr. con “trauma”."
             ]
         },
         "5014": {
@@ -103879,7 +104176,10 @@
             "Género": "f",
             "Página": 508,
             "Área": "Bioquímica Fisioloxía",
-            "SIN.- trombase VAR": [
+            "SIN": [
+                "trombase"
+            ],
+            "VAR": [
                 "trombosina"
             ],
             "Tradução es": [
@@ -104431,8 +104731,8 @@
             "Género": "f",
             "Página": 512,
             "Área": "Patoloxías",
-            "SIN.- tise [arc": [
-                "]"
+            "SIN": [
+                "tise [arc.]"
             ],
             "Tradução es": [
                 "tisis [arc.]",
@@ -104617,8 +104917,10 @@
             "Género": "f",
             "Página": 512,
             "Área": "Semioloxía",
-            "SIN.- tumescencia; inchazón; inchazo (m) [pop": [
-                "]"
+            "SIN": [
+                "tumescencia",
+                "inchazón",
+                "inchazo (m) [pop.]"
             ],
             "Tradução es": [
                 "hinchazón",
@@ -104661,8 +104963,8 @@
                 "neoplasma",
                 "tumor"
             ],
-            "Nota.- Designa unha ‘neoformación progresiva de tecido, con multiplicación non controlada polos sistemas reguladores do organismo’. Cfr. con “cancro”": [
-                ""
+            "Nota": [
+                "Designa unha ‘neoformación progresiva de tecido, con multiplicación non controlada polos sistemas reguladores do organismo’. Cfr. con “cancro”."
             ]
         },
         "5075": {
@@ -105407,8 +105709,8 @@
             "Tradução pt": [
                 "urgência"
             ],
-            "Nota.- Designa a ‘aparición fortuíta en calquera lugar ou actividade dun problema de causa diversa e gravidade variable que xera a consciencia dunha necesidade inminente de atención’. Cfr. con “emerxencia”": [
-                ""
+            "Nota": [
+                "Designa a ‘aparición fortuíta en calquera lugar ou actividade dun problema de causa diversa e gravidade variable que xera a consciencia dunha necesidade inminente de atención’. Cfr. con “emerxencia”."
             ]
         },
         "5119": {
@@ -105503,8 +105805,11 @@
             "Género": "f",
             "Página": 517,
             "Área": "Anatomía",
-            "SIN.- úvula; campaíña [pop.]; pingallón (m) [pop.]; pinguelo (m) [pop": [
-                "]"
+            "SIN": [
+                "úvula",
+                "campaíña [pop.]",
+                "pingallón (m) [pop.]",
+                "pinguelo (m) [pop.]"
             ],
             "Tradução es": [
                 "campanilla [pop.]",
@@ -106037,8 +106342,8 @@
             "Género": "f",
             "Página": 520,
             "Área": "Patoloxías",
-            "SIN.- vexigas (pl) [pop": [
-                "]"
+            "SIN": [
+                "vexigas (pl) [pop.]"
             ],
             "Tradução es": [
                 "viruela"
@@ -106056,8 +106361,8 @@
             "Género": "f",
             "Página": 520,
             "Área": "Semioloxía",
-            "SIN.- hedra [pop": [
-                "]"
+            "SIN": [
+                "hedra [pop.]"
             ],
             "Tradução es": [
                 "variz"
@@ -106676,7 +106981,11 @@
             "Género": "f",
             "Página": 524,
             "Área": "Anatomía",
-            "SIN.- hemiácigos; hemiázigos VAR": [
+            "SIN": [
+                "hemiácigos",
+                "hemiázigos"
+            ],
+            "VAR": [
                 "vea hemiázigos"
             ],
             "Tradução es": [
@@ -107365,9 +107674,6 @@
             "Género": "f",
             "Página": 527,
             "Área": "Terapéutica",
-            "@SIN": [
-                "fleboclise"
-            ],
             "Tradução es": [
                 "fleboclisis",
                 "venoclisis"
@@ -107519,8 +107825,8 @@
             "Tradução pt": [
                 "ventosa"
             ],
-            "Nota.- Designa un ‘aparello empregado para a extracción do feto, que consiste nunha cazoliña de plástico que se adapta e se adhire á cabeza do bebé, axudándolle a descender pola canle do parto’": [
-                ""
+            "Nota": [
+                "Designa un ‘aparello empregado para a extracción do feto, que consiste nunha cazoliña de plástico que se adapta e se adhire á cabeza do bebé, axudándolle a descender pola canle do parto’."
             ]
         },
         "5230": {
@@ -107546,8 +107852,8 @@
             "Género": "m",
             "Página": 528,
             "Área": "Anatomía",
-            "SIN.- barriga (f) [pop": [
-                "]"
+            "SIN": [
+                "barriga (f) [pop.]"
             ],
             "Tradução es": [
                 "barriga",
@@ -107726,8 +108032,11 @@
             "Género": "f",
             "Página": 529,
             "Área": "Patoloxías",
-            "SIN.- espulla [pop.] VAR.- verruca [cult": [
-                "]"
+            "SIN": [
+                "espulla [pop.]"
+            ],
+            "VAR": [
+                "verruca [cult.]"
             ],
             "Tradução es": [
                 "verruca",
@@ -107876,8 +108185,8 @@
             "Tradução pt": [
                 "vertigem"
             ],
-            "Nota.- Evítese “vértigo”": [
-                ""
+            "Nota": [
+                "Evítese “vértigo”."
             ]
         },
         "5249": {
@@ -107915,8 +108224,8 @@
             "Tradução pt": [
                 "vesícula"
             ],
-            "Nota.- Designa ‘unha elevación circunscrita da pel, chea de líquido seroso, que pode chegar a medir 1 cm. de diámetro’": [
-                ""
+            "Nota": [
+                "Designa ‘unha elevación circunscrita da pel, chea de líquido seroso, que pode chegar a medir 1 cm. de diámetro’."
             ]
         },
         "5251": {
@@ -107933,8 +108242,8 @@
             "Tradução pt": [
                 "vesícula"
             ],
-            "Nota.- Designa un ‘orgánulo limitado por unha membrana unitaria’": [
-                ""
+            "Nota": [
+                "Designa un ‘orgánulo limitado por unha membrana unitaria’."
             ]
         },
         "5252": {
@@ -107942,8 +108251,9 @@
             "Género": "f",
             "Página": 531,
             "Área": "Anatomía",
-            "SIN.- vexiga biliar; vexiga do fel [pop": [
-                "]"
+            "SIN": [
+                "vexiga biliar",
+                "vexiga do fel [pop.]"
             ],
             "Tradução es": [
                 "vejiga biliar",
@@ -109448,8 +109758,8 @@
             "Tradução pt": [
                 "champô"
             ],
-            "Nota.- Evítese “champú”": [
-                ""
+            "Nota": [
+                "Evítese “champú”."
             ]
         },
         "5335": {
@@ -109537,8 +109847,8 @@
             "Género": "f",
             "Página": 539,
             "Área": "Patoloxías",
-            "SIN.- hemicrania [cult": [
-                "]"
+            "SIN": [
+                "hemicrania [cult.]"
             ],
             "Tradução es": [
                 "hemicránea",
@@ -109551,8 +109861,8 @@
             "Tradução pt": [
                 "enxaqueca"
             ],
-            "Nota.- Evítese “migraña”": [
-                ""
+            "Nota": [
+                "Evítese “migraña”."
             ]
         },
         "5341": {
@@ -109569,8 +109879,8 @@
             "Tradução pt": [
                 "xarope"
             ],
-            "Nota.- Evítese “xarabe”": [
-                ""
+            "Nota": [
+                "Evítese “xarabe”."
             ]
         },
         "5342": {
@@ -109636,8 +109946,10 @@
             "Género": "l",
             "Página": 540,
             "Área": "Termos xerais",
-            "SIN.- xemelgos uniovulares; xemelgos idénticos; xemelgos [pop": [
-                "]"
+            "SIN": [
+                "xemelgos uniovulares",
+                "xemelgos idénticos",
+                "xemelgos [pop.]"
             ],
             "Tradução es": [
                 "gemelos monocigóticos",
@@ -110098,7 +110410,10 @@
             "Género": "f",
             "Página": 543,
             "Área": "Patoloxías",
-            "SIN.- enfermidade de Kaposi VAR": [
+            "SIN": [
+                "enfermidade de Kaposi"
+            ],
+            "VAR": [
                 "xeroderma pigmentoso (m)"
             ],
             "Tradução es": [
@@ -110256,8 +110571,9 @@
             "Género": "f",
             "Página": 543,
             "Área": "Semioloxía",
-            "SIN.- corcova; chepa [pop": [
-                "]"
+            "SIN": [
+                "corcova",
+                "chepa [pop.]"
             ],
             "Tradução es": [
                 "corcova",
@@ -110373,8 +110689,8 @@
             "Tradução pt": [
                 "seringa"
             ],
-            "Nota.- Evítese “xeringa”": [
-                ""
+            "Nota": [
+                "Evítese “xeringa”."
             ]
         },
         "5389": {
