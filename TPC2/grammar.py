@@ -7,14 +7,15 @@ import sys
 grammar = '''
 //Regras Sintaticas
 start: entrada*
-entrada : LF completa (LF completa)*
-remissiva : WORD+ LF (at_conceito LF)*
-completa: ID (LF item)*
+entrada : (completa | remissiva) (completa | remissiva)*
+remissiva : "-" WORD+ (at_conceito)*
+completa: ID (item)*
 item: (lingua | at_conceito) 
-//LF lingua (LF lingua)*
+//LF lingua (lingua)*
 //Regras Lexicográficas
 ID: "0".."9"+ 
-WORD:/[^\s:;]+/
+//WORD:/[^\s:;]+/
+WORD: /[^\s:;]+( [^\s:;]+)*(?=;)?/
 DOISPONTOS:":"
 // LINHAB: "/" 
 //line: WORD+
@@ -27,7 +28,7 @@ AT_CONCEITO: ("SIN" | "VAR" | "Area" | "Vid" | "Nota")
 //Tratamento dos espaços em branco
 %import common.WS
 %ignore WS
-%import common.LF
+//%import common.LF
 '''
 # Soma da lista, encontrar o maior da lista
 class ExemploTransformer(Transformer):
@@ -82,19 +83,92 @@ p = Lark(grammar)
 
 
 tree = p.parse('''
+- A
+Vid : adenina
+
+1
+ga : á f
+Area : Anatomía
+es : ala
+en : wing
+pt : asa
+la : ala
+
+2
+ga : a termo a
+Area : Fisioloxía
+es : a término
+en : full term
+pt : a termo
+
 3
-ga : abdome sfdlksndf; asodibdsa
-Area : Anatomia
-SIN : rexion
-es : abdomen
-en : abdomen
-pt : abdome
+ga : abdome m
+Area : Anatomía
+SIN : rexión abdominal (f); panza [pop.]
+es : abdomen; panza [pop.]; región abdominal
+en : abdomen; abdominal region; gut [pop.]
+pt : abdome; abdômen [Br.]; abdómen [Pt.]; barriga [pop.]; região abdominal
 la : abdomen
+
+4
+ga : abdome agudo m
+Area : Semioloxía
+es : abdomen agudo
+en : acute abdomen
+pt : abdome agudo; abdômen agudo [Br.]; abdómen agudo [Pt.]
+
+- abdome distendido 
+Vid : abdome globuloso
+
+5
+ga : abdome en táboa m
+Area : Semioloxía
+SIN : ventre de madeira
+es : abdomen en tabla
+en : abdominal guarding
+pt : abdome em tábua; abdômen em tábua [Br.]; abdómen em tábua [Pt.]
+
+6
+ga : abdome globuloso m
+Area : Semioloxía
+SIN : abdome prominente; abdome distendido
+es : abdomen distendido; abdomen globuloso; abdomen prominente
+en : distended abdomen
+pt : abdome distendido; abdômen distendido [Br.]; abdómen distendido [Pt.]
+
+- abdome prominente 
+Vid : abdome globuloso
+
+- *abducción
+Vid : abdución
+
+7
+ga : abdución f
+Area : Fisioloxía Anatomía
+SIN : separación
+es : abducción; separación
+en : abduction
+pt : abdução; separação
+la : abductio
+Nota : Evítese “abducción”.
+
+- aberración cromosómica 
+Vid : anomalía cromosómica
+
+8
+ga : abertura inferior da pelve f
+Area : Anatomía
+SIN : estreito inferior da pelve (m)
+es : estrecho inferior de la pelvis
+en : pelvic outlet
+pt : abertura inferior da pelve; estreito inferior da pelve
+la : apertura pelvis inferior
+
 ''')
 
 print(tree.pretty())
-for element in tree.children:
-  print(element)
+# for element in tree.children:
+#   print(element)
 data = ExemploTransformer().transform(tree) # chamar o transformer para obter
 #print(data)
 

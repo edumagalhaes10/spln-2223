@@ -135,7 +135,7 @@ def normalize(txt):
 
     # txt = re.sub(r'\n(ga.*)\n.*?\n(es.*)\n', r'\1\t\2\n', txt, flags=re.DOTALL)
 
-    txt = re.sub(r'###R\s*(.*)',r'\1',txt)
+    txt = re.sub(r'###R\s*(.*)',r'- \1',txt)
 
     txt = re.sub(r'(.*)\.-(.*)',r'\1 :\2',txt)
     # txt = re.sub(r'(SIN)\.-(.*)',r'\1 : \2',txt)
