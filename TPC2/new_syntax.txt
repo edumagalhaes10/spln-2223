@@ -47976,4 +47976,3 @@ Area : Fisioloxía
 es : jugo pancreático
 en : pancreatic juice
 pt : suco pancreático
-
