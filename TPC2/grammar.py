@@ -15,7 +15,7 @@ item: (lingua | at_conceito)
 //Regras Lexicográficas
 ID: "0".."9"+ 
 //WORD:/[^\s:;]+/
-WORD: /[^\s:;]+( [^\s:;]+)*(?=;)?/
+WORD: /(?!\d)[^\s:;]+( [^\s:;]+)*(?=;)?/
 DOISPONTOS:":"
 // LINHAB: "/" 
 //line: WORD+
@@ -167,8 +167,8 @@ la : apertura pelvis inferior
 ''')
 
 print(tree.pretty())
-# for element in tree.children:
-#   print(element)
+for element in tree.children:
+  print(element)
 data = ExemploTransformer().transform(tree) # chamar o transformer para obter
 #print(data)
 
