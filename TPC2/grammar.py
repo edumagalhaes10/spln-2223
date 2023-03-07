@@ -14,11 +14,11 @@ item: (lingua | at_conceito)
 //LF lingua (LF lingua)*
 //Regras Lexicográficas
 ID: "0".."9"+ 
-WORD:/[^\s]+/
+WORD:/[^\s:;]+/
 DOISPONTOS:":"
 // LINHAB: "/" 
 //line: WORD+
-lingua: ID_LINGUA DOISPONTOS WORD+ (VIR WORD+)* 
+lingua: ID_LINGUA DOISPONTOS WORD+ (VIR WORD+)*
 VIR:";"
 at_conceito: AT_CONCEITO DOISPONTOS WORD+ (VIR WORD+)* 
 ID_LINGUA: ("es" | "ga" | "en" | "pt" | "la")
@@ -83,9 +83,9 @@ p = Lark(grammar)
 
 tree = p.parse('''
 3
-ga : abdome
+ga : abdome sfdlksndf; asodibdsa
 Area : Anatomia
-SIN : rexion aslda
+SIN : rexion
 es : abdomen
 en : abdomen
 pt : abdome
