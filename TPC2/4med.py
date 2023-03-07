@@ -137,6 +137,11 @@ def normalize(txt):
 
     txt = re.sub(r'###R\s*(.*)',r'\1',txt)
 
+    txt = re.sub(r'(.*)\.-(.*)',r'\1 :\2',txt)
+    # txt = re.sub(r'(SIN)\.-(.*)',r'\1 : \2',txt)
+    # txt = re.sub(r'(VAR)\.-(.*)',r'\1 : \2',txt)
+
+
     return txt
 
 
