@@ -9,5 +9,6 @@ Assim, após correr o ficheiro **4med.py**, obtemos um ficheiro **new_syntax.txt
 ## 2ª fase
 
 Nesta fase é pretendido definir um parser a partir da gramática abstrata.
-
-... Em progresso...
+Decidi utilizar um lark parser para reconhecer a linguagem.
+Para testar o parser, basta correr o ficheiro **grammar.py** que utiliza uma amostra de registos da linguagem (ficheiro **t.txt**).
+Contudo, ainda falta reconhecer os atributos de termo tais como se o termo é masculino ou feminino, se é popular, etc...
