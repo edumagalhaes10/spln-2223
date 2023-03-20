@@ -84,6 +84,12 @@ def join_frase(txt):
     return txt
 
 txt = join_frase(txt)
+
+def fix_titulos(txt):
+    txt = re.sub(r'(#.*)\s*(##.*)',r'\1\n\2\n', txt)
+    return txt
+
+txt = fix_titulos(txt)
  
 #print(arr_poemas)
 
