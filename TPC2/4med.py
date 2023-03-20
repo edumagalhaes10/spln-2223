@@ -2,7 +2,6 @@ import re
 import json
 import math
 
-from sqlalchemy import TEXT
 
 def remove_header_footer(txt):
     txt = re.sub(r'font="1">ocabulario.*', r'###', txt)

@@ -1,0 +1,90 @@
+#!/usr/bin/env python3
+
+import sys
+import fileinput
+import re
+
+def read_file():
+    txt = ""
+    for line in fileinput.input():
+        txt += line
+    return txt
+
+txt = read_file()
+
+
+# 0. Quebras de página (DONE)
+# 1. Separar pontuação das palavras (DONE)
+# 2. Marcar capítulos (DONE)
+# 3. Separar parágrafos de linhas pequenas (DONE)
+# 4. Juntar linhas da mesma frase (DONE)
+# 5. Uma frase por linha (DONE)
+# 6. Tratar poemas (DONE)
+
+
+# 2.
+def capitulos(txt):
+    capitulo = r'.*(CAP[ÍI]TULO \w+).*\n+(\w+)'
+    txt = re.sub(capitulo,r'\n# \1\n## \2', txt)
+    return txt
+
+txt = capitulos(txt)
+
+# 0.
+def quebras_pag(txt):
+    txt = re.sub(r'([a-z,;-])\n\n([a-z0-9])', r'\1\n\2', txt)
+    return txt
+
+txt = quebras_pag(txt)
+
+# 6.
+
+arr_poemas = []
+
+#guardar em array
+
+def save_poema_aux(poema):
+    arr_poemas.append(poema[1])
+    return f'__{len(arr_poemas)}__'
+
+def save_poema(txt):
+    poema = r'<poema>(.*?)</poema>'
+    txt = re.sub(poema, save_poema_aux, txt, flags=re.S)
+    return txt
+
+txt = save_poema(txt)
+
+# 1.
+def separa_pontuacao(txt):
+    txt = re.sub(r'(\w+)([,;\.–!\?])', r'\1 \2', txt)
+    txt = re.sub(r'(\w+)(-)', r'\1 \2 ', txt)
+    return txt
+
+txt = separa_pontuacao(txt)
+
+# 3.
+def paragrafos(txt):
+    txt = re.sub(r'(\.|!|\?)\s*(\n)', r'\1\n\2', txt)
+    return txt
+
+txt = paragrafos(txt)
+
+# 5.
+def frase_linha(txt):
+    txt = re.sub(r'(\.|!|\?)\s', r'\1\n', txt)
+    txt = re.sub(r'(Sr \.|Sra \.|Prof \.|Profa \.)\n', r'\1 ', txt)
+    return txt
+
+txt = frase_linha(txt)
+
+# 4.
+def join_frase(txt):
+    txt = re.sub(r'([^\.!\?\n])\n', r'\1 ', txt)
+    txt = re.sub(r'(\.\.\.)\n', r'\1 ', txt)
+    return txt
+
+txt = join_frase(txt)
+ 
+#print(arr_poemas)
+
+print(txt)
